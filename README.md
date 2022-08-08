@@ -1,1 +1,1 @@
-Exercícios desenvolvidos durante o curso da Trybe.
+Exercícios desenvolvidos durante todo o curso da Trybe.

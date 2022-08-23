@@ -32,9 +32,9 @@ let info2 = {
   nota: "O último MacPatinhas",
   recorrente: "Sim",
 };
-console.log(info['personagem'] + " e " + info2['personagem']);
-console.log(info['origem'] + " e " + info2['origem']);
-console.log(info['nota'] + " e " + info2['nota']);
-if (info['recorrente'] == "Sim" && info2['recorrente'] == "Sim") {
-    console.log("Ambos recorrentes");
+console.log(info["personagem"] + " e " + info2["personagem"]);
+console.log(info["origem"] + " e " + info2["origem"]);
+console.log(info["nota"] + " e " + info2["nota"]);
+if (info["recorrente"] == "Sim" && info2["recorrente"] == "Sim") {
+  console.log("Ambos recorrentes");
 }

@@ -30,3 +30,8 @@ leitor.livrosFavoritos[1] = {
   editora: "Rocco",
 };
 
+console.log("");
+console.log("Numero 8");
+console.log(
+  leitor["nome"] + " tem " + leitor.livrosFavoritos.length + " livros favoritos"
+);

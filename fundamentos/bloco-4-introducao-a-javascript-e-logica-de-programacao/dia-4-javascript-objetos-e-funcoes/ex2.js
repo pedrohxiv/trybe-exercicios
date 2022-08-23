@@ -2,11 +2,13 @@ let leitor = {
   nome: "Julia",
   sobrenome: "Pessoa",
   idade: 21,
-  livrosFavoritos: {
-    titulo: "O Pior Dia de Todos",
-    autor: "Daniela Kopsch",
-    editora: "Tordesilhas",
-  },
+  livrosFavoritos: [
+    {
+      titulo: "O Pior Dia de Todos",
+      autor: "Daniela Kopsch",
+      editora: "Tordesilhas",
+    },
+  ],
 };
 
 console.log("Numero 6");
@@ -15,6 +17,6 @@ console.log(
     leitor["nome"] +
     " " +
     leitor["sobrenome"] +
-    " se chama " +
-    leitor["livrosFavoritos"]["titulo"]
+    " se chama '" +
+    leitor['livrosFavoritos'][0]['titulo'] + "'"
 );

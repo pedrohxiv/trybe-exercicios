@@ -18,5 +18,15 @@ console.log(
     " " +
     leitor["sobrenome"] +
     " se chama '" +
-    leitor['livrosFavoritos'][0]['titulo'] + "'"
+    leitor["livrosFavoritos"][0]["titulo"] +
+    "'"
 );
+
+console.log("");
+console.log("Numero 7");
+leitor.livrosFavoritos[1] = {
+  titulo: "Harry Potter e o Prisioneiro de Azkaban",
+  autor: "JK Rowling",
+  editora: "Rocco",
+};
+

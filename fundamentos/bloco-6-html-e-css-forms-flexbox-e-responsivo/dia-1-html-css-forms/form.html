@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <link rel="stylesheet" href="style.css" />
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <header><h1>Header da página</h1></header>
+    <main>
+      <form>
+        <fieldset>
+          <label>Nome Completo: </label
+          ><input type="text" min="10" max="40" id="nomeCompleto" /><br />
+          <label>E-mail: </label
+          ><input type="email" min="10" max="50" id="email" /><br />
+          <label>Destino preferido:</label><br />
+          <input type="radio" id="opc1" name="destino" />
+          <label for="opc1">Cidade</label>
+
+          <input type="radio" id="opc2" name="destino" />
+          <label for="opc2">Campo</label>
+
+          <input type="radio" id="opc3" name="destino" />
+          <label for="opc3">Praia</label>
+          <input type="radio" id="opc4" name="destino" />
+          <label for="opc4">Montanhas</label><br />
+          <label for="textarea"
+            >Por que você deveria ser a pessoa desenvolvedora a ganhar o
+            concurso TrybeTrip?</label
+          ><br /><textarea
+            name=""
+            id="textarea"
+            cols="30"
+            rows="10"
+            maxlength="500"
+          ></textarea
+          ><br />
+          <label for="data">Qual a melhor data para realizar sua viagem?</label
+          ><br /><input id="data" type="date" /><br />
+          <input id="check1" type="checkbox" /><label for="check1"
+            >Gostaria de receber outras incríveis oportunidades oferecidas pela
+            Trybe?</label
+          ><br />
+          <input id="check2" type="checkbox" /><label for="check2"
+            >Concordo que imagens das minhas férias poderão ser usadas na
+            divulgação de concursos futuros.</label
+          >
+        </fieldset>
+        <button type="submit" id="btnEnviar">Enviar</button>
+        <button id="btnApagar">Apagar</button>
+        <button id="btnLimpar">Limpar</button>
+      </form>
+    </main>
+    <script src="script.js"></script>
+  </body>
+</html>

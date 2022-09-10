@@ -89,6 +89,22 @@
       document.querySelector('.main-content').appendChild(document.createElement('h3'));
       document.querySelector('.main-content').appendChild(document.createElement('h3'));
       document.querySelector('.main-content').appendChild(document.createElement('h3'));
+
+      //1
+      document.querySelector('h1').className = 'title';
+      //2
+      document.querySelector('h3:nth-of-type(1)').className = 'description';
+      document.querySelector('h3:nth-of-type(2)').className = 'description';
+      document.querySelector('h3:nth-of-type(3)').className = 'description';
+      //3
+      document.querySelector('.left-content').remove();
+      //4
+      document.querySelector('.right-content').style.marginRight = 'auto';
+      //5
+      document.querySelector('.center-content').style.backgroundColor = 'green';
+      //6
+      document.querySelector('.right-content ul li:nth-of-type(9)').remove();
+      document.querySelector('.right-content ul li:nth-last-child(1)').remove();
     </script>
   </body>
 </html>

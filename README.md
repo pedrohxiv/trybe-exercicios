@@ -6,22 +6,29 @@ Este repositório contém todas as atividades de aprendizagem desenvolvidas por 
 
 O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda introdução ao desenvolvimento de software, front-end, back-end, ciência da computação, engenharia de software, metodologias ágeis e habilidades comportamentais.
 
-## Fundamentos do Desenvolvimento Web :hourglass_flowing_sand:
+## [Fundamentos do Desenvolvimento Web](https://github.com/pedrohxiv/trybe-exercicios/tree/main/fundamentos) :hourglass_flowing_sand:
 
 ##### Bloco 1 - Unix & Bash
 
-- [ ] 1-3: _Unix & Shell- Part 1_
-- [ ] 1-4: _Unix & Shell- Part 2_
+- [ ] _Unix & Bash - Part 1_
+- [ ] _Unix & Bash - Part 2_
 
 ##### Bloco 2 - Git, GitHub e Internet
 
-- [ ] 2-1: _O que é e para que serve?_
-- [ ] 2-2: _Entendendo os comandos_
-- [ ] 2-3: _Internet - Entendendo como ela funciona_
+- [ ] _Git - O que é e para que serve_
+- [ ] _Git & GitHub - Entendendo os comandos_
+- [ ] _Internet - Entendendo como ela funciona_
 
 ##### Bloco 3 - Introdução à HTML e CSS
 
+- [ ] _HTML & CSS - Estruturas de página_
+- [ ] _HTML & CSS - Primeiros passos em CSS_
+- [ ] _HTML & CSS - Seletores e posicionamento_
+- [ ] _HTML Semântico_
+
 ##### Bloco 4 - Introdução à JavaScript e Lógica de Programação
+
+- [ ] _JavaScript - Primeiros passos_
 
 ##### Bloco 5 - JavaScript: DOM, Eventos e Web Storage
 

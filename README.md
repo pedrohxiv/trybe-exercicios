@@ -8,20 +8,20 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 ## [Fundamentos do Desenvolvimento Web](https://github.com/pedrohxiv/trybe-exercicios/tree/main/fundamentos) :hourglass_flowing_sand:
 
-##### Bloco 1 - Unix & Bash
+##### Unix & Bash
 
 - [ ] _Fundamentos do Desenvolvimento Web_
 - [ ] _Introdução - Unix & Shell_
 - [ ] _Unix & Bash - Part 1_
 - [ ] _Unix & Bash - Part 2_
 
-##### Bloco 2 - Git, GitHub e Internet
+##### Git, GitHub e Internet
 
 - [ ] _Git - O que é e para que serve_
 - [ ] _Git & GitHub - Entendendo os comandos_
 - [ ] _Internet - Entendendo como ela funciona_
 
-##### Bloco 3 - Introdução à HTML e CSS
+##### Introdução à HTML e CSS
 
 - [ ] _Introdução - HTML & CSS_
 - [ ] _HTML & CSS - Estruturas de página_

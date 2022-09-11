@@ -8,6 +8,8 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 ##### Bloco 1 - Unix & Bash
 
+- [ ] _Fundamentos do Desenvolvimento Web_
+- [ ] _Introdução - Unix & Shell_
 - [ ] _Unix & Bash - Part 1_
 - [ ] _Unix & Bash - Part 2_
 
@@ -19,17 +21,21 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 ##### Bloco 3 - Introdução à HTML e CSS
 
+- [ ] _Introdução - HTML & CSS_
 - [ ] _HTML & CSS - Estruturas de página_
 - [ ] _HTML & CSS - Primeiros passos em CSS_
 - [ ] _HTML & CSS - Seletores e posicionamento_
 - [ ] _HTML Semântico_
+- [ ] _Projeto - Lessons Learned_
 
 ##### Bloco 4 - Introdução à JavaScript e Lógica de Programação
 
+- [ ] _Introdução - JavaScript_
 - [ ] _JavaScript - Primeiros passos_
 - [ ] _JavaScript - Array e loop For_
 - [ ] _JavaScript - Lógica de Programação e Algoritmos_
 - [ ] _JavaScript - Objetos e funções_
+- [ ] _Projeto - Playground Functions_
 
 ##### Bloco 5 - JavaScript: DOM, Eventos e Web Storage
 
@@ -37,20 +43,29 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [ ] _JavaScript - Trabalhando com elementos_
 - [ ] _JavaScript - Eventos_
 - [ ] _JavaScript - Web Storage_
+- [ ] _Fundamentos - JavaScript - Projetos_
+- [ ] _Projeto - Arte com Pixels_
+- [ ] _(Bônus) Projeto - Lista de tarefas_
+- [ ] _(Bônus) Projeto - Meme Generator_
+- [ ] _(Bônus) Projeto - Adivinhe a Cor_
+- [ ] _(Bônus) Projeto - Carta Misteriosa_
 
 ##### Bloco 6 - HTML e CSS: Forms, Flexbox e Responsivo
 
 - [ ] _HTML & CSS - Forms_
 - [ ] _Bibliotecas JavaScript e Frameworks CSS_
+- [ ] _Introdução - CSS Flexbox_
 - [ ] _CSS Flexbox - Parte 1_
 - [ ] _CSS Flexbox - Parte 2_
 - [ ] _CSS Responsivo - Mobile First_
+- [ ] _Projeto - Trybewarts_
 
 ##### Bloco 7 - Introdução à JavaScript ES6 e Testes Unitários
 
 - [ ] _JavaScript ES6 - let, const, arrow functions e template literals_
 - [ ] _JavaScript ES6 - Fluxo de exceção e Objetos_
 - [ ] _Primeiros passos em Jest_
+- [ ] _Projeto - JavaScript Testes Unitários_
 
 ##### Bloco 8 - Higher Order Functions do JavaScript ES6
 
@@ -59,39 +74,48 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [ ] _JavaScript ES6 - Higher Order Functions - map e filter_
 - [ ] _JavaScript ES6 - Higher Order Functions - reduce_
 - [ ] _JavaScript ES6 - spread operator, parâmetro rest, destructuring e mais_
+- [ ] _Projeto - Zoo functions_
 
 ## Desenvolvimento Front-end :hourglass_flowing_sand:
 
 ##### Bloco 9 - JavaScript e Testes Assíncronos
 
+- [ ] _Introdução - Front-end_
 - [ ] _JavaScript Assíncrono e Callbacks_
 - [ ] _JavaScript Assíncrono - Fetch API e async/await_
 - [ ] _Jest - Testes Assíncronos_
+- [ ] _Projeto - Carrinho de Compras_
 
 ##### Bloco 10 - Introdução à React
 
+- [ ] _Introdução - React_
 - [ ] _'Hello, world!' no React!_
 - [ ] _Componentes React_
+- [ ] _Projeto - Sistema Solar_
 
 ##### Bloco 11 - Componentes com Estado, Eventos e Formulários com React
 
 - [ ] _Componentes com estado e eventos_
 - [ ] _Formulários no React_
+- [ ] _Projeto - Tryunfo_
 
 ##### Bloco 12 - Ciclo de Vida de Componentes e React Router
 
 - [ ] _Ciclo de vida de componentes_
 - [ ] _React Router_
+- [ ] _Projeto - TrybeTunes_
 
 ##### Bloco 13 - Metodologias Ágeis
 
 - [ ] _Metodologias Ágeis_
+- [ ] _Projeto - Frontend Online Store_
 
 ##### Bloco 14 - Testes automatizados com React Testing Library
 
 - [ ] _RTL - Primeiros passos_
 - [ ] _RTL - Mocks e Inputs_
 - [ ] _RTL - Testando React Router_
+- [ ] _Projeto - Testes em React_
 
 ##### Bloco 15 - Gerenciamento de estado com Redux
 
@@ -100,65 +124,90 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [ ] _Usando o Redux no React - Prática_
 - [ ] _Usando o Redux no React - Actions Assíncronas_
 - [ ] _Testes em React-Redux_
+- [ ] _Projeto - Trybe Wallet_
+
+##### Bloco 16 - Projeto Jogo de Trivia
+
+- [ ] _Projeto - Jogo de Trivia_
 
 ##### Bloco 17 - Context API e React Hooks
 
 - [ ] _Context API do React_
 - [ ] _React Hooks - useState e useContext_
 - [ ] _React Hooks - useEffect e Hooks customizados_
+- [ ] _Projeto - StarWars Datatable com Context API e Hooks_
+
+##### Bloco 18 - Projeto App de Receitas
+
+- [ ] _Projeto - App de Receitas_
 
 ## Desenvolvimento Back-end :hourglass_flowing_sand:
 
 ##### Bloco 19 - Docker: Utilizando Containers
 
+- [ ] _Introdução - Back-end_
 - [ ] _Utilizando Containers - Docker_
 - [ ] _Manipulando Imagens no Docker_
 - [ ] _Orquestrando Containers com Docker Compose_
+- [ ] _Projeto - Docker Todo-List_
 
 ##### Bloco 20 - Introdução à SQL
 
+- [ ] _Introdução - Bancos de dados relacionais_
 - [ ] _Banco de dados SQL_
 - [ ] _Encontrando dados em um banco de dados_
 - [ ] _Filtrando dados de forma específica_
 - [ ] _Manipulando tabelas_
+- [ ] _Projeto - All For One_
 
 ##### Bloco 21 - Funções SQL, JOINs e Normalização
 
 - [ ] _Funções mais usadas no SQL_
 - [ ] _Descomplicando JOINs_
 - [ ] _Transformando ideias em um modelo de banco de dados_
+- [ ] _Aula ao vivo + Projeto - One For All_
 
 ##### Bloco 22 - Introdução ao desenvolvimento Web com Node.js
 
+- [ ] _Intro - Node.js_
 - [ ] _Node.js: Runtime Assíncrono_
 - [ ] _Node.js: API REST com Express_
 - [ ] _Node.js: Testes de Integração_
 - [ ] _Express: Middlewares_
 - [ ] _Node.js: Express e Mysql_
+- [ ] _Atividades + Projeto - Talker Manager_
 
 ##### Bloco 23 - Arquitetura de Software: Model, Service e Controller
 
+- [ ] _Introdução - Arquitetura de Software_
 - [ ] _Arquitetura de Software: Camada Model_
 - [ ] _Arquitetura de Software: Camada Service_
 - [ ] _Arquitetura de Software: Camada Controller_
+- [ ] _Projeto - Store Manager_
 
 ##### Bloco 24 - Node.js: ORM e Autenticação
 
+- [ ] _Introdução - Node.js: ORM e Autenticação_
 - [ ] _ORM - Interface da aplicação com o banco de dados_
 - [ ] _ORM - Associations 1:1 e 1:N_
 - [ ] _ORM - Associations N:N e Transactions_
 - [ ] _JWT - (JSON Web Token)_
+- [ ] _Projeto - API de Blogs_
 
 ##### Bloco 25 - Deployment
 
+- [ ] _Introdução - Deploy_
 - [ ] _Infraestrutura - Deploy com Heroku_
 - [ ] _Deploy Docker & Heroku_
+- [ ] _Projeto - Stranger Things_
 
 ##### Bloco 26 - TypeScript
 
+- [ ] _Introdução - TypeScript_
 - [ ] _Introdução ao TypeScript_
 - [ ] _Tipagem Estática e Generics_
 - [ ] _Express com TypeScript_
+- [ ] _Projeto - Trybe Smith_
 
 ##### Bloco 27 - Programação Orientada a Objetos (POO) e SOLID
 
@@ -167,19 +216,31 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [ ] _Polimorfismo_
 - [ ] _SOLID - Introdução e Princípios S, O e D_
 - [ ] _SOLID - Princípios L e I_
+- [ ] _Projeto - Trybers and Dragons_
+
+##### Bloco 28 - Projeto - TFC - Trybe Futebol Clube
+
+- [ ] _Projeto - TFC - Trybe Futebol Clube_
 
 ##### Bloco 29 - Introdução ao MongoDB
 
+- [ ] _Introdução - NoSQL_
 - [ ] _MongoDB - Introdução_
 - [ ] _Filter Operators_
 - [ ] _Operadores de consulta_
 - [ ] _Updates Simples_
 - [ ] _Updates Complexos - Arrays_
+- [ ] _Projeto - Commerce_
 
 ##### Bloco 30 - MongoDB com Node.js e POO
 
 - [ ] _Mongoose e arquitetura MSC(camada Model)_
 - [ ] _Mongoose e arquitetura MSC(camada Service e Controller)_
+- [ ] _Projeto - Car Shop_
+
+##### Bloco 31 - Projeto - App de Delivery
+
+- [ ] _Projeto - App de Delivery_
 
 ##### Bloco 32 - MasterClass - VPS, CI/CD
 
@@ -190,27 +251,32 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 ##### Bloco 33 - Introdução à Python
 
+- [ ] _Introdução - Ciência da Computação_
 - [ ] _Aprendendo Python_
 - [ ] _Entrada e Saída de Dados_
 - [ ] _Testes_
+- [ ] _Projeto - Job Insights_
 
 ##### Bloco 34 - Padrões de Projeto
 
 - [ ] _P.O.O em Python_
 - [ ] _Padrões - Iterator, Adapter, Strategy_
 - [ ] _Padrões - Decorator, Observer, Factory_
+- [ ] _Projeto - Relatórios de Estoque_
 
 ##### Bloco 35 - Redes e Raspagem de Dados
 
 - [ ] _Arquitetura de redes, ferramentas e segurança_
 - [ ] _Raspagem de Dados_
 - [ ] _Outras Ferramentas de Raspagem de Dados_
+- [ ] _Projeto - Tech news_
 
 ##### Bloco 36 - Algoritmos
 
 - [ ] _Complexidade de Algoritmos_
 - [ ] _Recursividade e Estratégias para solução de problemas_
 - [ ] _Algoritmos de ordenação e busca_
+- [ ] _Projeto - Algoritmos_
 
 ##### Bloco 37 - Estrutura de Dados I: Arrays, Listas, Filas e Pilhas
 
@@ -218,8 +284,10 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [ ] _Arrays_
 - [ ] _Nó e Listas Encadeadas_
 - [ ] _Pilhas e Filas_
+- [ ] _Projeto - TING - Trybe Is Not Google_
 
 ##### Bloco 38 - Estrutura de Dados II: Hashmaps e Sets
 
 - [ ] _Hashmap e Dict_
 - [ ] _Set_
+- [ ] _Projeto - Restaurant Orders_

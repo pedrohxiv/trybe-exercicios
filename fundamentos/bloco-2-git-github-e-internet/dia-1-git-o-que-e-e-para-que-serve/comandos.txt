@@ -1,0 +1,51 @@
+1. mkdir pasta-git
+
+2. cd pasta-git
+
+3. git init
+
+4. code .
+
+5. touch README.md
+
+6. git add .
+git commit -m "Descreva a alteração realizada"
+
+7. git checkout -b adiciona-readme
+
+8. cat >> README.md
+alteracao
+git checkout main
+git merge adiciona-readme
+
+9. git checkout main
+git branch atualiza-readme
+
+10. git checkout atualiza-readme
+touch info.txt
+
+11. git add .
+git commit -m "Adicionado info.txt"
+
+12. cat >> info.txt
+Pedro Henrique
+
+13. git add .
+git commit -m "Alteração no info.txt"
+
+14. git branch adiciona-infos
+
+15. git checkout main
+git checkout adiciona-infos
+cat >> README.md
+O primeiro passo é ter uma pasta versionada e criar um estrutura inicial e fazemos isso utilizando o comando git init. O segundo passo é criar uma branch nova com o comando git checkout nome-da-branch ou git checkout -b nome-da-branch
+
+16. git add .
+git commit -m "Alteração no README.md"
+
+17. git checkout main
+git checkout atualiza-readme
+git merge adiciona-infos
+
+18. git checkout main
+git merge atualiza-readme

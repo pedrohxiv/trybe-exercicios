@@ -1,0 +1,34 @@
+1. cd unix_tests
+
+2. cat > skills2.txt
+Internet
+Unix
+Bash
+
+3. cat >> skills2.txt
+Item1
+Item2
+Item3
+Item4
+Item5
+
+4. cat skills2.txt | wc -l
+
+5. cat skills2.txt | sort | head -3 > top_skills.txt
+
+6. cat > phrases2.txt
+Frase1
+Frase2
+Frase3
+
+7. grep -c br phrases2.txt
+
+8. grep -vc br phrases2.txt
+
+9. cat >> phrases2.txt
+Brazil
+France
+
+10. cat phrases2.txt countries.txt > bunch_of_things.txt
+
+11. sort -o bunch_of_things_ordered.txt bunch_of_things.txt

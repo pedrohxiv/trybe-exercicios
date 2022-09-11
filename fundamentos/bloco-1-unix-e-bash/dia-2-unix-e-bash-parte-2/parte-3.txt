@@ -1,0 +1,25 @@
+1. ps
+
+2. sleep 30 &
+
+3. ps
+kill 17482
+
+4. sleep 30
+^C
+
+5. sleep 30 &
+
+6.  sleep 200
+^C
+sleep 100
+^C
+
+7. jobs
+kill %2
+
+8. bg %2
+
+9. kill %1
+kill %2
+kill %3

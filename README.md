@@ -109,4 +109,40 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 ## Desenvolvimento Back-end :hourglass_flowing_sand:
 
+##### Bloco 19 - Docker: Utilizando Containers
+
+##### Bloco 20 - Introdução à SQL
+
+##### Bloco 21 - Funções SQL, JOINs e Normalização
+
+##### Bloco 22 - Introdução ao desenvolvimento Web com Node.js
+
+##### Bloco 23 - Arquitetura de Software: Model, Service e Controller
+
+##### Bloco 24 - Node.js: ORM e Autenticação
+
+##### Bloco 25 - Deployment
+
+##### Bloco 26 - TypeScript
+
+##### Bloco 27 - Programação Orientada a Objetos (POO) e SOLID
+
+##### Bloco 29 - Introdução ao MongoDB
+
+##### Bloco 30 - MongoDB com Node.js e POO
+
+##### Bloco 32 - MasterClass - VPS, CI/CD
+
 ## Ciência da Computação :hourglass_flowing_sand:
+
+##### Bloco 33 - Introdução à Python
+
+##### Bloco 34 - Padrões de Projeto
+
+##### Bloco 35 - Redes e Raspagem de Dados
+
+##### Bloco 36 - Algoritmos
+
+##### Bloco 37 - Estrutura de Dados I: Arrays, Listas, Filas e Pilhas
+
+##### Bloco 38 - Estrutura de Dados II: Hashmaps e Sets

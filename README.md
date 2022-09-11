@@ -8,7 +8,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 ## [Fundamentos do Desenvolvimento Web](https://github.com/pedrohxiv/trybe-exercicios/tree/main/fundamentos) :hourglass_flowing_sand:
 
-### Unix & Bash
+##### Unix & Bash
 
 - [ ] _Fundamentos do Desenvolvimento Web_
 - [ ] _Introdução - Unix & Shell_

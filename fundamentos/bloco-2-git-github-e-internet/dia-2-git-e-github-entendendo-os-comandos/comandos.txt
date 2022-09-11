@@ -1,0 +1,9 @@
+git checkout -b exercicios/2.2
+
+git add .
+
+git commit -m 'alterações no README.md'
+
+git push
+
+git pull

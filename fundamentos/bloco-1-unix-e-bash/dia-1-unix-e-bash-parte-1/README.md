@@ -1,4 +1,4 @@
-# [Exercícios] Unix & Bash - Part 1
+# :pencil: Unix & Bash - Part 1
 
 ## Parte I - Criação de arquivos e diretórios
 

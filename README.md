@@ -111,38 +111,115 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 ##### Bloco 19 - Docker: Utilizando Containers
 
+- [ ] _Utilizando Containers - Docker_
+- [ ] _Manipulando Imagens no Docker_
+- [ ] _Orquestrando Containers com Docker Compose_
+
 ##### Bloco 20 - Introdução à SQL
+
+- [ ] _Banco de dados SQL_
+- [ ] _Encontrando dados em um banco de dados_
+- [ ] _Filtrando dados de forma específica_
+- [ ] _Manipulando tabelas_
 
 ##### Bloco 21 - Funções SQL, JOINs e Normalização
 
+- [ ] _Funções mais usadas no SQL_
+- [ ] _Descomplicando JOINs_
+- [ ] _Transformando ideias em um modelo de banco de dados_
+
 ##### Bloco 22 - Introdução ao desenvolvimento Web com Node.js
+
+- [ ] _Node.js: Runtime Assíncrono_
+- [ ] _Node.js: API REST com Express_
+- [ ] _Node.js: Testes de Integração_
+- [ ] _Express: Middlewares_
+- [ ] _Node.js: Express e Mysql_
 
 ##### Bloco 23 - Arquitetura de Software: Model, Service e Controller
 
+- [ ] _Arquitetura de Software: Camada Model_
+- [ ] _Arquitetura de Software: Camada Service_
+- [ ] _Arquitetura de Software: Camada Controller_
+
 ##### Bloco 24 - Node.js: ORM e Autenticação
+
+- [ ] _ORM - Interface da aplicação com o banco de dados_
+- [ ] _ORM - Associations 1:1 e 1:N_
+- [ ] _ORM - Associations N:N e Transactions_
+- [ ] _JWT - (JSON Web Token)_
 
 ##### Bloco 25 - Deployment
 
+- [ ] _Infraestrutura - Deploy com Heroku_
+- [ ] _Deploy Docker & Heroku_
+
 ##### Bloco 26 - TypeScript
+
+- [ ] _Introdução ao TypeScript_
+- [ ] _Tipagem Estática e Generics_
+- [ ] _Express com TypeScript_
 
 ##### Bloco 27 - Programação Orientada a Objetos (POO) e SOLID
 
+- [ ] _Introdução à Orientação a Objetos_
+- [ ] _Herança e Interfaces_
+- [ ] _Polimorfismo_
+- [ ] _SOLID - Introdução e Princípios S, O e D_
+- [ ] _SOLID - Princípios L e I_
+
 ##### Bloco 29 - Introdução ao MongoDB
+
+- [ ] _MongoDB - Introdução_
+- [ ] _Filter Operators_
+- [ ] _Operadores de consulta_
+- [ ] _Updates Simples_
+- [ ] _Updates Complexos - Arrays_
 
 ##### Bloco 30 - MongoDB com Node.js e POO
 
+- [ ] _Mongoose e arquitetura MSC(camada Model)_
+- [ ] _Mongoose e arquitetura MSC(camada Service e Controller)_
+
 ##### Bloco 32 - MasterClass - VPS, CI/CD
+
+- [ ] _Dia 1 - VPS_
+- [ ] _Dia 2_
 
 ## Ciência da Computação :hourglass_flowing_sand:
 
 ##### Bloco 33 - Introdução à Python
 
+- [ ] _Aprendendo Python_
+- [ ] _Entrada e Saída de Dados_
+- [ ] _Testes_
+
 ##### Bloco 34 - Padrões de Projeto
+
+- [ ] _P.O.O em Python_
+- [ ] _Padrões - Iterator, Adapter, Strategy_
+- [ ] _Padrões - Decorator, Observer, Factory_
 
 ##### Bloco 35 - Redes e Raspagem de Dados
 
+- [ ] _Arquitetura de redes, ferramentas e segurança_
+- [ ] _Raspagem de Dados_
+- [ ] _Outras Ferramentas de Raspagem de Dados_
+
 ##### Bloco 36 - Algoritmos
+
+- [ ] _Complexidade de Algoritmos_
+- [ ] _Recursividade e Estratégias para solução de problemas_
+- [ ] _Algoritmos de ordenação e busca_
 
 ##### Bloco 37 - Estrutura de Dados I: Arrays, Listas, Filas e Pilhas
 
+- [ ] _Arquitetura de Computadores_
+- [ ] _Arrays_
+- [ ] _Nó e Listas Encadeadas_
+- [ ] _Pilhas e Filas_
+
 ##### Bloco 38 - Estrutura de Dados II: Hashmaps e Sets
+
+- [ ] _Hashmap e Dict_
+- [ ] _Set_

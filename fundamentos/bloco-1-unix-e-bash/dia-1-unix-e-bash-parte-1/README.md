@@ -1,4 +1,4 @@
-# DIA 1
+# [Exercícios] Unix & Bash - Part 1
 
 ## Parte I - Criação de arquivos e diretórios
 

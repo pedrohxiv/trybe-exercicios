@@ -1,4 +1,4 @@
-# :pencil: Unix & Bash - Part 1
+# :pencil: Unix & Bash - Parte 1
 
 O objetivo dos exercícios desse dia foi colocar em prática o que havia aprendido sobre p funcionamento do Unix e como interagir com ele através do terminal, utilizando o Bash. Para isso deveria a partir dos comandos abaixo, executar comandos no terminal para navegar entre diretórios, criar e manipular arquivos e diretórios e executar comandos no terminal para realizar buscas.
 

@@ -62,6 +62,51 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 ## Desenvolvimento Front-end :hourglass_flowing_sand:
 
+##### Bloco 9 - JavaScript e Testes Assíncronos
+
+- [ ] _JavaScript Assíncrono e Callbacks_
+- [ ] _JavaScript Assíncrono - Fetch API e async/await_
+- [ ] _Jest - Testes Assíncronos_
+
+##### Bloco 10 - Introdução à React
+
+- [ ] _'Hello, world!' no React!_
+- [ ] _Componentes React_
+
+##### Bloco 11 - Componentes com Estado, Eventos e Formulários com React
+
+- [ ] _Componentes com estado e eventos_
+- [ ] _Formulários no React_
+
+##### Bloco 12 - Ciclo de Vida de Componentes e React Router
+
+- [ ] _Ciclo de vida de componentes_
+- [ ] _React Router_
+
+##### Bloco 13 - Metodologias Ágeis
+
+- [ ] _Metodologias Ágeis_
+
+##### Bloco 14 - Testes automatizados com React Testing Library
+
+- [ ] _RTL - Primeiros passos_
+- [ ] _RTL - Mocks e Inputs_
+- [ ] _RTL - Testando React Router_
+
+##### Bloco 15 - Gerenciamento de estado com Redux
+
+- [ ] _Introdução ao Redux - O estado global da aplicação_
+- [ ] _Usando o Redux no React_
+- [ ] _Usando o Redux no React - Prática_
+- [ ] _Usando o Redux no React - Actions Assíncronas_
+- [ ] _Testes em React-Redux_
+
+##### Bloco 17 - Context API e React Hooks
+
+- [ ] _Context API do React_
+- [ ] _React Hooks - useState e useContext_
+- [ ] _React Hooks - useEffect e Hooks customizados_
+
 ## Desenvolvimento Back-end :hourglass_flowing_sand:
 
 ## Ciência da Computação :hourglass_flowing_sand:

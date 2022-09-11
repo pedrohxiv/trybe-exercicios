@@ -30,7 +30,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [ ] _HTML Semântico_
 - [ ] _Projeto - Lessons Learned_
 
-##### Bloco 4 - Introdução à JavaScript e Lógica de Programação
+##### Introdução à JavaScript e Lógica de Programação
 
 - [ ] _Introdução - JavaScript_
 - [ ] _JavaScript - Primeiros passos_
@@ -39,7 +39,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [ ] _JavaScript - Objetos e funções_
 - [ ] _Projeto - Playground Functions_
 
-##### Bloco 5 - JavaScript: DOM, Eventos e Web Storage
+##### JavaScript: DOM, Eventos e Web Storage
 
 - [ ] _JavaScript - DOM e seletores_
 - [ ] _JavaScript - Trabalhando com elementos_
@@ -52,7 +52,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [ ] _(Bônus) Projeto - Adivinhe a Cor_
 - [ ] _(Bônus) Projeto - Carta Misteriosa_
 
-##### Bloco 6 - HTML e CSS: Forms, Flexbox e Responsivo
+##### HTML e CSS: Forms, Flexbox e Responsivo
 
 - [ ] _HTML & CSS - Forms_
 - [ ] _Bibliotecas JavaScript e Frameworks CSS_
@@ -62,14 +62,14 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [ ] _CSS Responsivo - Mobile First_
 - [ ] _Projeto - Trybewarts_
 
-##### Bloco 7 - Introdução à JavaScript ES6 e Testes Unitários
+##### Introdução à JavaScript ES6 e Testes Unitários
 
 - [ ] _JavaScript ES6 - let, const, arrow functions e template literals_
 - [ ] _JavaScript ES6 - Fluxo de exceção e Objetos_
 - [ ] _Primeiros passos em Jest_
 - [ ] _Projeto - JavaScript Testes Unitários_
 
-##### Bloco 8 - Higher Order Functions do JavaScript ES6
+##### Higher Order Functions do JavaScript ES6
 
 - [ ] _JavaScript ES6 - Introdução a Higher Order Functions_
 - [ ] _JavaScript ES6 - Higher Order Functions - forEach, find, some, every, sort_
@@ -80,7 +80,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 ## Desenvolvimento Front-end :hourglass_flowing_sand:
 
-##### Bloco 9 - JavaScript e Testes Assíncronos
+##### JavaScript e Testes Assíncronos
 
 - [ ] _Introdução - Front-end_
 - [ ] _JavaScript Assíncrono e Callbacks_
@@ -88,38 +88,38 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [ ] _Jest - Testes Assíncronos_
 - [ ] _Projeto - Carrinho de Compras_
 
-##### Bloco 10 - Introdução à React
+##### Introdução à React
 
 - [ ] _Introdução - React_
 - [ ] _'Hello, world!' no React!_
 - [ ] _Componentes React_
 - [ ] _Projeto - Sistema Solar_
 
-##### Bloco 11 - Componentes com Estado, Eventos e Formulários com React
+##### Componentes com Estado, Eventos e Formulários com React
 
 - [ ] _Componentes com estado e eventos_
 - [ ] _Formulários no React_
 - [ ] _Projeto - Tryunfo_
 
-##### Bloco 12 - Ciclo de Vida de Componentes e React Router
+##### Ciclo de Vida de Componentes e React Router
 
 - [ ] _Ciclo de vida de componentes_
 - [ ] _React Router_
 - [ ] _Projeto - TrybeTunes_
 
-##### Bloco 13 - Metodologias Ágeis
+##### Metodologias Ágeis
 
 - [ ] _Metodologias Ágeis_
 - [ ] _Projeto - Frontend Online Store_
 
-##### Bloco 14 - Testes automatizados com React Testing Library
+##### Testes automatizados com React Testing Library
 
 - [ ] _RTL - Primeiros passos_
 - [ ] _RTL - Mocks e Inputs_
 - [ ] _RTL - Testando React Router_
 - [ ] _Projeto - Testes em React_
 
-##### Bloco 15 - Gerenciamento de estado com Redux
+##### Gerenciamento de estado com Redux
 
 - [ ] _Introdução ao Redux - O estado global da aplicação_
 - [ ] _Usando o Redux no React_
@@ -128,24 +128,24 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [ ] _Testes em React-Redux_
 - [ ] _Projeto - Trybe Wallet_
 
-##### Bloco 16 - Projeto Jogo de Trivia
+##### Projeto Jogo de Trivia
 
 - [ ] _Projeto - Jogo de Trivia_
 
-##### Bloco 17 - Context API e React Hooks
+##### Context API e React Hooks
 
 - [ ] _Context API do React_
 - [ ] _React Hooks - useState e useContext_
 - [ ] _React Hooks - useEffect e Hooks customizados_
 - [ ] _Projeto - StarWars Datatable com Context API e Hooks_
 
-##### Bloco 18 - Projeto App de Receitas
+##### Projeto App de Receitas
 
 - [ ] _Projeto - App de Receitas_
 
 ## Desenvolvimento Back-end :hourglass_flowing_sand:
 
-##### Bloco 19 - Docker: Utilizando Containers
+##### Docker: Utilizando Containers
 
 - [ ] _Introdução - Back-end_
 - [ ] _Utilizando Containers - Docker_
@@ -153,7 +153,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [ ] _Orquestrando Containers com Docker Compose_
 - [ ] _Projeto - Docker Todo-List_
 
-##### Bloco 20 - Introdução à SQL
+##### Introdução à SQL
 
 - [ ] _Introdução - Bancos de dados relacionais_
 - [ ] _Banco de dados SQL_
@@ -162,14 +162,14 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [ ] _Manipulando tabelas_
 - [ ] _Projeto - All For One_
 
-##### Bloco 21 - Funções SQL, JOINs e Normalização
+##### Funções SQL, JOINs e Normalização
 
 - [ ] _Funções mais usadas no SQL_
 - [ ] _Descomplicando JOINs_
 - [ ] _Transformando ideias em um modelo de banco de dados_
 - [ ] _Aula ao vivo + Projeto - One For All_
 
-##### Bloco 22 - Introdução ao desenvolvimento Web com Node.js
+##### Introdução ao desenvolvimento Web com Node.js
 
 - [ ] _Intro - Node.js_
 - [ ] _Node.js: Runtime Assíncrono_
@@ -179,7 +179,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [ ] _Node.js: Express e Mysql_
 - [ ] _Atividades + Projeto - Talker Manager_
 
-##### Bloco 23 - Arquitetura de Software: Model, Service e Controller
+##### Arquitetura de Software: Model, Service e Controller
 
 - [ ] _Introdução - Arquitetura de Software_
 - [ ] _Arquitetura de Software: Camada Model_
@@ -187,7 +187,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [ ] _Arquitetura de Software: Camada Controller_
 - [ ] _Projeto - Store Manager_
 
-##### Bloco 24 - Node.js: ORM e Autenticação
+##### Node.js: ORM e Autenticação
 
 - [ ] _Introdução - Node.js: ORM e Autenticação_
 - [ ] _ORM - Interface da aplicação com o banco de dados_
@@ -196,14 +196,14 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [ ] _JWT - (JSON Web Token)_
 - [ ] _Projeto - API de Blogs_
 
-##### Bloco 25 - Deployment
+##### Deployment
 
 - [ ] _Introdução - Deploy_
 - [ ] _Infraestrutura - Deploy com Heroku_
 - [ ] _Deploy Docker & Heroku_
 - [ ] _Projeto - Stranger Things_
 
-##### Bloco 26 - TypeScript
+##### TypeScript
 
 - [ ] _Introdução - TypeScript_
 - [ ] _Introdução ao TypeScript_
@@ -211,7 +211,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [ ] _Express com TypeScript_
 - [ ] _Projeto - Trybe Smith_
 
-##### Bloco 27 - Programação Orientada a Objetos (POO) e SOLID
+##### Programação Orientada a Objetos (POO) e SOLID
 
 - [ ] _Introdução à Orientação a Objetos_
 - [ ] _Herança e Interfaces_
@@ -220,11 +220,11 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [ ] _SOLID - Princípios L e I_
 - [ ] _Projeto - Trybers and Dragons_
 
-##### Bloco 28 - Projeto - TFC - Trybe Futebol Clube
+##### Projeto - TFC - Trybe Futebol Clube
 
 - [ ] _Projeto - TFC - Trybe Futebol Clube_
 
-##### Bloco 29 - Introdução ao MongoDB
+##### Introdução ao MongoDB
 
 - [ ] _Introdução - NoSQL_
 - [ ] _MongoDB - Introdução_
@@ -234,24 +234,24 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [ ] _Updates Complexos - Arrays_
 - [ ] _Projeto - Commerce_
 
-##### Bloco 30 - MongoDB com Node.js e POO
+##### MongoDB com Node.js e POO
 
 - [ ] _Mongoose e arquitetura MSC(camada Model)_
 - [ ] _Mongoose e arquitetura MSC(camada Service e Controller)_
 - [ ] _Projeto - Car Shop_
 
-##### Bloco 31 - Projeto - App de Delivery
+##### Projeto - App de Delivery
 
 - [ ] _Projeto - App de Delivery_
 
-##### Bloco 32 - MasterClass - VPS, CI/CD
+##### MasterClass - VPS, CI/CD
 
 - [ ] _Dia 1 - VPS_
 - [ ] _Dia 2_
 
 ## Ciência da Computação :hourglass_flowing_sand:
 
-##### Bloco 33 - Introdução à Python
+##### Introdução à Python
 
 - [ ] _Introdução - Ciência da Computação_
 - [ ] _Aprendendo Python_
@@ -259,28 +259,28 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [ ] _Testes_
 - [ ] _Projeto - Job Insights_
 
-##### Bloco 34 - Padrões de Projeto
+##### Padrões de Projeto
 
 - [ ] _P.O.O em Python_
 - [ ] _Padrões - Iterator, Adapter, Strategy_
 - [ ] _Padrões - Decorator, Observer, Factory_
 - [ ] _Projeto - Relatórios de Estoque_
 
-##### Bloco 35 - Redes e Raspagem de Dados
+##### Redes e Raspagem de Dados
 
 - [ ] _Arquitetura de redes, ferramentas e segurança_
 - [ ] _Raspagem de Dados_
 - [ ] _Outras Ferramentas de Raspagem de Dados_
 - [ ] _Projeto - Tech news_
 
-##### Bloco 36 - Algoritmos
+##### Algoritmos
 
 - [ ] _Complexidade de Algoritmos_
 - [ ] _Recursividade e Estratégias para solução de problemas_
 - [ ] _Algoritmos de ordenação e busca_
 - [ ] _Projeto - Algoritmos_
 
-##### Bloco 37 - Estrutura de Dados I: Arrays, Listas, Filas e Pilhas
+##### Estrutura de Dados I: Arrays, Listas, Filas e Pilhas
 
 - [ ] _Arquitetura de Computadores_
 - [ ] _Arrays_
@@ -288,7 +288,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [ ] _Pilhas e Filas_
 - [ ] _Projeto - TING - Trybe Is Not Google_
 
-##### Bloco 38 - Estrutura de Dados II: Hashmaps e Sets
+##### Estrutura de Dados II: Hashmaps e Sets
 
 - [ ] _Hashmap e Dict_
 - [ ] _Set_

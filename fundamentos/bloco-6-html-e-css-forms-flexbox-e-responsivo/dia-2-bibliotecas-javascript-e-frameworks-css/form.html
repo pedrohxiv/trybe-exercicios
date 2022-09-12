@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <link
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css"
+      rel="stylesheet"
+    />
+    <link
+      href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap"
+      rel="stylesheet"
+    />
+    <link
+      href="https://cdnjs.cloudflare.com/ajax/libs/mdb-ui-kit/5.0.0/mdb.min.css"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="style.css" />
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>TrybeTrip</title>
+  </head>
+  <body class="d-flex justify-content-center my-4">
+    <main>
+      <h1 class="mb-4">Concurso TrybeTrip</h1>
+      <form>
+        <fieldset>
+          <div class="form-outline mb-4">
+            <input
+              class="form-control"
+              type="text"
+              min="10"
+              max="40"
+              id="nomeCompleto"
+            />
+            <label class="form-label" for="nomeCompleto">Nome Completo</label>
+          </div>
+          <div class="form-outline mb-4">
+            <input
+              class="form-control"
+              type="email"
+              min="10"
+              max="50"
+              id="email"
+            /><label class="form-label" for="email">E-mail</label>
+          </div>
+          <p>Destino preferido:</p>
+          <div class="form-check form-check-inline">
+            <input
+              class="form-check-input"
+              type="radio"
+              id="opc1"
+              name="destino"
+            />
+            <label class="form-check-label" for="opc1">Cidade</label>
+          </div>
+          <div class="form-check form-check-inline">
+            <input
+              class="form-check-input"
+              type="radio"
+              id="opc2"
+              name="destino"
+            />
+            <label class="form-check-label" for="opc2">Campo</label>
+          </div>
+          <div class="form-check form-check-inline">
+            <input
+              class="form-check-input"
+              type="radio"
+              id="opc3"
+              name="destino"
+            />
+            <label class="form-check-label" for="opc3">Praia</label>
+          </div>
+          <div class="form-check form-check-inline">
+            <input
+              class="form-check-input"
+              type="radio"
+              id="opc4"
+              name="destino"
+            />
+            <label class="form-check-label" for="opc4">Montanhas</label>
+          </div>
+          <div class="form-outline my-4">
+            <textarea
+              class="form-control"
+              id="textarea"
+              cols="30"
+              rows="10"
+              maxlength="500"
+            ></textarea>
+            <label class="form-label" for="textarea"
+              >Por que você deveria ser a pessoa desenvolvedora a ganhar o
+              concurso TrybeTrip?</label
+            >
+          </div>
+          <div class="form-outline mb-4">
+            <input class="form-control" id="data" type="date" />
+            <label class="form-label" for="data"
+              >Qual a melhor data para realizar sua viagem?</label
+            >
+          </div>
+          <div class="form-check d-flex justify-content-start">
+            <input class="form-check-input" id="check1" type="checkbox" /><label
+              class="form-check-label"
+              for="check1"
+              >Gostaria de receber outras incríveis oportunidades oferecidas
+              pela Trybe?</label
+            >
+          </div>
+          <div class="checkbox form-check mb-4 d-flex justify-content-start">
+            <input class="form-check-input" id="check2" type="checkbox" /><label
+              class="form-check-label"
+              for="check2"
+              >Concordo que imagens das minhas férias poderão ser usadas na
+              divulgação de concursos futuros.</label
+            >
+          </div>
+        </fieldset>
+        <button class="btn btn-outline-primary btn-rounded mx-1" id="btnApagar">
+          Apagar
+        </button>
+        <button
+          class="btn btn-primary btn-rounded mx-1"
+          type="submit"
+          id="btnEnviar"
+        >
+          Enviar
+        </button>
+        <button class="btn btn-outline-primary btn-rounded mx-1" id="btnLimpar">
+          Limpar
+        </button>
+      </form>
+    </main>
+    <script
+      type="text/javascript"
+      src="https://cdnjs.cloudflare.com/ajax/libs/mdb-ui-kit/5.0.0/mdb.min.js"
+    ></script>
+    <script src="script.js"></script>
+  </body>
+</html>

@@ -13,7 +13,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [x] _Fundamentos do Desenvolvimento Web_
 - [x] _Introdução - Unix & Shell_
 - [x] [_Unix & Bash - Part 1_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/fundamentos/bloco-1-unix-e-bash/dia-1-unix-e-bash-parte-1)
-- [ ] _Unix & Bash - Part 2_
+- [x] [_Unix & Bash - Part 2_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/fundamentos/bloco-1-unix-e-bash/dia-2-unix-e-bash-parte-2)
 
 #### Git, GitHub e Internet
 

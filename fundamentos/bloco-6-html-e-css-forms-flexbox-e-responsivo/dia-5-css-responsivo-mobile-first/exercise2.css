@@ -6,16 +6,50 @@ html {
 *:before,
 *:after {
   box-sizing: inherit;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+    background-color: rgb(30, 30, 30);
+    color: white;
+}
+
+header p {
+  display: flex;
+  justify-content: center;
+}
+
+header ul {
+  display: flex;
+  justify-content: space-around;
+  list-style: none;
+}
+
+aside {
+  text-align: center;
+  margin: 20px;
+}
+
+aside li {
+  list-style: none;
+}
+
+article h1 {
+  text-align: center;
+}
+
+footer {
+  margin-top: 30px;
+  background-color: rgb(173, 173, 173);
+  text-align: center;
 }
 
 @media screen and (max-width: 425px) {
-
 }
 
 @media screen and (max-width: 768px) {
-
 }
 
 @media screen and (min-width: 1024px) {
-
 }

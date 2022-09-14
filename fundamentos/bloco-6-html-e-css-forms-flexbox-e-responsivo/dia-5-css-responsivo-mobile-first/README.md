@@ -1,6 +1,6 @@
 # :pencil: CSS Responsivo - Mobile First
 
-O objetivo dos exercícios desse dia foi colocar em prática o que havia aprendido sobre o funcionamento do Unix e como interagir com ele através do terminal, utilizando o Bash. Para isso deveria a partir dos comandos abaixo, executar comandos no terminal para navegar entre diretórios, criar e manipular arquivos e diretórios e executar comandos no terminal para realizar buscas.
+O objetivo dos exercícios desse dia foi colocar em prática o que havia aprendido sobre como criar _layouts_ específicos para diferentes tamanhos de tela. Para isso deveria utilizar-se do **_media query_** para mostrar  diferentes _layouts_ em tamanhos de tela grande (_desktops_ e _laptops_), média (_tablets_) e pequena (smartphones) para que o _layout_ não pareça "estranho" em telas muito estreitas, ou muito largas.
 
 Os requisitos dos exercícios são:
 

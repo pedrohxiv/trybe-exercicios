@@ -1,6 +1,6 @@
 # :pencil: JavaScript ES6 - let, const, arrow functions e template literals
 
-O objetivo dos exercícios desse dia foi colocar em prática o que havia aprendido sobre como criar _layouts_ específicos para diferentes tamanhos de tela. Para isso deveria utilizar-se do **_media query_** para mostrar  diferentes _layouts_ em tamanhos de tela grande (_desktops_ e _laptops_), média (_tablets_) e pequena (smartphones) para que o _layout_ não pareça "estranho" em telas muito estreitas, ou muito largas.
+O objetivo dos exercícios desse dia foi colocar em prática o que havia aprendido sobre algumas features do **ES6**, como let, const, arrow functions, template literals e operador ternário. A utilização desses recursos resulta na escrita de códigos mais limpos e concisos visando identificar a presença desses elementos ao revisar códigos de outras pessoas.
 
 Os requisitos dos exercícios são:
 

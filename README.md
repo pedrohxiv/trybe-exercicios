@@ -30,37 +30,37 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [x] [_HTML Semântico_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/fundamentos/bloco-3-introducao-a-html-e-css/dia-4-html-semantico)
 - [x] _Projeto - Lessons Learned_
 
-#### Introdução à JavaScript e Lógica de Programação
+#### [Introdução à JavaScript e Lógica de Programação](https://github.com/pedrohxiv/trybe-exercicios/tree/main/fundamentos/secao-4-introducao-a-javascript-e-logica-de-programacao)
 
-- [ ] _Introdução - JavaScript_
-- [ ] _JavaScript - Primeiros passos_
-- [ ] _JavaScript - Array e loop For_
-- [ ] _JavaScript - Lógica de Programação e Algoritmos_
-- [ ] _JavaScript - Objetos e funções_
-- [ ] _Projeto - Playground Functions_
+- [x] _Introdução - JavaScript_
+- [x] [_JavaScript - Primeiros passos_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/fundamentos/secao-4-introducao-a-javascript-e-logica-de-programacao/dia-1-javascript-primeiros-passos)
+- [x] [_JavaScript - Array e loop For_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/fundamentos/secao-4-introducao-a-javascript-e-logica-de-programacao/dia-2-javascript-array-e-loop-for)
+- [x] [_JavaScript - Lógica de Programação e Algoritmos_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/fundamentos/secao-4-introducao-a-javascript-e-logica-de-programacao/dia-3-javascript-logica-de-programacao-e-algoritmos)
+- [x] [_JavaScript - Objetos e funções_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/fundamentos/secao-4-introducao-a-javascript-e-logica-de-programacao/dia-4-javascript-objetos-e-funcoes)
+- [x] _Projeto - Playground Functions_
 
-#### JavaScript: DOM, Eventos e Web Storage
+#### [JavaScript: DOM, Eventos e Web Storage](https://github.com/pedrohxiv/trybe-exercicios/tree/main/fundamentos/secao-5-javascript-dom-eventos-e-web-storage)
 
-- [ ] _JavaScript - DOM e seletores_
-- [ ] _JavaScript - Trabalhando com elementos_
-- [ ] _JavaScript - Eventos_
-- [ ] _JavaScript - Web Storage_
-- [ ] _Fundamentos - JavaScript - Projetos_
-- [ ] _Projeto - Arte com Pixels_
-- [ ] _(Bônus) Projeto - Lista de tarefas_
-- [ ] _(Bônus) Projeto - Meme Generator_
-- [ ] _(Bônus) Projeto - Adivinhe a Cor_
-- [ ] _(Bônus) Projeto - Carta Misteriosa_
+- [x] [_JavaScript - DOM e seletores_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/fundamentos/secao-5-javascript-dom-eventos-e-web-storage/dia-1-javascript-dom-e-seletores)
+- [x] [_JavaScript - Trabalhando com elementos_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/fundamentos/secao-5-javascript-dom-eventos-e-web-storage/dia-2-javascript-trabalhando-com-elementos)
+- [x] [_JavaScript - Eventos_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/fundamentos/secao-5-javascript-dom-eventos-e-web-storage/dia-3-javascript-eventos)
+- [x] [_JavaScript - Web Storage_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/fundamentos/secao-5-javascript-dom-eventos-e-web-storage/dia-4-javascript-web-storage)
+- [x] _Fundamentos - JavaScript - Projetos_
+- [x] _Projeto - Arte com Pixels_
+- [x] _(Bônus) Projeto - Lista de tarefas_
+- [x] _(Bônus) Projeto - Meme Generator_
+- [x] _(Bônus) Projeto - Adivinhe a Cor_
+- [x] _(Bônus) Projeto - Carta Misteriosa_
 
-#### HTML e CSS: Forms, Flexbox e Responsivo
+#### [HTML e CSS: Forms, Flexbox e Responsivo](https://github.com/pedrohxiv/trybe-exercicios/tree/main/fundamentos/secao-6-html-e-css-forms-flexbox-e-responsivo)
 
-- [ ] _HTML & CSS - Forms_
-- [ ] _Bibliotecas JavaScript e Frameworks CSS_
-- [ ] _Introdução - CSS Flexbox_
-- [ ] _CSS Flexbox - Parte 1_
-- [ ] _CSS Flexbox - Parte 2_
-- [ ] _CSS Responsivo - Mobile First_
-- [ ] _Projeto - Trybewarts_
+- [x] [_HTML & CSS - Forms_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/fundamentos/secao-6-html-e-css-forms-flexbox-e-responsivo/dia-1-html-css-forms)
+- [x] [_Bibliotecas JavaScript e Frameworks CSS_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/fundamentos/secao-6-html-e-css-forms-flexbox-e-responsivo/dia-2-bibliotecas-javascript-e-frameworks-css)
+- [x] _Introdução - CSS Flexbox_
+- [x] [_CSS Flexbox - Parte 1_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/fundamentos/secao-6-html-e-css-forms-flexbox-e-responsivo/dia-3-css-flexbox-parte-1)
+- [x] [_CSS Flexbox - Parte 2_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/fundamentos/secao-6-html-e-css-forms-flexbox-e-responsivo/dia-4-css-flexbox-parte-2)
+- [x] [_CSS Responsivo - Mobile First_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/fundamentos/secao-6-html-e-css-forms-flexbox-e-responsivo/dia-5-css-responsivo-mobile-first)
+- [x] [_Projeto - Trybewarts_]()
 
 #### [Introdução à JavaScript ES6 e Testes Unitários](https://github.com/pedrohxiv/trybe-exercicios/tree/main/fundamentos/secao-7-introducao-a-javascript-es6-e-testes-unitarios)
 

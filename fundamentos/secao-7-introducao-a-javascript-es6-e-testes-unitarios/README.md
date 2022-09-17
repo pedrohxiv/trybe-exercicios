@@ -1,4 +1,4 @@
-# :paperclip: Seção: Introdução à JavaScript ES6 e Testes Unitários
+# :paperclip: Seção - Introdução à JavaScript ES6 e Testes Unitários
 
 Esse bloco pertence ao módulo de `fundamentos` do curso da [Trybe](https://www.betrybe.com/). Nesta seção e na próxima, aprendi sobre a mais nova versão do JavaScript, conhecida como ES6, ECMAScript 6 ou ES2015. Essa nova versão tem objetivos de ser uma linguagem melhor para construir aplicações complexas, resolver problemas antigos do JavaScript e facilitar o desenvolvimento de _libraries_.
 

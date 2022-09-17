@@ -65,7 +65,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 #### [Introdução à JavaScript ES6 e Testes Unitários](https://github.com/pedrohxiv/trybe-exercicios/tree/main/fundamentos/secao-7-introducao-a-javascript-es6-e-testes-unitarios)
 
 - [x] [_JavaScript ES6 - let, const, arrow functions e template literals_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/fundamentos/secao-7-introducao-a-javascript-es6-e-testes-unitarios/dia-1-javascript-es6-let-const-arrow-functions-e-template-literals)
-- [ ] _JavaScript ES6 - Fluxo de exceção e Objetos_
+- [x] [_JavaScript ES6 - Fluxo de exceção e Objetos_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/fundamentos/secao-7-introducao-a-javascript-es6-e-testes-unitarios/dia-2-javascript-es6-fluxo-de-excecao-e-objetos)
 - [ ] _Primeiros passos em Jest_
 - [ ] _Projeto - JavaScript Testes Unitários_
 

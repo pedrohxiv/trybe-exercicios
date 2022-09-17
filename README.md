@@ -6,7 +6,7 @@ _"A Trybe é uma escola do futuro para qualquer pessoa que queira melhorar de vi
 
 O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda introdução ao desenvolvimento de software, front-end, back-end, ciência da computação, engenharia de software, metodologias ágeis e habilidades comportamentais.
 
-## [Fundamentos do Desenvolvimento Web](https://github.com/pedrohxiv/trybe-exercicios/tree/main/fundamentos) :hourglass_flowing_sand:
+## [Fundamentos do Desenvolvimento Web](https://github.com/pedrohxiv/trybe-exercicios/tree/main/fundamentos):hourglass_flowing_sand:
 
 #### [Unix & Bash](https://github.com/pedrohxiv/trybe-exercicios/tree/main/fundamentos/secao-1-unix-e-bash)
 
@@ -78,7 +78,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [ ] _JavaScript ES6 - spread operator, parâmetro rest, destructuring e mais_
 - [ ] _Projeto - Zoo functions_
 
-## Desenvolvimento Front-end :hourglass_flowing_sand:
+## Desenvolvimento Front-end:hourglass_flowing_sand:
 
 #### JavaScript e Testes Assíncronos
 
@@ -143,7 +143,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 - [ ] _Projeto - App de Receitas_
 
-## Desenvolvimento Back-end :hourglass_flowing_sand:
+## Desenvolvimento Back-end:hourglass_flowing_sand:
 
 #### Docker: Utilizando Containers
 
@@ -249,7 +249,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [ ] _Dia 1 - VPS_
 - [ ] _Dia 2_
 
-## Ciência da Computação :hourglass_flowing_sand:
+## Ciência da Computação:hourglass_flowing_sand:
 
 #### Introdução à Python
 

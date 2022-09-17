@@ -58,3 +58,21 @@ const verifyPair = (obj, key, value) =>
       : false
   );
 verifyPair(lesson3, "materia", "Maria Clara");
+
+const qntstudents = () =>
+  console.log(
+    parseInt(Object.values(allLessons.lesson1)[1]) +
+      parseInt(Object.values(allLessons.lesson3)[1])
+  );
+qntstudents();
+
+const createReport = (allObj, prof) =>
+  console.log({
+    professor: prof,
+    aulas: [Object.values(allObj.lesson1)[0], Object.values(allObj.lesson1)[0]],
+    estudantes:
+      parseInt(Object.values(allLessons.lesson1)[1]) +
+      parseInt(Object.values(allLessons.lesson3)[1]),
+  });
+
+createReport(allLessons, "Maria Clara");

@@ -1,6 +1,6 @@
 # :pencil: JavaScript ES6 - Fluxo de exceção e Objetos
 
-O objetivo dos exercícios desse dia foi colocar em prática o que havia aprendido sobre algumas features do **ES6**, como let, const, arrow functions, template literals e operador ternário. A utilização desses recursos resulta na escrita de códigos mais limpos e concisos visando identificar a presença desses elementos ao revisar códigos de outras pessoas.
+O objetivo dos exercícios desse dia foi colocar em prática o que havia aprendido sobre como tratar os erros do código utilizando os métodos `throw` e `try/catch` além de algumas funções que interagem com **objetos**.Para isso deveria lançar erros com `throw` e capturá-los com o bloco `try/catch`, acessar todas as chaves de um objeto com o método `Object.keys`, acessar os pares chave-valor de um objeto com o método `Object.entries`, acessar todos os valores de um objeto com o método `Object.values`, copiar um objeto com o método `Object.assign` e adicionar propriedades a um objeto.
 
 Os requisitos dos exercícios são:
 

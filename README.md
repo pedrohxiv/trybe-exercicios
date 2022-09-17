@@ -8,25 +8,25 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 ## [Fundamentos do Desenvolvimento Web](https://github.com/pedrohxiv/trybe-exercicios/tree/main/fundamentos) :hourglass_flowing_sand:
 
-#### [Unix & Bash](https://github.com/pedrohxiv/trybe-exercicios/tree/main/fundamentos/bloco-1-unix-e-bash)
+#### [Unix & Bash](https://github.com/pedrohxiv/trybe-exercicios/tree/main/fundamentos/secao-1-unix-e-bash)
 
 - [x] _Fundamentos do Desenvolvimento Web_
 - [x] _Introdução - Unix & Shell_
-- [x] [_Unix & Bash - Part 1_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/fundamentos/bloco-1-unix-e-bash/dia-1-unix-e-bash-parte-1)
-- [x] [_Unix & Bash - Part 2_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/fundamentos/bloco-1-unix-e-bash/dia-2-unix-e-bash-parte-2)
+- [x] [_Unix & Bash - Part 1_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/fundamentos/secao-1-unix-e-bash/dia-1-unix-e-bash-parte-1)
+- [x] [_Unix & Bash - Part 2_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/fundamentos/secao-1-unix-e-bash/dia-2-unix-e-bash-parte-2)
 
-#### [Git, GitHub e Internet](https://github.com/pedrohxiv/trybe-exercicios/tree/main/fundamentos/bloco-2-git-github-e-internet)
+#### [Git, GitHub e Internet](https://github.com/pedrohxiv/trybe-exercicios/tree/main/fundamentos/secao-2-git-github-e-internet)
 
-- [x] [_Git - O que é e para que serve_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/fundamentos/bloco-2-git-github-e-internet/dia-1-git-o-que-e-e-para-que-serve)
-- [x] [_Git & GitHub - Entendendo os comandos_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/fundamentos/bloco-2-git-github-e-internet/dia-2-git-e-github-entendendo-os-comandos)
+- [x] [_Git - O que é e para que serve_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/fundamentos/secao-2-git-github-e-internet/dia-1-git-o-que-e-e-para-que-serve)
+- [x] [_Git & GitHub - Entendendo os comandos_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/fundamentos/secao-2-git-github-e-internet/dia-2-git-e-github-entendendo-os-comandos)
 - [x] _Internet - Entendendo como ela funciona_
 
-#### [Introdução à HTML e CSS](https://github.com/pedrohxiv/trybe-exercicios/tree/main/fundamentos/bloco-3-introducao-a-html-e-css)
+#### [Introdução à HTML e CSS](https://github.com/pedrohxiv/trybe-exercicios/tree/main/fundamentos/secao-3-introducao-a-html-e-css)
 
 - [x] _Introdução - HTML & CSS_
-- [x] [_HTML & CSS - Estruturas de página_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/fundamentos/bloco-3-introducao-a-html-e-css/dia-1-html-e-css-estruturas-de-pagina)
-- [x] [_HTML & CSS - Primeiros passos em CSS_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/fundamentos/bloco-3-introducao-a-html-e-css/dia-2-html-e-css-primeiros-passos-em-css)
-- [x] [_HTML & CSS - Seletores e posicionamento_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/fundamentos/bloco-3-introducao-a-html-e-css/dia-3-html-e-css-seletores-e-posicionamento)
+- [x] [_HTML & CSS - Estruturas de página_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/fundamentos/secao-3-introducao-a-html-e-css/dia-1-html-e-css-estruturas-de-pagina)
+- [x] [_HTML & CSS - Primeiros passos em CSS_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/fundamentos/secao-3-introducao-a-html-e-css/dia-2-html-e-css-primeiros-passos-em-css)
+- [x] [_HTML & CSS - Seletores e posicionamento_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/fundamentos/secao-3-introducao-a-html-e-css/dia-3-html-e-css-seletores-e-posicionamento)
 - [x] [_HTML Semântico_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/fundamentos/bloco-3-introducao-a-html-e-css/dia-4-html-semantico)
 - [x] _Projeto - Lessons Learned_
 

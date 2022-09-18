@@ -77,10 +77,21 @@ body {
 }
 ```
 
-- Adicione uma propriedade que defina o tamanho `Flexbox` base para o container da imagem `268px` e para o container do menu `500px`.
-- Adicione uma propriedade `Flexbox` que modifique a **ordem** em que o logo e os itens do menu aparecem na tela.
-- Adicione uma propriedade `Flexbox` que faça o container do menu crescer, quando houver espaço disponível.
-- Utilize a propriedade `align-self` no elemento correto para que o `header` da página esteja ao centro.
+- Adicione uma propriedade que defina o tamanho `Flexbox` base para o container da imagem `268px` e para o container do menu `500px`. Após aplicar as propriedades, o `header` deverá estar similar à imagem abaixo:
+
+<img src="https://content-assets.betrybe.com/prod/exercicio-1.jpeg"/>
+
+- Adicione uma propriedade `Flexbox` que modifique a **ordem** em que o logo e os itens do menu aparecem na tela. Após aplicar a propriedade, o `header` deverá estar similar à imagem abaixo:
+
+<img src="https://content-assets.betrybe.com/prod/exercicio-2.jpeg"/>
+
+- Adicione uma propriedade `Flexbox` que faça o container do menu crescer, quando houver espaço disponível. Após aplicar a propriedade, o `header` deverá estar similar à imagem abaixo:
+
+<img src="https://content-assets.betrybe.com/prod/exercicio-3.jpeg"/>
+
+- Utilize a propriedade `align-self` no elemento correto para que o `header` da página tenha o seguinte comportamento:
+
+<img src="https://content-assets.betrybe.com/prod/exercicio-4.jpeg"/>
 
 Vamos prosseguir praticando com a continuação do `header` realizado no exercício acima e construir um `main` com o restante de sua página. Copie o restante dos códigos `HTML` e `CSS` e aplique a seus documentos criados anteriormente.
 
@@ -180,8 +191,23 @@ Vamos prosseguir praticando com a continuação do `header` realizado no exercí
 }
 ```
 
-- Aplique uma base de `350px` para seu container `aside`.
-- Aplique um alinhamento para centralizar e outro para expandir.
-- Adicione uma propriedade que faça com que seu container de filmes tenha uma base de `700px` e outra base de `16%` para as `div` do container de seu card.
-- Aplique uma propriedade com o valor 10 que expanda o container de filmes.
-- Adicione uma propriedade com o valor 1 que faça com que suas `div` do container de filmes ocupe todo o espaço em branco. 
+- Aplique uma base de `350px` para seu container `aside`. Deverá ficar similar à imagem abaixo:
+
+<img src="https://content-assets.betrybe.com/prod/exercicio-part2-1.png"/>
+
+- Aplique um alinhamento para centralizar e outro para expandir. Seu `aside` deve apresentar o seguinte comportamento:
+
+<img src="https://content-assets.betrybe.com/prod/exercicio-part2-2.png"/>
+
+- Adicione uma propriedade que faça com que seu container de filmes tenha uma base de `700px` e outra base de `16%` para as `div` do container de seu card. Deve ficar similar à imagem abaixo:
+
+<img src="https://content-assets.betrybe.com/prod/exercicio-part2-3.png"/>
+
+- Aplique uma propriedade com o valor 10 que expanda o container de filmes. Deve ficar similar à imagem abaixo:
+
+
+<img src="https://content-assets.betrybe.com/prod/exercicio-part2-4.png"/>
+
+- Adicione uma propriedade com o valor 1 que faça com que suas `div` do container de filmes ocupe todo o espaço em branco. Deve ficar similar à imagem abaixo:
+
+<img src="https://content-assets.betrybe.com/prod/exercicio-part2-5.png"/>

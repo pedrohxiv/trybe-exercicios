@@ -1,4 +1,4 @@
-# :pencil: Bibliotecas JavaScript e Frameworks CSS
+# :pencil: JavaScript - Trabalhando com elementos
 
 O objetivo dos exercícios desse dia foi colocar em prática o que havia aprendido sobre como adicionar e remover tags de uma página, além de aprender mais uma forma de buscar os elementos da página. Para isso deveria adicionar e remover elementos _HTML_ da página via _JavaScript_ e buscar os elementos da página com a propriedade `parentNode`.
 

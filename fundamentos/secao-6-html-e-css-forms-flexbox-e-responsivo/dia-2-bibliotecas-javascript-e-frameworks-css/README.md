@@ -4,8 +4,6 @@ O objetivo dos exercícios desse dia foi colocar em prática o que havia aprendi
 
 Os requisitos dos exercícios são:
 
-## Exercícios - agora, a prática
-
 - Adicione o _framework_ `Bootstrap` ao formulário que você construiu na última aula e o utilize para estilizar o formulário.
   - Documentação: [Bootstrap](https://getbootstrap.com/).
 - Outras sugestões: [Bulma](https://bulma.io/), [Semantic UI](https://semantic-ui.com/) e [Materialize](https://materializecss.com/).

@@ -1,6 +1,8 @@
-const randomNum = () => Math.floor(Math.random() * 5) + 1;
+const verifyNum = (num, randomNum) => num === randomNum;
 
-const verify = (num) =>
-  num === randomNum() ? "Parabéns você ganhou" : "Tente novamente";
+const result = (num, func) =>
+  func(num, Math.floor(Math.random() * 5) + 1)
+    ? "Parabéns você ganhou!"
+    : "Tente novamente";
 
-console.log(verify(4));
+console.log(result(2, verifyNum));

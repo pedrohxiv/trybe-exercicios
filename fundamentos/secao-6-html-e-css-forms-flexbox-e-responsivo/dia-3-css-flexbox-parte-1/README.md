@@ -9,7 +9,6 @@ Os requisitos dos exercícios são:
 O que acha de praticar os conceitos de **Flexbox** e testar seus conhecimentos em uma aplicação WEB?
 
 <img src="https://content-assets.betrybe.com/prod/Trybe%20Tech%20Gallery%20Preview.jpeg" alt="Trybe Tech Gallery Preview"/>
-<h4 align="center">Trybe Tech Gallery Preview</h4>
 
 No exemplo acima, foi criada uma galeria de fotos de algumas das tecnologias. As imagens utilizadas estarão disponíveis para você, mas… caso queira, sinta-se livre para criar a página com a temática que você preferir, ok? Só atente-se aos enunciados para que a proposta do exercício seja cumprida!
 

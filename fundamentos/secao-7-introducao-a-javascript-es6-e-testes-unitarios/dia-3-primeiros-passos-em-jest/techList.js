@@ -1,4 +1,4 @@
-function techList(arr, str) {
+const techList = (arr, str) => {
   const newArr = [];
   if (arr.length === 0) {
     return "Vazio!";
@@ -10,6 +10,6 @@ function techList(arr, str) {
   return newArr;
 }
 
-console.log(techList(["React", "Jest", "HTML", "CSS", "JavaScript"], "Lucas"));
+techList(["React", "Jest", "HTML", "CSS", "JavaScript"], "Lucas");
 
 module.exports = techList;

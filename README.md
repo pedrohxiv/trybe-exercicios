@@ -10,8 +10,6 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 #### [Unix & Bash](https://github.com/pedrohxiv/trybe-exercicios/tree/main/fundamentos/secao-1-unix-e-bash)
 
-- [x] _Fundamentos do Desenvolvimento Web_
-- [x] _Introdução - Unix & Shell_
 - [x] [_Unix & Bash - Part 1_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/fundamentos/secao-1-unix-e-bash/dia-1-unix-e-bash-parte-1)
 - [x] [_Unix & Bash - Part 2_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/fundamentos/secao-1-unix-e-bash/dia-2-unix-e-bash-parte-2)
 
@@ -23,7 +21,6 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 #### [Introdução à HTML e CSS](https://github.com/pedrohxiv/trybe-exercicios/tree/main/fundamentos/secao-3-introducao-a-html-e-css)
 
-- [x] _Introdução - HTML & CSS_
 - [x] [_HTML & CSS - Estruturas de página_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/fundamentos/secao-3-introducao-a-html-e-css/dia-1-html-e-css-estruturas-de-pagina)
 - [x] [_HTML & CSS - Primeiros passos em CSS_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/fundamentos/secao-3-introducao-a-html-e-css/dia-2-html-e-css-primeiros-passos-em-css)
 - [x] [_HTML & CSS - Seletores e posicionamento_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/fundamentos/secao-3-introducao-a-html-e-css/dia-3-html-e-css-seletores-e-posicionamento)
@@ -32,7 +29,6 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 #### [Introdução à JavaScript e Lógica de Programação](https://github.com/pedrohxiv/trybe-exercicios/tree/main/fundamentos/secao-4-introducao-a-javascript-e-logica-de-programacao)
 
-- [x] _Introdução - JavaScript_
 - [x] [_JavaScript - Primeiros passos_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/fundamentos/secao-4-introducao-a-javascript-e-logica-de-programacao/dia-1-javascript-primeiros-passos)
 - [x] [_JavaScript - Array e loop For_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/fundamentos/secao-4-introducao-a-javascript-e-logica-de-programacao/dia-2-javascript-array-e-loop-for)
 - [x] [_JavaScript - Lógica de Programação e Algoritmos_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/fundamentos/secao-4-introducao-a-javascript-e-logica-de-programacao/dia-3-javascript-logica-de-programacao-e-algoritmos)
@@ -45,7 +41,6 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [x] [_JavaScript - Trabalhando com elementos_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/fundamentos/secao-5-javascript-dom-eventos-e-web-storage/dia-2-javascript-trabalhando-com-elementos)
 - [x] [_JavaScript - Eventos_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/fundamentos/secao-5-javascript-dom-eventos-e-web-storage/dia-3-javascript-eventos)
 - [x] [_JavaScript - Web Storage_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/fundamentos/secao-5-javascript-dom-eventos-e-web-storage/dia-4-javascript-web-storage)
-- [x] _Fundamentos - JavaScript - Projetos_
 - [x] _Projeto - Arte com Pixels_
 - [x] _(Bônus) Projeto - Lista de tarefas_
 - [x] _(Bônus) Projeto - Meme Generator_
@@ -56,7 +51,6 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 - [x] [_HTML & CSS - Forms_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/fundamentos/secao-6-html-e-css-forms-flexbox-e-responsivo/dia-1-html-css-forms)
 - [x] [_Bibliotecas JavaScript e Frameworks CSS_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/fundamentos/secao-6-html-e-css-forms-flexbox-e-responsivo/dia-2-bibliotecas-javascript-e-frameworks-css)
-- [x] _Introdução - CSS Flexbox_
 - [x] [_CSS Flexbox - Parte 1_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/fundamentos/secao-6-html-e-css-forms-flexbox-e-responsivo/dia-3-css-flexbox-parte-1)
 - [x] [_CSS Flexbox - Parte 2_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/fundamentos/secao-6-html-e-css-forms-flexbox-e-responsivo/dia-4-css-flexbox-parte-2)
 - [x] [_CSS Responsivo - Mobile First_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/fundamentos/secao-6-html-e-css-forms-flexbox-e-responsivo/dia-5-css-responsivo-mobile-first)

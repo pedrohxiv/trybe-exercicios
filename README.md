@@ -66,13 +66,13 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 - [x] [_JavaScript ES6 - let, const, arrow functions e template literals_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/fundamentos/secao-7-introducao-a-javascript-es6-e-testes-unitarios/dia-1-javascript-es6-let-const-arrow-functions-e-template-literals)
 - [x] [_JavaScript ES6 - Fluxo de exceção e Objetos_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/fundamentos/secao-7-introducao-a-javascript-es6-e-testes-unitarios/dia-2-javascript-es6-fluxo-de-excecao-e-objetos)
-- [ ] _Primeiros passos em Jest_
-- [ ] _Projeto - JavaScript Testes Unitários_
+- [x] [_Primeiros passos em Jest_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/fundamentos/secao-7-introducao-a-javascript-es6-e-testes-unitarios/dia-3-primeiros-passos-em-jest)
+- [x] _Projeto - JavaScript Testes Unitários_
 
-#### Higher Order Functions do JavaScript ES6
+#### [Higher Order Functions do JavaScript ES6](https://github.com/pedrohxiv/trybe-exercicios/tree/main/fundamentos/secao-8-higher-order-functions-do-javascript-es6)
 
-- [ ] _JavaScript ES6 - Introdução a Higher Order Functions_
-- [ ] _JavaScript ES6 - Higher Order Functions - forEach, find, some, every, sort_
+- [x] [_JavaScript ES6 - Introdução a Higher Order Functions_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/fundamentos/secao-8-higher-order-functions-do-javascript-es6/dia-1-javascript-es6-introducao-a-higher-order-functions)
+- [x] [_JavaScript ES6 - Higher Order Functions - forEach, find, some, every, sort_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/fundamentos/secao-8-higher-order-functions-do-javascript-es6/dia-2-javascript-es6-higher-order-functions-foreach-find-some-every-sort)
 - [ ] _JavaScript ES6 - Higher Order Functions - map e filter_
 - [ ] _JavaScript ES6 - Higher Order Functions - reduce_
 - [ ] _JavaScript ES6 - spread operator, parâmetro rest, destructuring e mais_

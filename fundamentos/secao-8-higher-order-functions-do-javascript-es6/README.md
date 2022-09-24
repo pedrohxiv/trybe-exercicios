@@ -1,6 +1,6 @@
 # :pencil: JavaScript ES6 - Higher Order Functions - forEach, find, some, every, sort
 
-O objetivo dos exercícios desse dia foi colocar em prática o que havia aprendido sobre como tratar os erros do código utilizando os métodos `throw` e `try/catch` além de algumas funções que interagem com **objetos**.Para isso deveria lançar erros com `throw` e capturá-los com o bloco `try/catch`, acessar todas as chaves de um objeto com o método `Object.keys`, acessar os pares chave-valor de um objeto com o método `Object.entries`, acessar todos os valores de um objeto com o método `Object.values`, copiar um objeto com o método `Object.assign` e adicionar propriedades a um objeto.
+O objetivo dos exercícios desse dia foi colocar em prática o que havia aprendido sobre algumas HOFs que são utilizadas com arrays, facilitando muito a manipulação e criação de arrays. Para isso deveria utilizar a função `Array.forEach` para iterar sobre todos os elementos de um array, utilizar a função `Array.find` para encontrar o primeiro elemento de um array que satisfaça a uma condição, utilizar as funções `Array.some` e `Array.every` para testar se os elementos de um array satisfazem a uma condição e utilizar a função `Array.sort` para ordenar arrays de acordo com algum critério.
 
 Os requisitos dos exercícios são:
 

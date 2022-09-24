@@ -1,6 +1,6 @@
 # :pencil: JavaScript - Primeiros passos
 
-O objetivo dos exercícios desse dia foi colocar em prática o que havia aprendido sobre _funções_, que fazem parte da estrutura fundamental da linguagem. Para isso deveria manipular objetos, utilizar o comando `for/in` e diferenciá-lo do comando `for/of` e utilizar funções para organizar e estruturar do código.
+O objetivo dos exercícios desse dia foi colocar em prática o que havia aprendido sobre como implementar _lógica_ nas páginas, tornando-as verdadeiramente _interativas_ e _dinâmicas_. Para isso deveria escrever códigos em _JavaScript_ que usam variáveis, constantes e tipos primitivos, utilizar conceitos da linguagem como a tipagem dinâmica e _operadores lógicos/aritméticos/de atribuição_ e criar códigos que usam estruturas condicionais, como o `if/else` e `switch/case`.
 
 Os requisitos dos exercícios são:
 

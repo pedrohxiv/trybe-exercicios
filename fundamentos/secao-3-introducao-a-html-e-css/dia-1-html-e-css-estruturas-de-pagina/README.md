@@ -1,6 +1,6 @@
 # :pencil: HTML & CSS - Estruturas de página
 
-O objetivo dos exercícios desse dia foi colocar em prática o que havia aprendido sobre _funções_, que fazem parte da estrutura fundamental da linguagem. Para isso deveria manipular objetos, utilizar o comando `for/in` e diferenciá-lo do comando `for/of` e utilizar funções para organizar e estruturar do código.
+O objetivo dos exercícios desse dia foi colocar em prática o que havia aprendido sobre como utilizar _HTML_ para estruturar páginas web. Para isso deveria estruturar páginas web com HTML utilizando as tags `html`, `head` e `body`, utilizar o HTML para estruturar textos e título e utilizar o HTML para criar listas, _links_ e adicionar imagens.
 
 Os requisitos dos exercícios são:
 

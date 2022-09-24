@@ -1,6 +1,6 @@
 # :pencil: JavaScript ES6 - Introdução a Higher Order Functions
 
-O objetivo dos exercícios desse dia foi colocar em prática o que havia aprendido sobre as _Higher Order Functions_ . Para isso deveria utilizar funções de diferentes formas, passando elas por paramentro ou não.
+O objetivo dos exercícios desse dia foi colocar em prática o que havia aprendido sobre as _Higher Order Functions_. Para isso deveria utilizar funções nas operações, devendo aceitá-las como parâmetro e/ou retorná-las.
 
 Os requisitos dos exercícios são:
 

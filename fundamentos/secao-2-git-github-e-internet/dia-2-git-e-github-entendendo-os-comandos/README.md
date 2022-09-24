@@ -1,6 +1,6 @@
 # :pencil: Git & GitHub - Entendendo os comandos
 
-O objetivo dos exercícios desse dia foi colocar em prática o que havia aprendido sobre algumas HOFs que são utilizadas com arrays, facilitando muito a manipulação e criação de arrays. Para isso deveria utilizar a função `Array.forEach` para iterar sobre todos os elementos de um array, utilizar a função `Array.find` para encontrar o primeiro elemento de um array que satisfaça a uma condição, utilizar as funções `Array.some` e `Array.every` para testar se os elementos de um array satisfazem a uma condição e utilizar a função `Array.sort` para ordenar arrays de acordo com algum critério.
+O objetivo dos exercícios desse dia foi colocar em prática o que havia aprendido sobre algumas técnicas para salvar meus projetos no _GitHub_, mantendo-os remotamente para maximizar a eficiência do trabalho em grupo, garantindo uma boa qualidade do software. Para isso deveria copiar um repositório já existente no _GitHub_ para o meu computador, abrir _Pull Requests_, subir meu repositório local para o _GitHub_, enviar meus projetos para o repositório remoto do _GitHub_ e trabalhar em um mesmo projeto, com mais de uma pessoa, de forma assíncrona e distribuída.
 
 Os requisitos dos exercícios são:
 

@@ -17,7 +17,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 - [x] [_Git - O que é e para que serve_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/fundamentos/secao-2-git-github-e-internet/dia-1-git-o-que-e-e-para-que-serve)
 - [x] [_Git & GitHub - Entendendo os comandos_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/fundamentos/secao-2-git-github-e-internet/dia-2-git-e-github-entendendo-os-comandos)
-- [x] _Internet - Entendendo como ela funciona_
+- [x] [_Internet - Entendendo como ela funciona_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/fundamentos/secao-2-git-github-e-internet/dia-3-internet-entendendo-como-ela-funciona)
 
 #### [Introdução à HTML e CSS](https://github.com/pedrohxiv/trybe-exercicios/tree/main/fundamentos/secao-3-introducao-a-html-e-css)
 

@@ -1,6 +1,6 @@
 # :pencil: JavaScript - Lógica de Programação e Algoritmos
 
-O objetivo dos exercícios desse dia foi colocar em prática o que havia aprendido sobre _funções_, que fazem parte da estrutura fundamental da linguagem. Para isso deveria manipular objetos, utilizar o comando `for/in` e diferenciá-lo do comando `for/of` e utilizar funções para organizar e estruturar do código.
+O objetivo dos exercícios desse dia foi colocar em prática o que havia aprendido sobre algoritmos e lógica de programação . Para isso deveria quebrar grandes problemas em pequenos e utilizar a lógica de programação na resolução de problemas.
 
 Os requisitos dos exercícios são:
 

@@ -1,6 +1,6 @@
 # :pencil: JavaScript - Array e loop For
 
-O objetivo dos exercícios desse dia foi colocar em prática o que havia aprendido sobre _funções_, que fazem parte da estrutura fundamental da linguagem. Para isso deveria manipular objetos, utilizar o comando `for/in` e diferenciá-lo do comando `for/of` e utilizar funções para organizar e estruturar do código.
+O objetivo dos exercícios desse dia foi colocar em prática o que havia aprendido sobre duas das principais estruturas de dados disponíveis na linguagem e algumas das formas de iterar sobre elas, o `Array` e `For`. Para isso deveria manipular arrays (listas) e utilizar o comando `for`.
 
 Os requisitos dos exercícios são:
 

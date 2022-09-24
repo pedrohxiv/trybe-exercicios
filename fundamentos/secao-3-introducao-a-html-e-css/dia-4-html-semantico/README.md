@@ -1,6 +1,6 @@
 # :pencil: HTML Semântico
 
-O objetivo dos exercícios desse dia foi colocar em prática o que havia aprendido sobre _funções_, que fazem parte da estrutura fundamental da linguagem. Para isso deveria manipular objetos, utilizar o comando `for/in` e diferenciá-lo do comando `for/of` e utilizar funções para organizar e estruturar do código.
+O objetivo dos exercícios desse dia foi colocar em prática o que havia aprendido sobre o **HTML Semântico**, para trazer sentido que um elemento _HTML_ carrega acerca de seu conteúdo. Para isso deveria fazer o uso de elementos _HTML_ de acordo com o **sentido** e o propósito que eles carregam, tais como: `header`, `nav`, `aside`, `article`, `section`, `footer` e `img`, criar páginas semanticamente válidas e acessíveis e entender a diferença entre elementos de _bloco_ e elementos _inline_.
 
 Os requisitos dos exercícios são:
 

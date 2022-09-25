@@ -1,0 +1,53 @@
+.cabecalho {
+    text-align: center;
+    font-family: sans-serif;
+  }
+  .inicio {
+    background-color: black;
+    margin: -8px 200px 0 200px;
+    color: white;
+    border: 30px solid black;
+  }
+  h1 {
+    font-size: 150%;
+  }
+  h2 {
+    font-size: 120%;
+  }
+  a {
+    text-decoration: none;
+    box-shadow: none;
+    color: black;
+    background-color: black;
+    color: white;
+    border: 10px solid black;
+    border-radius: 15px;
+  }
+  .github {
+    margin-left: 20px;
+  }
+
+  hr {
+    margin-top: 30px;
+    margin-left: 100px;
+    margin-right: 100px;
+    border: 1px solid black;
+  }
+  .corpo {
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-bottom: 100px;
+  }
+  h3 {
+    margin-top: 40px;
+    font-family: sans-serif;
+  }
+  .contato {
+    margin-top: 30px;
+    margin-bottom: 30px;
+  }
+  img {
+    width: 100px;
+    border-radius: 50%;
+    margin-top: -10px;
+  }

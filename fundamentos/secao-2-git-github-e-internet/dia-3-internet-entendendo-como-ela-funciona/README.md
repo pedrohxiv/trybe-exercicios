@@ -19,3 +19,4 @@ Use o exemplo abaixo para se inspirar. 😉
 O importante agora é usar a criatividade e trabalhar em equipe para criar um diagrama o mais detalhado possível, utilizando o conhecimento adquirido hoje.
 
 Depois de montar seu diagrama, cada membro do grupo deverá enviar uma resposta no formulário, utilizando o resultado da dinâmica para montar sua resposta.
+

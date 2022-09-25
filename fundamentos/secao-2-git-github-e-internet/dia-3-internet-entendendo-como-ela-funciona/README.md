@@ -1,6 +1,6 @@
 # :pencil: Internet - Entendendo como ela funciona
 
-
+O objetivo dos exercícios desse dia foi colocar em prática o que havia aprendido sobre como realmente a Internet funciona. Para isso deveria explicar de forma simples como a internet funciona, entender o modelo Cliente & Servidor e identificar suas partes, compreender como funcionam os protocolos HTTP e HTTPS e identificar quais os tipos de requisição podem ser feitos através desses protocolos.
 
 Os requisitos dos exercícios são:
 

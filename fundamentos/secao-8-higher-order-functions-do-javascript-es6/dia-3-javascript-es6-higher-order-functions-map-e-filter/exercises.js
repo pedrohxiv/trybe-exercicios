@@ -73,6 +73,7 @@ function formatedBookNames() {
 //formatedBookNames();
 
 function nameAndAge() {
+  // escreva seu código aqui
   console.log(
     books
       .map((element) => ({
@@ -83,4 +84,16 @@ function nameAndAge() {
   );
 }
 
-nameAndAge();
+// nameAndAge();
+
+function fantasyOrScienceFiction() {
+  // escreva seu código aqui
+  console.log(
+    books.filter(
+      (element) =>
+        element.genre === "Ficção Científica" || element.genre === "Fantasia"
+    )
+  );
+}
+
+fantasyOrScienceFiction();

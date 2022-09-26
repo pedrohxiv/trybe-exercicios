@@ -70,4 +70,17 @@ function formatedBookNames() {
   );
 }
 
-formatedBookNames();
+//formatedBookNames();
+
+function nameAndAge() {
+  console.log(
+    books
+      .map((element) => ({
+        age: element.releaseYear - element.author.birthYear,
+        author: element.author.name,
+      }))
+      .sort((a, b) => a.age - b.age)
+  );
+}
+
+nameAndAge();

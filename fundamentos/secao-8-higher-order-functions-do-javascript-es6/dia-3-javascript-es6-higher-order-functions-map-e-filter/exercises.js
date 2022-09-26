@@ -70,7 +70,7 @@ function formatedBookNames() {
   );
 }
 
-//formatedBookNames();
+formatedBookNames();
 
 function nameAndAge() {
   // escreva seu código aqui
@@ -84,7 +84,7 @@ function nameAndAge() {
   );
 }
 
-// nameAndAge();
+nameAndAge();
 
 function fantasyOrScienceFiction() {
   // escreva seu código aqui
@@ -96,7 +96,7 @@ function fantasyOrScienceFiction() {
   );
 }
 
-// fantasyOrScienceFiction();
+fantasyOrScienceFiction();
 
 function oldBooksOrdered() {
   // escreva seu código aqui
@@ -107,7 +107,7 @@ function oldBooksOrdered() {
   );
 }
 
-// oldBooksOrdered();
+oldBooksOrdered();
 
 function fantasyOrScienceFictionAuthors() {
   // escreva seu código aqui
@@ -122,7 +122,7 @@ function fantasyOrScienceFictionAuthors() {
   );
 }
 
-// fantasyOrScienceFictionAuthors();
+fantasyOrScienceFictionAuthors();
 
 function oldBooks() {
   // escreva seu código aqui
@@ -134,3 +134,16 @@ function oldBooks() {
 }
 
 oldBooks();
+
+function authorWith3DotsOnName() {
+  // escreva seu código aqui
+  console.log(
+    books.find(
+      (element) =>
+        element.author.name.split(" ").filter((book) => book.endsWith("."))
+          .length === 3
+    ).name
+  );
+}
+
+authorWith3DotsOnName();

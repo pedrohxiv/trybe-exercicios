@@ -122,4 +122,15 @@ function fantasyOrScienceFictionAuthors() {
   );
 }
 
-fantasyOrScienceFictionAuthors();
+// fantasyOrScienceFictionAuthors();
+
+function oldBooks() {
+  // escreva seu código aqui
+  console.log(
+    books
+      .filter((element) => 2022 - element.releaseYear > 60)
+      .map((book) => book.name)
+  );
+}
+
+oldBooks();

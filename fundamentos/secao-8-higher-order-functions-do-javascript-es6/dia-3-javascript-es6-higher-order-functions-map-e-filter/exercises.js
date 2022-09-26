@@ -96,4 +96,15 @@ function fantasyOrScienceFiction() {
   );
 }
 
-fantasyOrScienceFiction();
+// fantasyOrScienceFiction();
+
+function oldBooksOrdered() {
+  // escreva seu código aqui
+  console.log(
+    books
+      .filter((element) => 2022 - element.releaseYear > 60)
+      .sort((a, b) => a.releaseYear - b.releaseYear)
+  );
+}
+
+oldBooksOrdered();

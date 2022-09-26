@@ -107,4 +107,19 @@ function oldBooksOrdered() {
   );
 }
 
-oldBooksOrdered();
+// oldBooksOrdered();
+
+function fantasyOrScienceFictionAuthors() {
+  // escreva seu código aqui
+  console.log(
+    books
+      .filter(
+        (element) =>
+          element.genre === "Ficção Científica" || element.genre === "Fantasia"
+      )
+      .map((book) => book.author.name)
+      .sort()
+  );
+}
+
+fantasyOrScienceFictionAuthors();

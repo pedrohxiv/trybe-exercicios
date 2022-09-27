@@ -80,4 +80,12 @@ function reduceNames() {
     .reduce((acc, curr) => `${acc}, ${curr}`);
 }
 
-console.log(reduceNames());
+// console.log(reduceNames());
+
+function averageAge() {
+  // escreva seu código aqui
+  const arrAges = books.map((age) => age.releaseYear - age.author.birthYear);
+  return arrAges.reduce((accSum, currNum) => accSum + currNum) / arrAges.length;
+}
+
+console.log(averageAge());

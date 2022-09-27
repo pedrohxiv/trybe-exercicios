@@ -5,7 +5,7 @@ function flatten() {
   return arrays.reduce((acc, curr) => acc.concat(curr), []);
 }
 
-// console.log(flatten());
+console.log(flatten());
 
 const books = [
   {
@@ -80,7 +80,7 @@ function reduceNames() {
     .reduce((acc, curr) => `${acc}, ${curr}`);
 }
 
-// console.log(reduceNames());
+console.log(reduceNames());
 
 function averageAge() {
   // escreva seu código aqui
@@ -88,7 +88,7 @@ function averageAge() {
   return arrAges.reduce((accSum, currNum) => accSum + currNum) / arrAges.length;
 }
 
-// console.log(averageAge());
+console.log(averageAge());
 
 function longestNamedBook() {
   // escreva seu código aqui
@@ -97,7 +97,7 @@ function longestNamedBook() {
   );
 }
 
-// console.log(longestNamedBook());
+console.log(longestNamedBook());
 
 const names = [
   "Aanemarie",
@@ -122,3 +122,24 @@ function containsA() {
 }
 
 console.log(containsA());
+
+const students = ["Pedro Henrique", "Miguel", "Maria Clara"];
+const grades = [
+  [9, 8, 10, 7, 5],
+  [10, 9, 9, 10, 8],
+  [10, 7, 10, 8, 9],
+];
+
+function studentAverage() {
+  // escreva seu código aqui
+  return students.map((student, index) => ({
+    name: student,
+    average:
+      grades
+        .map((arrGrades) => arrGrades)
+        [index].reduce((acc, curr) => acc + curr) /
+      grades.map((arrGrades) => arrGrades)[index].length,
+  }));
+}
+
+console.log(studentAverage());

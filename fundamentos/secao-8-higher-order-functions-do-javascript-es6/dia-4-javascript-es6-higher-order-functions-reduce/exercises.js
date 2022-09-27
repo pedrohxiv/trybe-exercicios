@@ -97,4 +97,28 @@ function longestNamedBook() {
   );
 }
 
-console.log(longestNamedBook());
+// console.log(longestNamedBook());
+
+const names = [
+  "Aanemarie",
+  "Adervandes",
+  "Akifusa",
+  "Abegildo",
+  "Adicellia",
+  "Aladonata",
+  "Abeladerco",
+  "Adieidy",
+  "Alarucha",
+];
+
+function containsA() {
+  // escreva seu código aqui
+  let qnt = 0;
+  const concatNames = names.reduce((acc, curr) => acc + curr).toLowerCase();
+  for (const word of concatNames) {
+    if (word === "a") qnt++;
+  }
+  return qnt;
+}
+
+console.log(containsA());

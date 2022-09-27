@@ -88,4 +88,13 @@ function averageAge() {
   return arrAges.reduce((accSum, currNum) => accSum + currNum) / arrAges.length;
 }
 
-console.log(averageAge());
+// console.log(averageAge());
+
+function longestNamedBook() {
+  // escreva seu código aqui
+  return books.reduce((biggerName, name) =>
+    biggerName.name.length > name.name.length ? biggerName : name
+  );
+}
+
+console.log(longestNamedBook());

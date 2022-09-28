@@ -1,6 +1,6 @@
 # :pencil: JavaScript ES6 - Higher Order Functions - map e filter
 
-
+O objetivo dos exercícios desse dia foi colocar em prática o que havia aprendido sobre sobre outras duas _Higher Order Functions_:`Array.map` e `Array.filter` para a manipulação e criação de arrays. Para isso deveria utilizar a função `Array.map` para manipular e construir arrays, utilizar a função `Array.filter` para filtrar um array e aprender a usar de forma conjunta as _Higher Order Functions_.
 
 Os requisitos dos exercícios são:
 

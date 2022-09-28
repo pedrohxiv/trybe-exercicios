@@ -67,8 +67,8 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 - [x] [_JavaScript ES6 - Introdução a Higher Order Functions_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/fundamentos/secao-8-higher-order-functions-do-javascript-es6/dia-1-javascript-es6-introducao-a-higher-order-functions)
 - [x] [_JavaScript ES6 - Higher Order Functions - forEach, find, some, every, sort_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/fundamentos/secao-8-higher-order-functions-do-javascript-es6/dia-2-javascript-es6-higher-order-functions-foreach-find-some-every-sort)
-- [ ] _JavaScript ES6 - Higher Order Functions - map e filter_
-- [ ] _JavaScript ES6 - Higher Order Functions - reduce_
+- [x] [_JavaScript ES6 - Higher Order Functions - map e filter_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/fundamentos/secao-8-higher-order-functions-do-javascript-es6/dia-3-javascript-es6-higher-order-functions-map-e-filter)
+- [x] [_JavaScript ES6 - Higher Order Functions - reduce_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/fundamentos/secao-8-higher-order-functions-do-javascript-es6/dia-4-javascript-es6-higher-order-functions-reduce)
 - [ ] _JavaScript ES6 - spread operator, parâmetro rest, destructuring e mais_
 - [ ] _Projeto - Zoo functions_
 

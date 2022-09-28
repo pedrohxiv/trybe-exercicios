@@ -29,6 +29,10 @@ rectangles.forEach((rectangle) => {
 
 > **De olho na dica 👀:** _use o `parâmetro rest`._
 
+```
+// escreva sum abaixo
+```
+
 ### Exercício 3
 
 - Escreva a função `personLikes`, que dado um objeto de parâmetro que representa uma pessoa (variáveis alex e gunnar), retorna todos os gostos daquela pessoa, conforme mostrado abaixo:

@@ -1,6 +1,6 @@
 # :pencil: JavaScript ES6 - spread operator, parâmetro rest, destructuring e mais
 
-
+O objetivo dos exercícios desse dia foi colocar em prática o que havia aprendido sobre sete `features` do ES6 que são muito úteis na hora de desenvolver uma aplicação: `spread operator`, `parâmetro rest`, `object destructuring`, `array destructuring`, `default destructuring`, `abbreviation object literal` e `default params`, sendo capaz de aplicá-las corretamente, com objetivo de ter uma melhor escrita, resultando em um código mais concisos e limpos, facilitando a compreensão de quem for lê-lo futuramente.
 
 Os requisitos dos exercícios são:
 

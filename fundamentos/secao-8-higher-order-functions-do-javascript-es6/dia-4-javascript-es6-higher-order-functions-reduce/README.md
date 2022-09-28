@@ -1,6 +1,6 @@
 # :pencil: JavaScript ES6 - Higher Order Functions - reduce
 
-
+O objetivo dos exercícios desse dia foi colocar em prática o que havia aprendido sobre outra _Higher Order Functions_: `Array.reduce` para a manipulação e criação de arrays. Para isso deveria utilizar a função `Array.reduce` para manipular e construir arrays.
 
 Os requisitos dos exercícios são:
 

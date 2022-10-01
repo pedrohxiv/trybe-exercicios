@@ -69,8 +69,8 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [x] [_JavaScript ES6 - Higher Order Functions - forEach, find, some, every, sort_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/fundamentos/secao-8-higher-order-functions-do-javascript-es6/dia-2-javascript-es6-higher-order-functions-foreach-find-some-every-sort)
 - [x] [_JavaScript ES6 - Higher Order Functions - map e filter_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/fundamentos/secao-8-higher-order-functions-do-javascript-es6/dia-3-javascript-es6-higher-order-functions-map-e-filter)
 - [x] [_JavaScript ES6 - Higher Order Functions - reduce_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/fundamentos/secao-8-higher-order-functions-do-javascript-es6/dia-4-javascript-es6-higher-order-functions-reduce)
-- [ ] _JavaScript ES6 - spread operator, parâmetro rest, destructuring e mais_
-- [ ] _Projeto - Zoo functions_
+- [x] [_JavaScript ES6 - spread operator, parâmetro rest, destructuring e mais_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/fundamentos/secao-8-higher-order-functions-do-javascript-es6/dia-5-javascript-es6-spread-operator-parametro-rest-destructuring-e-mais)
+- [x] [_Projeto - Zoo functions_](https://github.com/tryber/sd-026-b-project-zoo-functions/pull/70)
 
 ## Desenvolvimento Front-end:hourglass_flowing_sand:
 

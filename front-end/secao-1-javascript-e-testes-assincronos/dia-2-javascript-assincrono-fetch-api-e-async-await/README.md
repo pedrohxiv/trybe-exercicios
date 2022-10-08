@@ -8,7 +8,7 @@ Os requisitos dos exercícios são:
 
 Que tal usar o conhecimento adquirido na prática? Vamos consultar uma API que fornece os valores de crypto moedas e depois mostrar apenas as 10 primeiras.
 
-O link para os requisitos do exercício está contido [aqui](https://github.com/tryber/sd-026-b-exercise-javascript-async/blob/main/README.md) e a resolução do exercicio está contido na pasta [sd-026-b-exercise-javascript-async](https://github.com/pedrohxiv/trybe-exercicios/tree/main/front-end/secao-1-javascript-e-testes-assincronos/dia-2-javascript-assincrono-fetch-api-e-async-await/sd-026-b-exercise-javascript-async) deste mesmo dia, logo aqui acima, confere lá!
+O link para os requisitos do exercício está contido [aqui](https://github.com/tryber/sd-026-b-exercise-javascript-async/blob/main/README.md) e a resolução do exercicio está contido na pasta [sd-026-b-exercise-javascript-async](https://github.com/pedrohxiv/trybe-exercicios/tree/main/front-end/secao-1-javascript-e-testes-assincronos/dia-2-javascript-assincrono-fetch-api-e-async-await/sd-026-b-exercise-javascript-async) deste mesmo dia, confere lá!
 
 ## Exercício bônus
 

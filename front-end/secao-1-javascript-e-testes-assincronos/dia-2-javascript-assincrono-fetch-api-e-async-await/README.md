@@ -1,6 +1,6 @@
 # :pencil: JavaScript Assíncrono - Fetch API e async/await
 
-
+O objetivo dos exercícios desse dia foi colocar em prática o que havia aprendido a como colher dados de um serviço de terceiro utilizando a API dele através do _JavaScript assíncrono_. Para isso deveria utilizar _then()_ e _catch()_, utilizar _async/await_ em conjunto com o _try/catch_ e fazer integrações com _APIs_ de terceiros.
 
 Os requisitos dos exercícios são:
 

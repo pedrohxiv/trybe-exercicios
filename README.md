@@ -72,13 +72,12 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [x] [_JavaScript ES6 - spread operator, parâmetro rest, destructuring e mais_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/fundamentos/secao-8-higher-order-functions-do-javascript-es6/dia-5-javascript-es6-spread-operator-parametro-rest-destructuring-e-mais)
 - [x] [_Projeto - Zoo functions_](https://github.com/tryber/sd-026-b-project-zoo-functions/pull/70)
 
-## Desenvolvimento Front-end:hourglass_flowing_sand:
+## [Desenvolvimento Front-end](https://github.com/pedrohxiv/trybe-exercicios/tree/main/front-end) :hourglass_flowing_sand:
 
-#### JavaScript e Testes Assíncronos
+#### [JavaScript e Testes Assíncronos](https://github.com/pedrohxiv/trybe-exercicios/tree/main/front-end/secao-1-javascript-e-testes-assincronos)
 
-- [ ] _Introdução - Front-end_
-- [ ] _JavaScript Assíncrono e Callbacks_
-- [ ] _JavaScript Assíncrono - Fetch API e async/await_
+- [x] [_JavaScript Assíncrono e Callbacks_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/front-end/secao-1-javascript-e-testes-assincronos/dia-1-javascript-assincrono-e-callbacks)
+- [x] [_JavaScript Assíncrono - Fetch API e async/await_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/front-end/secao-1-javascript-e-testes-assincronos/dia-2-javascript-assincrono-fetch-api-e-async-await)
 - [ ] _Jest - Testes Assíncronos_
 - [ ] _Projeto - Carrinho de Compras_
 

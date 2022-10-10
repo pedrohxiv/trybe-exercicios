@@ -1,0 +1,15 @@
+{
+  "name": "dia-1-javascript-assincrono-e-callbacks",
+  "version": "1.0.0",
+  "description": "O objetivo dos exercícios desse dia foi colocar em prática o que havia aprendido sobre operações assíncronas, `callbacks`, testes com `callbacks` utilizando o **Jest** e setup and teardown. Para isso deveria aplicar corretamente operações assíncronas, utilizar `callbacks` corretamente, utilizar o **Jest** para testar suas `callbacks` e reaproveitar configurações para diversos testes por meio do uso de `beforeEach` e `afterEach`.",
+  "main": "ex1.js",
+  "scripts": {
+    "test": "jest --watchAll"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.1.2"
+  }
+}

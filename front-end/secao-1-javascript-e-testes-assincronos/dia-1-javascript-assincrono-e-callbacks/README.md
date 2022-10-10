@@ -1,6 +1,6 @@
 # :pencil: JavaScript Assíncrono e Callbacks
 
-
+O objetivo dos exercícios desse dia foi colocar em prática o que havia aprendido sobre operações assíncronas, `callbacks`, testes com `callbacks` utilizando o **Jest** e setup and teardown. Para isso deveria aplicar corretamente operações assíncronas, utilizar `callbacks` corretamente, utilizar o **Jest** para testar suas `callbacks` e reaproveitar configurações para diversos testes por meio do uso de `beforeEach` e `afterEach`.
 
 Os requisitos dos exercícios são:
 

@@ -78,8 +78,8 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 - [x] [_JavaScript Assíncrono e Callbacks_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/front-end/secao-1-javascript-e-testes-assincronos/dia-1-javascript-assincrono-e-callbacks)
 - [x] [_JavaScript Assíncrono - Fetch API e async/await_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/front-end/secao-1-javascript-e-testes-assincronos/dia-2-javascript-assincrono-fetch-api-e-async-await)
-- [ ] _Jest - Testes Assíncronos_
-- [ ] _Projeto - Carrinho de Compras_
+- [x] [_Jest - Testes Assíncronos_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/front-end/secao-1-javascript-e-testes-assincronos/dia-3-jest-testes-assincronos)
+- [x] [_Projeto - Carrinho de Compras_](https://github.com/tryber/sd-026-b-project-shopping-cart/pull/39)
 
 #### Introdução à React
 

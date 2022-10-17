@@ -1,6 +1,6 @@
 # :pencil: Jest - Testes Assíncronos
 
-
+O objetivo dos exercícios desse dia foi colocar em prática o que havia aprendido sobre como testar códigos assíncronos e como reaproveitar configurações entre testes, podendo separá-las por escopo. Para isso deveria escrever testes para códigos assíncronos utilizando `async/await` e dividir as configurações dos testes, em blocos separados, por meio do uso de `describe`.
 
 Os requisitos dos exercícios são:
 

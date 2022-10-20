@@ -1,127 +1,127 @@
-# :pencil: 'Hello, world!' no React!
+# :pencil: Componentes React
 
 
 
 Os requisitos dos exercícios são:
 
-## Criando uma lista de conteúdos
+## Pokédex - React Components
 
-Nesse exercício, vamos criar uma aplicação simples, mas com muito aprendizado. Vamos dividir nossa aplicação em componentes e usá-los para renderizar uma lista com conhecimentos sobre Front-end.
+Você vai implementar de forma simplificada uma [Pokédex](https://bulbapedia.bulbagarden.net/wiki/Pok%C3%A9dex)! Para os que não estão familiarizados com o universo `Pokémon`, a `Pokédex` é uma enciclopédia de todos os pokémons na natureza.
 
-### 1. Crie um arquivo chamado `Header.js` que representará o componente `Header`
+### 1. Crie o componente `<Pokedex />`
 
-- Este arquivo precisa ser criado na pasta `src`;
+<details>
+  <summary>Este componente deverá renderizar um título e uma <code>ul</code></summary><br />
 
-- Este componente deve renderizar uma tag `h1` com o texto 'Conteúdos de Frontend';
+  - Este componente deverá: 
+    - ser criado dentro da pasta `src/components`.
 
-***Aviso***: Não esqueça de exportar esse componente;
+    - conter uma tag `h1` com o texto `Pokédex`.
+  
+    - conter uma tag `ul`. Por enquanto, essa lista estará vazia.
+  
+  - Renderize esse componente dentro do `App.js`.
+</details>
 
 <details>
   <summary><strong>O que será verificado</strong></summary><br />
 
-- Se o componente foi criado na pasta correta e renderiza uma tag `h1`;
-
-- Se a tag `h1` é renderizada no App com o texto 'Conteúdos de Frontend';
+  - Será validado se: 
+    - uma tag `h1` com o texto `Pokédex` é renderizado dentro do componente `<Pokedex />`.
+  
+    - uma tag `ul` é renderizada dentro do componente `<Pokedex />`.
+  
+    - o componente `<Pokedex />` é renderizado dentro do `App.js`.
 
 </details>
 
 ---
 
-### 2. Crie um arquivo chamado `Content.js` que representará o componente `Content`
+### 2. Crie o componente `<Pokemon />`
 
-- Este arquivo precisa ser criado na pasta `src`
+<details>
+  <summary>Este componente deverá renderizar as informações de um pokémon</summary><br />
+  
+  - Ele deve ser criado dentro da pasta `src/components`.
+  
+  - Este componente deverá : 
+    - receber uma `prop` chamada `pokemon`, que será um objeto com as informações de um Pokémon, como o exemplo mostrado abaixo:
+    ```
+    {
+      id: 25,
+      name: 'Pikachu',
+      type: 'Electric',
+      averageWeight: {
+        value: 6.0,
+        measurementUnit: 'kg',
+      },
+      image: 'https://cdn2.bulbagarden.net/upload/b/b2/Spr_5b_025_m.png',
+      moreInfo: 'https://bulbapedia.bulbagarden.net/wiki/Pikachu_(Pok%C3%A9mon)',
+    }
+    ```
 
-- Dentro do arquivo `Content.js`, crie uma classe React chamada `Content`;
+    - conter uma tag `li` que envolva todo seu conteúdo.
+  
+  - Este componente deverá renderizar as seguintes informações (que estão dentro do objeto recebido via `props` chamada `pokemon`): 
+    - o nome do Pokémon;
+    - o tipo do Pokémon;
+    - o peso médio do Pokémon, acompanhado da unidade de medida usada. Por exemplo: "20 kg";
+    - a imagem do Pokémon.
+  
+  - A imagem deve conter o atributo `alt` com o valor do nome do Pokémon.
+</details>
 
-- Ainda no arquivo `Content.js`, adicione o seguinte array:
+
+<details>
+  <summary><strong>O que será verificado</strong></summary><br />
+
+  - Será verificado se o: 
+  
+    - componente possui a tag `li` envolvendo seu conteúdo.
+  
+    - nome do Pokémon passado via `props` é renderizado.
+  
+    - tipo do Pokémon passado via `props` é renderizado.
+  
+    - peso médio do Pokémon e a unidade de medida passados via `props` serão renderizados.
+  
+  - Será validado se a imagem do pokémon passado via `props` é renderizada.
+  
+  - Será validado se a imagem do pokémon possui o atributo `alt` com o nome do pokémon passado via `props`.
+</details>
+
+---
+
+### 3. Renderize uma lista com as informações de cada Pokémon
 
   <details>
-    <summary>Array com conteúdos de Frontend</summary>
-
-    ```JS
-        const conteudos = [
-          {
-            nome: 'JavaScript assíncrono',
-            bloco: 9,
-            status: 'já aprendi'
-          },
-          {
-            nome: 'Composição de Componentes',
-            bloco: 10,
-            status: 'estou aprendendo',
-          },
-          {
-            nome: 'Composição de Estados',
-            bloco: 11,
-            status: 'aprenderei'
-          },
-          {
-            nome: 'Redux',
-            bloco: 15,
-            status: 'aprenderei'
-          },
-        ];
-    ```
+    <summary>Renderize uma lista com as informações dos Pokémon dentro do componente <code>&lt;Pokedex /&gt;</code></summary>
+  
+  - O componente `<Pokedex/>` deve receber a lista de Pokémon através de uma `props` chamada `pokemonList`. 
+  > Adicione essa `props` ao componente, caso ainda não tenha a criado.
+  
+  - Você encontrará a lista com as informações dos Pokémon no arquivo `src/data.js`.
+  
+  - Cada Pokémon da lista deverá ser renderizado por um componente `Pokemon`. Passe as informações do Pokémon através da `props` que já existe nesse componente.
   </details>
-<br />
 
-- A classe Content deve renderizar o array de conteúdos com a utilização da função map, como visto anteriormente, com o seguinte formato:
 
 <details>
-<summary>Conteúdo a ser renderizado:</summary>
-
-
-  ```JS
-  Eu `Status do conteúdo` o conteúdo `Nome do conteúdo` no bloco `Bloco do conteúdo`
-  ```
-
-</details>
-<br />
-
-***Aviso***: Lembre-se de adicionar o atributo `key` a cada elemento do array a ser renderizado.
-
-<details>
-  <summary><strong>O que será verificado</strong></summary><br />
-
-- Se o componente `Content` foi criado na pasta correta e renderiza uma `ul`;
-
-- Se o componente `Content` é renderizado no `App`, com as mensagens corretas;
-
-</details>
-
----
-
-### 3. Crie um arquivo chamado `Footer.js` que representará o componente `Footer`
-
-- Este arquivo precisa ser criado na pasta `src`;
-
-- Este componente deve renderizar uma tag `footer` e, dentro dela, renderizar um `h3` com o texto 'E isso é só o começo...';
-
-- A tag footer precisa do atributo `data-testid="footer"`
-
-***Aviso***: Não esqueça de exportar esse componente
-
-- Renderize esse componente no App.
-
-<details>
-  <summary><strong>Adicionando o `data-testid`</strong></summary><br />
+  <summary>💡dicas</summary><br />
   
-  Para que o avaliador consiga encontrar o elemento, é preciso que o `footer` tenha o atributo `data-testid`. Você pode adicioná-lo da seguinte forma:
+  - Dependendo da sua implementação, o teste do requisito 1 pode começar a falhar quando você adicionar a lógica de renderizar a lista, a qual é recebida por `props` no componente `<Pokedex />`. 
+> Pense em um jeito de garantir um valor padrão para esse `props`, mesmo que nenhum valor seja passado.
   
-  ```js
-    <footer data-testid="footer">
-      ...
-    </footer>
-  ```
+  - Lembre-se de que, quando você está renderizando uma lista no React, é necessário adicionar um atributo `key` em cada elemento. Você pode usar o `id` do Pokémon como `key`.
 
 </details>
 
 <details>
   <summary><strong>O que será verificado</strong></summary><br />
-
-- Se o componente `Footer` foi criado na pasta correta e renderiza uma tag `footer`;
-
-- Se o componente `Footer` é renderizado na tela com a mensagem correta dentro de uma tag `h3`;
+  
+  - Se o componente `<Pokedex />` renderiza a quantidade correta de elementos.
+  
+  - Se todos os elementos da lista são renderizados.
 
 </details>
 
@@ -129,14 +129,4 @@ Nesse exercício, vamos criar uma aplicação simples, mas com muito aprendizado
 
 ### Exercício extra
 
-<details>
-  <summary> Estilize a aplicação adicionando classes que vão aprimorar seus componentes, de modo que cada conteúdo listado seja um Card</summary><br />
-
-- Para adicionar uma classe de estilização em um elemento HTML, utilize o atributo className:
-
-```js
-  <footer className="footer">
-    ...
-  </footer>
-```
-</details>
+Estilize a aplicação adicionando classes que vão aprimorar seus componentes, de modo que cada conteúdo listado seja um card

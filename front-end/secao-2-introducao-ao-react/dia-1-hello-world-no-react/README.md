@@ -1,6 +1,6 @@
 # :pencil: 'Hello, world!' no React!
 
-O objetivo dos exercícios desse dia foi colocar em prática o que havia aprendido sobre os primeiros conceitos do [React](https://github.com/facebook/react), os pilares sobre os quais a equipe do _Facebook/Instagram_ o fez, assim como o motivo dessa tecnologia ter tido adoção tão massiva nos últimos anos, além de aprender o que diferencia _React_ de _JavaScript_ e o que são classes. Ao final, tive todas as informações para codar um componente básico em React! Para isso deveria saber a melhor forma para instalar um gerenciador de pacotes, inicializar um projeto em _React_, utilizar JSX no _React_, utilizar o `ReactDOM.render` para renderizar elementos em uma página web e utilizar o `import` para usar código externo junto ao seu.
+O objetivo dos exercícios desse dia foi colocar em prática o que aprendido sobre a como inicializar a principal biblioteca de construção de UI’s da atualidade, o **_React_**. Para isso deveria saber a melhor forma para instalar um gerenciador de pacotes, inicializar um projeto em _React_, utilizar JSX no _React_, utilizar o `ReactDOM.render` para renderizar elementos em uma página web e utilizar o `import` para usar código externo junto ao seu.
 
 Os requisitos dos exercícios são:
 

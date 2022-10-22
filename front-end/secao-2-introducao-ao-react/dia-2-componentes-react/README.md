@@ -1,6 +1,6 @@
 # :pencil: Componentes React
 
-
+O objetivo dos exercícios desse dia foi colocar em prática o que havia aprendido sobre **componentes** do _React_, dando uma aprofundada a mais nesta biblioteca. Para isso deveria criar de modo correto os componentes React, fazer uso de `props` corretamente, fazer composição de componentes corretamente, criar múltiplos componentes dinamicamente e utilizar `PropTypes` para: checar o tipo de uma `prop` no uso de um componente, garantir a presença de `props` obrigatórias no uso de um componente, checar que uma `prop` é um objeto de formato específico e garantir que uma `prop` é um array com elementos de um determinado tipo.
 
 Os requisitos dos exercícios são:
 

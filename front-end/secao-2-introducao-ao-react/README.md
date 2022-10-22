@@ -1,4 +1,4 @@
-# :paperclip: Seção: Introdução ao React
+# :paperclip: Seção - Introdução ao React
 
 Esse bloco pertence ao módulo de `front-end` do curso da [Trybe](https://www.betrybe.com/). Nesta seção aprendi sobre os primeiros conceitos do [React](https://github.com/facebook/react), os pilares sobre os quais a equipe do _Facebook/Instagram_ o fez, assim como o motivo dessa tecnologia ter tido adoção tão massiva nos últimos anos, além de aprender o que diferencia _React_ de _JavaScript_ e o que são classes. Ao final, tive todas as informações para codar um componente básico em React!
 

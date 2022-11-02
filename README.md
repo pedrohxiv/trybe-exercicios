@@ -87,16 +87,16 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [x] [_Componentes React_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/front-end/secao-2-introducao-ao-react/dia-2-componentes-react)
 - [x] [_Projeto - Sistema Solar_](https://github.com/tryber/sd-026-b-project-solar-system/pull/31)
 
-#### Componentes com Estado, Eventos e Formulários com React
+#### [Componentes com Estado, Eventos e Formulários com React](https://github.com/pedrohxiv/trybe-exercicios/tree/main/front-end/secao-3-componentes-com-estado-eventos-e-formularios-com-react)
 
-- [ ] _Componentes com estado e eventos_
-- [ ] _Formulários no React_
-- [ ] _Projeto - Tryunfo_
+- [x] [_Componentes com estado e eventos_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/front-end/secao-3-componentes-com-estado-eventos-e-formularios-com-react/dia-1-componentes-com-estado-e-eventos)
+- [x] [_Formulários no React_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/front-end/secao-3-componentes-com-estado-eventos-e-formularios-com-react/dia-2-formularios-no-react)
+- [x] [_Projeto - Tryunfo_](https://github.com/tryber/sd-026-b-project-tryunfo/pull/45)
 
-#### Ciclo de Vida de Componentes e React Router
+#### [Ciclo de Vida de Componentes e React Router](https://github.com/pedrohxiv/trybe-exercicios/tree/main/front-end/secao-4-ciclo-de-vida-de-componentes-e-react-router)
 
-- [ ] _Ciclo de vida de componentes_
-- [ ] _React Router_
+- [x] [_Ciclo de vida de componentes_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/front-end/secao-4-ciclo-de-vida-de-componentes-e-react-router/dia-1-ciclo-de-vida-de-componentes)
+- [x] [_React Router_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/front-end/secao-4-ciclo-de-vida-de-componentes-e-react-router/dia-2-react-router)
 - [ ] _Projeto - TrybeTunes_
 
 #### Metodologias Ágeis

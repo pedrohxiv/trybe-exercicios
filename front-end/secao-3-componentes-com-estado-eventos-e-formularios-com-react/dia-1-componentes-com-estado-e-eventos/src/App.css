@@ -1,0 +1,58 @@
+html {
+  background-color: red;
+  font-family: Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans,
+    Droid Sans, Helvetica Neue, sans-serif;
+}
+
+.pokedex {
+  align-items: center;
+  display: flex;
+  flex-flow: column wrap;
+  margin: 10px;
+}
+
+.pokedex-buttons-panel {
+  display: flex;
+  flex-direction: row;
+  margin-top: 15px;
+}
+
+.pokedex-button {
+  background-color: green;
+  color: white;
+  height: 50px;
+  margin-top: 20px;
+  width: 100px;
+}
+
+.pokedex-button:disabled {
+  background-color: red;
+  border: none;
+  color: red;
+}
+
+.filter-button {
+  background-color: orange;
+  height: 50px;
+  margin: 10px;
+  width: 80px;
+}
+
+.pokemon {
+  align-items: center;
+  background-color: white;
+  border: 1px gray solid;
+  border-radius: 10px;
+  display: flex;
+  flex: 1 1 auto;
+  justify-content: space-around;
+  margin: 10px;
+  min-width: 25%;
+  padding: 10px;
+}
+
+.button-text {
+  border-radius: 10px;
+  margin-left: 10px;
+  width: 90px;
+}

@@ -1,6 +1,6 @@
 # :pencil: React Router
 
-
+O objetivo dos exercícios desse dia foi colocar em prática o que aprendido sobre roteamento de páginas, para tornar a aplicação _React_ navegável possibilitando uma melhor experiência para quem fizer uso da aplicação, criando páginas com estruturas sofisticadas e intuitivas além da boa utilização da `props.children` sendo essencial no desenvolvimento de Apps complexos e reutilizáveis. Para isso deveria utilizar a `props.children` para acessar os filhos de um componente React e interagir com eles, utilizar o componente `BrowserRouter` corretamente, criar links de navegação na aplicação com o componente `Link`, criar rotas, mapeando o caminho da _URL_ com o componente correspondente, via `Route`, estruturar e organizar as rotas da sua aplicação com o componente `Switch` e usar o componente `Redirect` pra alternar entre rotas.
 
 Os requisitos dos exercícios são:
 

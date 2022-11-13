@@ -1,6 +1,6 @@
 # :pencil: Ciclo de vida de componentes
 
-
+O objetivo dos exercícios desse dia foi colocar em prática o que aprendido sobre **ciclo de vida de um componente**, no contexto da interação da aplicação com cada browser, onde as fases desse **ciclo de vida** têm funções associadas a si, através das quais quem programa pode associar comportamentos. Para isso deveria utilizar o `componentDidMount` para executar uma ação após o componente ser inserido no DOM, utilizar o `shouldComponentUpdate` para avaliar se uma atualização do componente deve ou não acontecer naquele momento, utilizar o `componentDidUpdate` para executar uma ação após o componente ser atualizado e utilizar o `componentWillUnmount` para realizar uma ação antes de o componente ser desmontado.
 
 Os requisitos dos exercícios são:
 

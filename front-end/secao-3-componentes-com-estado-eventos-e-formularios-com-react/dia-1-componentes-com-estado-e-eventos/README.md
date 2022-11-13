@@ -1,6 +1,6 @@
 # :pencil: Componentes com estado e eventos
 
-
+O objetivo dos exercícios desse dia foi colocar em prática ainda mais os meus conhecimentos sobre **Componentes React** e a aprofundá-lo com o conceito de _Estado_ além de aprender a capturar eventos através do _React_. Para isso deveria ler o estado de um componente e usá-lo para alterar o que exibimos no browser, inicializar um componente, dando a ele um estado pré-definido, atualizar o estado de um componente e capturar eventos utilizando a sintaxe do _React_.
 
 Os requisitos dos exercícios são:
 

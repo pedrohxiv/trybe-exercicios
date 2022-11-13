@@ -97,7 +97,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 - [x] [_Ciclo de vida de componentes_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/front-end/secao-4-ciclo-de-vida-de-componentes-e-react-router/dia-1-ciclo-de-vida-de-componentes)
 - [x] [_React Router_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/front-end/secao-4-ciclo-de-vida-de-componentes-e-react-router/dia-2-react-router)
-- [ ] _Projeto - TrybeTunes_
+- [x] [_Projeto - TrybeTunes_](https://github.com/tryber/sd-026-b-project-trybetunes/pull/29)
 
 #### Metodologias Ágeis
 

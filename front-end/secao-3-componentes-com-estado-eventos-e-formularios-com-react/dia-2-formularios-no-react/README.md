@@ -1,6 +1,6 @@
 # :pencil: Formulários no React
 
-
+O objetivo dos exercícios desse dia foi colocar em prática o que aprendido sobre sobre formulários utilizando o _React_. Para isso deveria criar formulários utilizando sintaxe _JSX_ com as `tags`: `input`, `textarea`, `select`, `form` e transmitir informações de componentes filhos para componentes pais via _callbacks_.
 
 Os requisitos dos exercícios são:
 

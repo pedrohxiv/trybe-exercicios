@@ -104,10 +104,10 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [x] [_Metodologias Ágeis_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/front-end/secao-5-metodologias-ageis)
 - [x] [_Projeto - Frontend Online Store_](https://github.com/tryber/sd-026-b-project-frontend-online-store/tree/main-group-9)
 
-#### Testes automatizados com React Testing Library
+#### [Testes automatizados com React Testing Library](https://github.com/pedrohxiv/trybe-exercicios/tree/main/front-end/secao-6-testes-automatizados-com-react-testing-library)
 
-- [ ] _RTL - Primeiros passos_
-- [ ] _RTL - Mocks e Inputs_
+- [x] [_RTL - Primeiros passos_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/front-end/secao-6-testes-automatizados-com-react-testing-library/dia-1-rtl-primeiros-passos)
+- [x] [_RTL - Mocks e Inputs_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/front-end/secao-6-testes-automatizados-com-react-testing-library/dia-2-rtl-mocks-e-inputs)
 - [ ] _RTL - Testando React Router_
 - [ ] _Projeto - Testes em React_
 

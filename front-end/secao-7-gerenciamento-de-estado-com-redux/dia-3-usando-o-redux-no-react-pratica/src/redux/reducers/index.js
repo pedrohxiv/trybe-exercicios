@@ -10,12 +10,12 @@ const individualReducer = (state = INITIAL_STATE, action) => {
     case 'PERSONAL_FORM':
       return {
         ...state,
-        personalForm: { ...action.personalForm },
+        personalForm: { ...action.payload },
       };
     case 'PROFESSIONAL_FORM':
       return {
         ...state,
-        professionalForm: { ...action.professionalForm },
+        professionalForm: { ...action.payload },
       };
     default:
       return state;

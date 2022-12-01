@@ -49,7 +49,7 @@ class PersonalForm extends Component {
     const { name, email, cpf, address, city, uf } = this.state;
 
     return (
-      <form onSubmit={() => console.log('Ao clicar, envie a informação do formulário')}>
+      <form>
         <h1 className="title">Informações Pessoais</h1>
         <Input
           label="Nome: "

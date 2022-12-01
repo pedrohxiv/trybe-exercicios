@@ -33,7 +33,7 @@ class ProfessionalForm extends Component {
   render() {
     const { curriculum, job, description } = this.state;
     return (
-      <form onSubmit={() => console.log('Envia as informações para a store')}>
+      <form>
         <h1 className="title">Informações Profissionais</h1>
         <TextArea
           label="Resumo do currículo: "

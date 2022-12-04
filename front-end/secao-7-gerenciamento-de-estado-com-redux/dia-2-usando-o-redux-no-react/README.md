@@ -54,7 +54,7 @@ Toda a aplicação já está pronta e com o _Redux_ configurado. Seu desafio ser
 - Implemente a função `mapStateToProps` de modo que o componente tenha acesso às _props_ `redCar`, `blueCar` e `yellowCard`, as quais devem possuir o valor do estado global da sua respectiva cor (como exemplo, `redCar` deve possuir o valor da chave `cars.red`, armazenado no estado global).
 - Implemente a função `onClick()` dos botões de modo que, quando clicados, a aplicação realize o `dispatch` da _action_ `moveCarAction`. Quando clicar no botão correspondente ao carro **vermelho**, caso o estado global `cars.red` possuir o valor `true`, ele deverá ser alterado para `false`, e vice-versa.
 
-# Exercício 3
+### Exercício 3
 
 - Nesse exercício utilizaremos os códigos dos exercícios 1 e 2. Aqui vamos juntar (combinar) os reducers dos dois primeiros exercícios, para que eles possam ser carregados juntos na mesma página da aplicação.
 

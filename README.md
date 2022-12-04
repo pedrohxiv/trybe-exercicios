@@ -111,11 +111,11 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [x] [_RTL - Testando React Router_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/front-end/secao-6-testes-automatizados-com-react-testing-library/dia-3-rtl-testando-react-router)
 - [x] [_Projeto - Testes em React_](https://github.com/tryber/sd-026-b-project-react-testing-library/pull/46)
 
-#### Gerenciamento de estado com Redux
+#### [Gerenciamento de estado com Redux](https://github.com/pedrohxiv/trybe-exercicios/tree/main/front-end/secao-7-gerenciamento-de-estado-com-redux)
 
-- [ ] _Introdução ao Redux - O estado global da aplicação_
-- [ ] _Usando o Redux no React_
-- [ ] _Usando o Redux no React - Prática_
+- [x] [_Introdução ao Redux - O estado global da aplicação_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/front-end/secao-7-gerenciamento-de-estado-com-redux/dia-1-introducao-ao-redux-o-estado-global-da-aplicacao)
+- [x] [_Usando o Redux no React_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/front-end/secao-7-gerenciamento-de-estado-com-redux/dia-2-usando-o-redux-no-react)
+- [x] [_Usando o Redux no React - Prática_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/front-end/secao-7-gerenciamento-de-estado-com-redux/dia-3-usando-o-redux-no-react-pratica)
 - [ ] _Usando o Redux no React - Actions Assíncronas_
 - [ ] _Testes em React-Redux_
 - [ ] _Projeto - Trybe Wallet_

@@ -1,1 +1,6 @@
+# :paperclip: Seção: Gerenciamento de estado com Redux
+
+Esse bloco pertence ao módulo de `front-end` do curso da [Trybe](https://www.betrybe.com/). Nesta seção aprendi sobre o **_Redux_**, uma biblioteca de gerenciamento de estado global que pode ser utilizada com algum _framework_ front-end ou com JavaScript puro. Com o _Redux_ consegui ter um **estado global** para uma determinada aplicação. E, uma vez definido esse estado, consegui **ler** e **escrever** as informações a partir de qualquer lugar (ou qualquer componente, no caso de usar Redux com React). As **tarefas** de **leitura** e **escrita** no estado global são feitas de forma bem estruturada, isso é, o Redux define uma “receita” que deverá ser seguida. Por essa razão, o Redux é considerado uma biblioteca _“opinativa”_ (tradução de _opinionated_, que significa que a biblioteca possui regras bem definidas de como trabalhar), onde possui ampla adoção entre as pessoas que desenvolvem em _React_.
+
+Tendo isso em mente aqui você encontrará os exercícios que desenvolvi para fixar os conhecimentos que adquiri ao longo dessa seção. Além disso também desenvolvi o projeto ao final dessa seção para avaliar tudo o que havia aprendido, você pode acessá-lo [aqui]().
 

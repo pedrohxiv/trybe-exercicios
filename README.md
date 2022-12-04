@@ -116,19 +116,19 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [x] [_Introdução ao Redux - O estado global da aplicação_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/front-end/secao-7-gerenciamento-de-estado-com-redux/dia-1-introducao-ao-redux-o-estado-global-da-aplicacao)
 - [x] [_Usando o Redux no React_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/front-end/secao-7-gerenciamento-de-estado-com-redux/dia-2-usando-o-redux-no-react)
 - [x] [_Usando o Redux no React - Prática_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/front-end/secao-7-gerenciamento-de-estado-com-redux/dia-3-usando-o-redux-no-react-pratica)
-- [ ] _Usando o Redux no React - Actions Assíncronas_
-- [ ] _Testes em React-Redux_
+- [ ] [_Usando o Redux no React - Actions Assíncronas_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/front-end/secao-7-gerenciamento-de-estado-com-redux/dia-4-usando-o-redux-no-react-actions-assincronas)
+- [ ] [_Testes em React-Redux_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/front-end/secao-7-gerenciamento-de-estado-com-redux/dia-5-testes-em-react-redux)
 - [ ] _Projeto - Trybe Wallet_
 
 #### Projeto Jogo de Trivia
 
 - [ ] _Projeto - Jogo de Trivia_
 
-#### Context API e React Hooks
+#### [Context API e React Hooks](https://github.com/pedrohxiv/trybe-exercicios/tree/main/front-end/secao-8-context-api-e-react-hooks)
 
-- [ ] _Context API do React_
-- [ ] _React Hooks - useState e useContext_
-- [ ] _React Hooks - useEffect e Hooks customizados_
+- [ ] [_Context API do React_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/front-end/secao-8-context-api-e-react-hooks/dia-1-react-hooks-usestate-e-useeffect)
+- [ ] [_React Hooks - useState e useContext_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/front-end/secao-8-context-api-e-react-hooks/dia-2-context-api)
+- [ ] [_React Hooks - useEffect e Hooks customizados_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/front-end/secao-8-context-api-e-react-hooks/dia-3-custom-hooks)
 - [ ] _Projeto - StarWars Datatable com Context API e Hooks_
 
 #### Projeto App de Receitas

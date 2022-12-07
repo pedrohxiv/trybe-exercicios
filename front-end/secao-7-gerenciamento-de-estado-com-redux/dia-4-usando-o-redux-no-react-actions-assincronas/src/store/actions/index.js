@@ -14,7 +14,7 @@ const requestSuccessful = (charater) => {
 const requestFailed = (error) => {
   return {
     type: 'REQUEST_FAILED',
-    errorMessage: error,
+    payload: error,
   };
 };
 

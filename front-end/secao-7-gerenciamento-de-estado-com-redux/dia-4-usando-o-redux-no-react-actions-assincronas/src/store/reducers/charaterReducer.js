@@ -25,7 +25,7 @@ const charaterReducer = (state = INITIAL_STATE, action) => {
         ...state,
         charater: {},
         isFetching: false,
-        errorMessage: action.errorMessage,
+        errorMessage: action.payload,
       };
     default:
       return state;

@@ -21,11 +21,10 @@ class App extends Component {
     const { charater } = this.state;
     const { dispatch, charaterInfo, isFetching, errorMessage } = this.props;
 
-    if (isFetching) return <p>Loading</p>;
-    if (errorMessage) return <p>{errorMessage}</p>;
-
     return (
-      <div>
+      <div style={{ textAlign: 'center' }}>
+        {isFetching && <p>Loading</p>}
+        {errorMessage && <p>{errorMessage}</p>}
         <div>
           <input
             type="text"
@@ -41,14 +40,37 @@ class App extends Component {
             Buscar
           </button>
         </div>
-        <div>
-          <p>Nome: {charaterInfo.name}</p>
-          <p>Genero: {charaterInfo.gender}</p>
-          <p>Cultura: {charaterInfo.culture}</p>
-          <p>Nascido em: {charaterInfo.born}</p>
-          <p>Titulos: {charaterInfo.titles}</p>
-          <p>Apelidos: {charaterInfo.aliases}</p>
-        </div>
+        {!charaterInfo.name ? (
+          <p>Insira o nome de um personagem</p>
+        ) : (
+          <div>
+            <h1>{charaterInfo.name}</h1>
+            <p>
+              <strong>Genero:</strong>
+              <br /> {charaterInfo.gender}
+            </p>
+            <p>
+              <strong>Cultura:</strong>
+              <br /> {charaterInfo.culture}
+            </p>
+            <p>
+              <strong>Nascido em:</strong>
+              <br /> {charaterInfo.born}
+            </p>
+            <p>
+              <strong>Titulos:</strong>
+            </p>
+            {charaterInfo.titles.map((title) => (
+              <p key={title}>{title}</p>
+            ))}
+            <p>
+              <strong>Apelidos:</strong>
+            </p>
+            {charaterInfo.aliases.map((alias) => (
+              <p key={alias}> {alias} </p>
+            ))}
+          </div>
+        )}
       </div>
     );
   }

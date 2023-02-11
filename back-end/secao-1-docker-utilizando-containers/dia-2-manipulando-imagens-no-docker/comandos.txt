@@ -1,0 +1,11 @@
+1 - FROM chuanwen/cowsay:latest
+
+2 - ENTRYPOINT [ "/usr/games/cowsay" ]
+
+3 - CMD [ "Moooo" ]
+
+4 - docker image build ./ -t cowsay
+
+5 - docker container run cowsay
+docker container run cowsay -l
+docker container run cowsay -f dragon-and-cow "VQV TRYBE"

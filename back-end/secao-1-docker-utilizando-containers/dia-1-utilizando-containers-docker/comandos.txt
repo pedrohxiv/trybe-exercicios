@@ -1,0 +1,19 @@
+3 - docker pull debian:stable-slim
+
+4 - docker container run -it debian:stable-slim
+
+5 - cat /etc/*-release
+
+6 - exit 
+
+7 - docker container ls -l
+
+8 - docker start 3feec69a33b6 || NAMES
+
+9 - docker attach 3feec69a33b6
+
+10 - cat /etc/debian_version
+
+11 - exit 
+
+12 - docker container rm 3feec69a33b6

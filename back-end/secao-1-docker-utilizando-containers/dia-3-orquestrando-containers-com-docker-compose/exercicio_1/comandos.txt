@@ -1,0 +1,13 @@
+2 - docker run -d --name site-trybe -p 4545:80 -v /home/pedro/trybe-exercicios/back-end/secao-1-docker-utilizando-containers/dia-3-orquestrando-containers-com-docker-compose/exercicio_1/:/usr/local/apache2/htdocs httpd:2.4
+
+5 - docker container ls
+
+6 - docker inspect f7706b88c9a5
+
+7 - docker stop f7706b88c9a5 
+
+8 - docker rm f7706b88c9a5
+
+10 - docker images
+
+11 - docker rmi -f 3a4ea134cf8e

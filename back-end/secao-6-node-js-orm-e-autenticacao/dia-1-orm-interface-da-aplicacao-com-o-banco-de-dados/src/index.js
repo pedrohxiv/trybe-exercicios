@@ -1,6 +1,6 @@
 const express = require('express');
 
-const BookController = require('./src/controllers/Book');
+const BookController = require('./controllers/Book');
 
 const app = express();
 const PORT = process.env.PORT || 3006;

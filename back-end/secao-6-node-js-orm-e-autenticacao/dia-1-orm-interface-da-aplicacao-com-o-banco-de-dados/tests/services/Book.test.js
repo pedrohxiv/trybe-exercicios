@@ -4,18 +4,17 @@ const { stub } = require('sinon');
 const { Book } = require('../../src/models');
 const BookService = require('../../src/services/Book');
 
-const mockedBook = {
-  id: 1,
-  title: 'Animal Farm',
-  author: 'George Orwell',
-  pageQuantity: 112,
-  createdAt: '2022-09-07 11:23:39',
-  updatedAt: '2022-09-22 15:56:29',
-};
-
 describe('Testando a camada Services de "Book"', () => {
   describe('Verifica a função "getAll"', () => {
     const findAllStub = stub(Book, 'findAll');
+    const mockedFindAllBook = {
+      id: 1,
+      title: 'Animal Farm',
+      author: 'George Orwell',
+      pageQuantity: 112,
+      createdAt: '2022-09-07 11:23:39',
+      updatedAt: '2022-09-22 15:56:29',
+    };
     let books;
 
     describe('Testando a função quando não existe nenhum livro cadastrado', () => {
@@ -41,7 +40,7 @@ describe('Testando a camada Services de "Book"', () => {
 
     describe('Testando a função quando existem livros cadastrados', () => {
       beforeEach(async () => {
-        findAllStub.resolves([mockedBook]);
+        findAllStub.resolves([mockedFindAllBook]);
         books = await BookService.getAll();
       });
       afterEach(() => {
@@ -56,13 +55,21 @@ describe('Testando a camada Services de "Book"', () => {
         expect(books).to.be.an('array');
       });
       it('Verifica se é um objeto contendo os dados do livro', () => {
-        expect(books).to.be.deep.equal([mockedBook]);
+        expect(books).to.be.deep.equal([mockedFindAllBook]);
       });
     });
   });
 
   describe('Verifica a função "getById"', () => {
     const findByPkStub = stub(Book, 'findByPk');
+    const mockedFindByPkBook = {
+      id: 1,
+      title: 'Animal Farm',
+      author: 'George Orwell',
+      pageQuantity: 112,
+      createdAt: '2022-09-07 11:23:39',
+      updatedAt: '2022-09-22 15:56:29',
+    };
     let book;
 
     describe('Testando a função quando não existe o livro', () => {
@@ -85,7 +92,7 @@ describe('Testando a camada Services de "Book"', () => {
 
     describe('Testando a função quando existe o livro', () => {
       beforeEach(async () => {
-        findByPkStub.resolves(mockedBook);
+        findByPkStub.resolves(mockedFindByPkBook);
         book = await BookService.getById(1);
       });
       afterEach(() => {
@@ -97,7 +104,7 @@ describe('Testando a camada Services de "Book"', () => {
         expect(Book.findByPk.calledOnce).to.be.equals(true);
       });
       it('Verifica se a resposta é um objeto contendo os dados do livro', () => {
-        expect(book).to.be.deep.equal(mockedBook);
+        expect(book).to.be.deep.equal(mockedFindByPkBook);
       });
     });
   });
@@ -222,6 +229,14 @@ describe('Testando a camada Services de "Book"', () => {
 
   describe('Verifica a função "getByAuthor"', () => {
     let findAllStub = Book.findAll;
+    const mockedFindAllBook = {
+      id: 1,
+      title: 'Animal Farm',
+      author: 'George Orwell',
+      pageQuantity: 112,
+      createdAt: '2022-09-07 11:23:39',
+      updatedAt: '2022-09-22 15:56:29',
+    };
     let books;
 
     describe('Testando a função quando não existe nenhum livro cadastrado', () => {
@@ -249,7 +264,7 @@ describe('Testando a camada Services de "Book"', () => {
     describe('Testando a função quando existem livros cadastrados', () => {
       beforeEach(async () => {
         if (!findAllStub.restore) findAllStub = stub(Book, 'findAll');
-        findAllStub.resolves([mockedBook]);
+        findAllStub.resolves([mockedFindAllBook]);
         books = await BookService.getByAuthor('George Orwell');
       });
       afterEach(() => {
@@ -264,7 +279,7 @@ describe('Testando a camada Services de "Book"', () => {
         expect(books).to.be.an('array');
       });
       it('Verifica se é um objeto contendo os dados do livro', () => {
-        expect(books).to.be.deep.equal([mockedBook]);
+        expect(books).to.be.deep.equal([mockedFindAllBook]);
       });
     });
   });

@@ -6,7 +6,7 @@ Os requisitos dos exercícios são:
 
 Antes de começar, crie um novo projeto chamado `hello-jwt` utilizando o comando `npm init @trybe/backend hello-jwt`, aceitando as opções padrão.
 
-> ⚠️ Ao iniciar o comando, escolha o MySQL como banco de dados.
+> _⚠️ Ao iniciar o comando, escolha o MySQL como banco de dados._
 
 ## 🚀 Exercício 1:
 

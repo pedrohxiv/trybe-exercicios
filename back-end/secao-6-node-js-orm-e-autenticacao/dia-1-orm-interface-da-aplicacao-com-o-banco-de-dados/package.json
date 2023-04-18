@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "env $(cat .env) nodemon src/server.js",
+    "dev": "env $(cat .env) nodemon src/index.js",
     "test": "mocha tests/**/*$NAME*.test.js --exit"
   },
   "keywords": [],

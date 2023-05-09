@@ -1,7 +1,7 @@
 const sinon = require('sinon');
 const { expect } = require('chai');
 
-const connection = require('../../../src/connection');
+const connection = require('../../../src/models/connection');
 const { driverModel } = require('../../../src/models');
 
 describe('Driver Model', function () {

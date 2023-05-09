@@ -1,4 +1,4 @@
-const connection = require('../connection');
+const connection = require('./connection');
 
 const create = async (driverCar) => {
   const [{ insertId }] = await connection.execute(

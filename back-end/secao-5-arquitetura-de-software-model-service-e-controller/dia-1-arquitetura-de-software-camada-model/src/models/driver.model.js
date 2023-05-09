@@ -1,4 +1,4 @@
-const connection = require('../connection');
+const connection = require('./connection');
 
 const getAll = async () => {
   const result = await connection.execute('SELECT * FROM trybecardb.drivers');

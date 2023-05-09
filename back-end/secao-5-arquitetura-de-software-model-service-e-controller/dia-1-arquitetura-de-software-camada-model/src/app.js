@@ -1,6 +1,7 @@
 const express = require('express');
-const camelize = require('camelize'); // para entender melhor esse pacote vocÊ pode dar uma olhadinha aqui: https://www.npmjs.com/package/camelize
-const connection = require('./connection');
+const connection = require('./models/connection');
+
+const { travelModel } = require('./models');
 
 const app = express();
 
@@ -22,10 +23,11 @@ const passengerExists = async (passengerId) => {
 
 const saveWaypoints = (waypoints, travelId) => {
   if (waypoints && waypoints.length > 0) {
-    return waypoints.map(async (value) => connection.execute(
-      'INSERT INTO waypoints (address, stop_order, travel_id) VALUE (?, ?, ?)',
-      [value.address, value.stopOrder, travelId],
-    ));
+    return waypoints.map(async (value) =>
+      connection.execute(
+        'INSERT INTO waypoints (address, stop_order, travel_id) VALUE (?, ?, ?)',
+        [value.address, value.stopOrder, travelId],
+      ));
   }
   return [];
 };
@@ -35,47 +37,36 @@ app.post('/passengers/:passengerId/request/travel', async (req, res) => {
   const { startingAddress, endingAddress, waypoints } = req.body;
 
   if (await passengerExists(passengerId)) {
-    const [resultTravel] = await connection.execute(
-      `INSERT INTO travels 
-          (passenger_id, starting_address, ending_address) VALUE (?, ?, ?)`,
-      [
-        passengerId,
-        startingAddress,
-        endingAddress,
-      ],
-    );
-    await Promise.all(saveWaypoints(waypoints, resultTravel.insertId));
-    const [[response]] = await connection.execute(
-      'SELECT * FROM travels WHERE id = ?',
-      [resultTravel.insertId],
-    );
-    return res.status(201).json(camelize(response));
+    const travelId = await travelModel.insert({
+      passengerId,
+      startingAddress,
+      endingAddress,
+    });
+    await Promise.all(saveWaypoints(waypoints, travelId));
+    const travel = await travelModel.findById(travelId);
+    return res.status(201).json(travel);
   }
   res.status(500).json({ message: 'Ocorreu um erro' });
 });
 
 app.get('/drivers/open/travels', async (_req, res) => {
-  const [result] = await connection.execute(
-    'SELECT * FROM travels WHERE travel_status_id = ?',
-    [WAITING_DRIVER],
-  );
+  const result = await travelModel.findByTravelStatusId(WAITING_DRIVER);
   res.status(200).json(result);
 });
 
 app.put('/drivers/:driverId/travels/:travelId/assign', async (req, res) => {
   const { travelId, driverId } = req.params;
-  await connection.execute(
-    'UPDATE travels SET driver_id = ? WHERE id = ?',
-    [driverId, travelId],
-  );
+  await connection.execute('UPDATE travels SET driver_id = ? WHERE id = ?', [
+    driverId,
+    travelId,
+  ]);
   await connection.execute(
     'UPDATE travels SET travel_status_id = ? WHERE id = ? AND driver_id = ?',
     [DRIVER_ON_THE_WAY, travelId, driverId],
   );
-  const [[result]] = await connection.execute(
-    'SELECT * FROM travels WHERE id = ?',
-    [travelId],
-  );
+  const [[result]] = await connection.execute('SELECT * FROM travels WHERE id = ?', [
+    travelId,
+  ]);
   res.status(200).json(result);
 });
 
@@ -85,10 +76,9 @@ app.put('/drivers/:driverId/travels/:travelId/start', async (req, res) => {
     'UPDATE travels SET travel_status_id = ? WHERE id = ? AND driver_id = ?',
     [TRAVEL_IN_PROGRESS, travelId, driverId],
   );
-  const [[result]] = await connection.execute(
-    'SELECT * FROM travels WHERE id = ?',
-    [travelId],
-  );
+  const [[result]] = await connection.execute('SELECT * FROM travels WHERE id = ?', [
+    travelId,
+  ]);
   res.status(200).json(result);
 });
 
@@ -98,10 +88,9 @@ app.put('/drivers/:driverId/travels/:travelId/end', async (req, res) => {
     'UPDATE travels SET travel_status_id = ? WHERE id = ? AND driver_id = ?',
     [TRAVEL_FINISHED, travelId, driverId],
   );
-  const [[result]] = await connection.execute(
-    'SELECT * FROM travels WHERE id = ?',
-    [travelId],
-  );
+  const [[result]] = await connection.execute('SELECT * FROM travels WHERE id = ?', [
+    travelId,
+  ]);
   res.status(200).json(result);
 });
 

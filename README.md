@@ -195,19 +195,18 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [ ] _Deploy Docker & Heroku_
 - [ ] _Projeto - Stranger Things_
 
-#### TypeScript
+#### [Introdução a TypeScript](https://github.com/pedrohxiv/trybe-exercicios/tree/main/back-end/secao-8-introducao-a-typescript)
 
-- [ ] _Introdução - TypeScript_
-- [ ] _Introdução ao TypeScript_
-- [ ] _Tipagem Estática e Generics_
-- [ ] _Express com TypeScript_
+- [x] [_Introdução - TypeScript_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/back-end/secao-8-introducao-a-typescript/dia-1-introducao-ao-typescript)
+- [x] [_Tipagem Estática e Generics_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/back-end/secao-8-introducao-a-typescript/dia-2-tipagem-estatica-e-generics)
+- [x] [_Express com TypeScript_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/back-end/secao-8-introducao-a-typescript/dia-3-express-com-typescript)
 - [ ] _Projeto - Trybe Smith_
 
-#### Programação Orientada a Objetos (POO) e SOLID
+#### [Programação Orientada a Objetos (POO) e SOLID](https://github.com/pedrohxiv/trybe-exercicios/tree/main/back-end/secao-9-programacao-orientada-a-objetos-poo-e-solid)
 
-- [ ] _Introdução à Orientação a Objetos_
-- [ ] _Herança e Interfaces_
-- [ ] _Polimorfismo_
+- [x] [_Introdução à Orientação a Objetos_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/back-end/secao-9-programacao-orientada-a-objetos-poo-e-solid/dia-1-introducao-a-orientacao-a-objetos)
+- [x] [_Herança e Interfaces_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/back-end/secao-9-programacao-orientada-a-objetos-poo-e-solid/dia-2-heranca-e-composicao)
+- [x] [_Polimorfismo_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/back-end/secao-9-programacao-orientada-a-objetos-poo-e-solid/dia-3-polimorfismo)
 - [ ] _SOLID - Introdução e Princípios S, O e D_
 - [ ] _SOLID - Princípios L e I_
 - [ ] _Projeto - Trybers and Dragons_

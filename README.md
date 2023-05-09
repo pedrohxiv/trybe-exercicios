@@ -178,12 +178,12 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [ ] _Arquitetura de Software: Camada Controller_
 - [ ] _Projeto - Store Manager_
 
-#### Node.js: ORM e Autenticação
+#### [Node.js: ORM e Autenticação](https://github.com/pedrohxiv/trybe-exercicios/tree/main/back-end/secao-6-node-js-orm-e-autenticacao)
 
-- [ ] _ORM - Interface da aplicação com o banco de dados_
-- [ ] _ORM - Associations 1:1 e 1:N_
-- [ ] _ORM - Associations N:N e Transactions_
-- [ ] _JWT - (JSON Web Token)_
+- [x] [_ORM - Interface da aplicação com o banco de dados_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/back-end/secao-6-node-js-orm-e-autenticacao/dia-1-orm-interface-da-aplicacao-com-o-banco-de-dados)
+- [x] [_ORM - Associations 1:1 e 1:N_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/back-end/secao-6-node-js-orm-e-autenticacao/dia-2-orm-associations-1-1-e-1-n)
+- [x] [_ORM - Associations N:N e Transactions_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/back-end/secao-6-node-js-orm-e-autenticacao/dia-3-orm-associations-n-n-e-transactions)
+- [x] [_JWT - (JSON Web Token)_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/back-end/secao-6-node-js-orm-e-autenticacao/dia-4-jwt-json-web-token)
 - [ ] _Projeto - API de Blogs_
 
 #### Masterclass: Implantação de Aplicações na Nuvem

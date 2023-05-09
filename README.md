@@ -173,7 +173,6 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 #### Arquitetura de Software: Model, Service e Controller
 
-- [ ] _Introdução - Arquitetura de Software_
 - [ ] _Arquitetura de Software: Camada Model_
 - [ ] _Arquitetura de Software: Camada Service_
 - [ ] _Arquitetura de Software: Camada Controller_
@@ -181,26 +180,22 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 #### Node.js: ORM e Autenticação
 
-- [ ] _Introdução - Node.js: ORM e Autenticação_
 - [ ] _ORM - Interface da aplicação com o banco de dados_
 - [ ] _ORM - Associations 1:1 e 1:N_
 - [ ] _ORM - Associations N:N e Transactions_
 - [ ] _JWT - (JSON Web Token)_
 - [ ] _Projeto - API de Blogs_
 
-#### Deployment
+#### Masterclass: Implantação de Aplicações na Nuvem
 
-- [ ] _Introdução - Deploy_
-- [ ] _Infraestrutura - Deploy com Heroku_
-- [ ] _Deploy Docker & Heroku_
-- [ ] _Projeto - Stranger Things_
+- [x] _Infraestrutura: Deploy com Railway_
 
 #### [Introdução a TypeScript](https://github.com/pedrohxiv/trybe-exercicios/tree/main/back-end/secao-8-introducao-a-typescript)
 
-- [x] [_Introdução - TypeScript_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/back-end/secao-8-introducao-a-typescript/dia-1-introducao-ao-typescript)
+- [x] [_Introdução ao TypeScript_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/back-end/secao-8-introducao-a-typescript/dia-1-introducao-ao-typescript)
 - [x] [_Tipagem Estática e Generics_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/back-end/secao-8-introducao-a-typescript/dia-2-tipagem-estatica-e-generics)
 - [x] [_Express com TypeScript_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/back-end/secao-8-introducao-a-typescript/dia-3-express-com-typescript)
-- [ ] _Projeto - Trybe Smith_
+- [ ] _Projeto - Trybesmith_
 
 #### [Programação Orientada a Objetos (POO) e SOLID](https://github.com/pedrohxiv/trybe-exercicios/tree/main/back-end/secao-9-programacao-orientada-a-objetos-poo-e-solid)
 

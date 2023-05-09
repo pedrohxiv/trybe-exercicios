@@ -4,7 +4,7 @@
 
 Os requisitos dos exercícios são:
 
-## Classes Interfaces e Generics
+## Classes, Interfaces e Generics
 
 ### Exercício 1
 

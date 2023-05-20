@@ -1,0 +1,8 @@
+Exercício 1:
+
+status 400 = (Bad Request) Significa que o servidor não entendeu a requisição pois está com uma sintaxe inválida.
+status 422 = (Unprocessable Entity) Significa que a requisição está bem formada mas inabilitada para ser seguida devido a erros semânticos.
+
+Exercício 2:
+
+status 401 = (Unauthorized) Significa que o cliente deve se autenticar para obter a resposta solicitada.

@@ -4,9 +4,6 @@
 
 Os requisitos dos exercícios são:
 
-> _🚀 Se liga nesse foguete!_
-> _Os exercícios destacados com 🚀 são os fundamentais pra você ir bem no projeto! Todos os exercícios vão contribuir com sua formação mas fique de olho nesses! 👀_
-
 ⚠️ **Atenção**: A resolução dos exercícios deste dia (5.1), será utilizada como base nos exercícios dos dias 5.2 e 5.3, portanto, lembre-se de realizá-los. 😉
 
 Você mandou bem na refatoração! 🎉

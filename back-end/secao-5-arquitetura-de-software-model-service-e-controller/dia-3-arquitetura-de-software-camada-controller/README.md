@@ -4,9 +4,6 @@
 
 Os requisitos dos exercícios são:
 
-> _🚀 Se liga nesse foguete!_
-> _Os exercícios destacados com 🚀 são os fundamentais pra você ir bem no projeto! Todos os exercícios vão contribuir com sua formação mas fique de olho nesses! 👀_
-
 🚀 Ao longo desse bloco, você desenvolveu uma aplicação de UBER! Hoje você descobriu uma nova camada de arquitetura: a camada dos Controllers! Agora você vai desenvolver os controllers e os testes da sua aplicação de maneira que ela fique ainda mais estruturada.
 
 ATENÇÃO! Não tente fazer tudo de uma vez caso ainda não se sinta confortável! Pense no nome das funções e desenvolva seus códigos com calma, sempre fazendo os testes para cada função e mockando o que for necessário!

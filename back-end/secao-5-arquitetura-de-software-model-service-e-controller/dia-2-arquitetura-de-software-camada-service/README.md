@@ -4,9 +4,6 @@
 
 Os requisitos dos exercícios são:
 
-> _🚀 Se liga nesse foguete!_
-> _Os exercícios destacados com 🚀 são os fundamentais pra você ir bem no projeto! Todos os exercícios vão contribuir com sua formação mas fique de olho nesses! 👀_
-
 Agora é a hora de criar algumas funções da camada Service que vão usar as funções da camada Model que fizemos anteriormente.
 
 Nessas novas funções vamos validar se os dados que recebemos da camada Controller estão de acordo com as regras de negócio.

@@ -137,19 +137,17 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 ## Desenvolvimento Back-end:hourglass_flowing_sand:
 
-#### Docker: Utilizando Containers
+#### [Docker: Utilizando Containers](https://github.com/pedrohxiv/trybe-exercicios/tree/main/back-end/secao-1-docker-utilizando-containers)
 
-- [ ] _Introdução - Back-end_
-- [ ] _Utilizando Containers - Docker_
-- [ ] _Manipulando Imagens no Docker_
-- [ ] _Orquestrando Containers com Docker Compose_
+- [ ] [_Utilizando Containers - Docker_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/back-end/secao-1-docker-utilizando-containers/dia-1-utilizando-containers-docker)
+- [ ] [_Manipulando Imagens no Docker_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/back-end/secao-1-docker-utilizando-containers/dia-2-manipulando-imagens-no-docker)
+- [ ] [_Orquestrando Containers com Docker Compose_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/back-end/secao-1-docker-utilizando-containers/dia-3-orquestrando-containers-com-docker-compose)
 - [ ] _Projeto - Docker Todo-List_
 
-#### Introdução à SQL
+#### [Introdução à SQL](https://github.com/pedrohxiv/trybe-exercicios/tree/main/back-end/secao-2-introducao-a-sql)
 
-- [ ] _Introdução - Bancos de dados relacionais_
-- [ ] _Banco de dados SQL_
-- [ ] _Encontrando dados em um banco de dados_
+- [ ] [_Banco de dados SQL_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/back-end/secao-2-introducao-a-sql/dia-1-banco-de-dados-sql)
+- [ ] [_Encontrando dados em um banco de dados_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/back-end/secao-2-introducao-a-sql/dia-2-encontrando-dados-em-um-banco-de-dados)
 - [ ] _Filtrando dados de forma específica_
 - [ ] _Manipulando tabelas_
 - [ ] _Projeto - All For One_

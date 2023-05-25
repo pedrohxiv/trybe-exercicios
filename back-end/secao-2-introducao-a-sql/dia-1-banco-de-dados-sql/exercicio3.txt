@@ -1,0 +1,1 @@
+Preenchido a tabela e adicionado os campos necessarios com suas devidas restrições foi somente clicar em "Apply" para criar uma tabela.

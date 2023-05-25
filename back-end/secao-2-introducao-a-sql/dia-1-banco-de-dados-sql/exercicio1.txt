@@ -1,0 +1,1 @@
+Clicando com o botão direito na tabela e selecionando "select rows - limit 200".

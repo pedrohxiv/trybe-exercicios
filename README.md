@@ -25,7 +25,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [x] [_HTML & CSS - Primeiros passos em CSS_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/fundamentos/secao-3-introducao-a-html-e-css/dia-2-html-e-css-primeiros-passos-em-css)
 - [x] [_HTML & CSS - Seletores e posicionamento_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/fundamentos/secao-3-introducao-a-html-e-css/dia-3-html-e-css-seletores-e-posicionamento)
 - [x] [_HTML Semântico_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/fundamentos/secao-3-introducao-a-html-e-css/dia-4-html-semantico)
-- [x] [_Projeto - Lessons Learned_](https://github.com/tryber/sd-026-b-project-lessons-learned/pull/40)
+- [x] _Projeto - Lessons Learned_
 
 #### [Introdução à JavaScript e Lógica de Programação](https://github.com/pedrohxiv/trybe-exercicios/tree/main/fundamentos/secao-4-introducao-a-javascript-e-logica-de-programacao)
 
@@ -33,7 +33,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [x] [_JavaScript - Array e loop For_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/fundamentos/secao-4-introducao-a-javascript-e-logica-de-programacao/dia-2-javascript-array-e-loop-for)
 - [x] [_JavaScript - Lógica de Programação e Algoritmos_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/fundamentos/secao-4-introducao-a-javascript-e-logica-de-programacao/dia-3-javascript-logica-de-programacao-e-algoritmos)
 - [x] [_JavaScript - Objetos e funções_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/fundamentos/secao-4-introducao-a-javascript-e-logica-de-programacao/dia-4-javascript-objetos-e-funcoes)
-- [x] [_Projeto - Playground Functions_](https://github.com/tryber/sd-t26-b-project-playground-functions/pull/63)
+- [x] _Projeto - Playground Functions_
 
 #### [JavaScript: DOM, Eventos e Web Storage](https://github.com/pedrohxiv/trybe-exercicios/tree/main/fundamentos/secao-5-javascript-dom-eventos-e-web-storage)
 
@@ -41,11 +41,11 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [x] [_JavaScript - Trabalhando com elementos_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/fundamentos/secao-5-javascript-dom-eventos-e-web-storage/dia-2-javascript-trabalhando-com-elementos)
 - [x] [_JavaScript - Eventos_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/fundamentos/secao-5-javascript-dom-eventos-e-web-storage/dia-3-javascript-eventos)
 - [x] [_JavaScript - Web Storage_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/fundamentos/secao-5-javascript-dom-eventos-e-web-storage/dia-4-javascript-web-storage)
-- [x] [_Projeto - Arte com Pixels_](https://github.com/tryber/sd-t26-b-project-pixels-art/pull/60)
-- [x] [_(Bônus) Projeto - Lista de tarefas_](https://github.com/tryber/sd-t26-b-project-todo-list/pull/7)
-- [x] [_(Bônus) Projeto - Meme Generator_](https://github.com/tryber/sd-t26-b-project-meme-generator/pull/5)
-- [x] [_(Bônus) Projeto - Adivinhe a Cor_](https://github.com/tryber/sd-t26-b-project-color-guess/pull/4)
-- [x] [_(Bônus) Projeto - Carta Misteriosa_](https://github.com/tryber/sd-t26-b-project-carta-misteriosa/pull/4)
+- [x] _Projeto - Arte com Pixels_
+- [x] _(Bônus) Projeto - Lista de tarefas_
+- [x] _(Bônus) Projeto - Meme Generator_
+- [x] _(Bônus) Projeto - Adivinhe a Cor_
+- [x] _(Bônus) Projeto - Carta Misteriosa_
 
 #### [HTML e CSS: Forms, Flexbox e Responsivo](https://github.com/pedrohxiv/trybe-exercicios/tree/main/fundamentos/secao-6-html-e-css-forms-flexbox-e-responsivo)
 
@@ -54,14 +54,14 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [x] [_CSS Flexbox - Parte 1_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/fundamentos/secao-6-html-e-css-forms-flexbox-e-responsivo/dia-3-css-flexbox-parte-1)
 - [x] [_CSS Flexbox - Parte 2_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/fundamentos/secao-6-html-e-css-forms-flexbox-e-responsivo/dia-4-css-flexbox-parte-2)
 - [x] [_CSS Responsivo - Mobile First_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/fundamentos/secao-6-html-e-css-forms-flexbox-e-responsivo/dia-5-css-responsivo-mobile-first)
-- [x] [_Projeto - Trybewarts_](https://github.com/tryber/sd-026-b-project-trybewarts/pull/69)
+- [x] _Projeto - Trybewarts_
 
 #### [Introdução à JavaScript ES6 e Testes Unitários](https://github.com/pedrohxiv/trybe-exercicios/tree/main/fundamentos/secao-7-introducao-a-javascript-es6-e-testes-unitarios)
 
 - [x] [_JavaScript ES6 - let, const, arrow functions e template literals_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/fundamentos/secao-7-introducao-a-javascript-es6-e-testes-unitarios/dia-1-javascript-es6-let-const-arrow-functions-e-template-literals)
 - [x] [_JavaScript ES6 - Fluxo de exceção e Objetos_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/fundamentos/secao-7-introducao-a-javascript-es6-e-testes-unitarios/dia-2-javascript-es6-fluxo-de-excecao-e-objetos)
 - [x] [_Primeiros passos em Jest_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/fundamentos/secao-7-introducao-a-javascript-es6-e-testes-unitarios/dia-3-primeiros-passos-em-jest)
-- [x] [_Projeto - JavaScript Testes Unitários_](https://github.com/tryber/sd-026-b-project-js-unit-tests/pull/57)
+- [x] _Projeto - JavaScript Testes Unitários_
 
 #### [Higher Order Functions do JavaScript ES6](https://github.com/pedrohxiv/trybe-exercicios/tree/main/fundamentos/secao-8-higher-order-functions-do-javascript-es6)
 
@@ -70,7 +70,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [x] [_JavaScript ES6 - Higher Order Functions - map e filter_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/fundamentos/secao-8-higher-order-functions-do-javascript-es6/dia-3-javascript-es6-higher-order-functions-map-e-filter)
 - [x] [_JavaScript ES6 - Higher Order Functions - reduce_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/fundamentos/secao-8-higher-order-functions-do-javascript-es6/dia-4-javascript-es6-higher-order-functions-reduce)
 - [x] [_JavaScript ES6 - spread operator, parâmetro rest, destructuring e mais_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/fundamentos/secao-8-higher-order-functions-do-javascript-es6/dia-5-javascript-es6-spread-operator-parametro-rest-destructuring-e-mais)
-- [x] [_Projeto - Zoo functions_](https://github.com/tryber/sd-026-b-project-zoo-functions/pull/70)
+- [x] _Projeto - Zoo functions_
 
 ## [Desenvolvimento Front-end](https://github.com/pedrohxiv/trybe-exercicios/tree/main/front-end) :heavy_check_mark:
 
@@ -79,37 +79,37 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [x] [_JavaScript Assíncrono e Callbacks_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/front-end/secao-1-javascript-e-testes-assincronos/dia-1-javascript-assincrono-e-callbacks)
 - [x] [_JavaScript Assíncrono - Fetch API e async/await_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/front-end/secao-1-javascript-e-testes-assincronos/dia-2-javascript-assincrono-fetch-api-e-async-await)
 - [x] [_Jest - Testes Assíncronos_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/front-end/secao-1-javascript-e-testes-assincronos/dia-3-jest-testes-assincronos)
-- [x] [_Projeto - Carrinho de Compras_](https://github.com/tryber/sd-026-b-project-shopping-cart/pull/39)
+- [x] _Projeto - Carrinho de Compras_
 
 #### [Introdução à React](https://github.com/pedrohxiv/trybe-exercicios/tree/main/front-end/secao-2-introducao-ao-react)
 
 - [x] [_'Hello, world!' no React!_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/front-end/secao-2-introducao-ao-react/dia-1-hello-world-no-react)
 - [x] [_Componentes React_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/front-end/secao-2-introducao-ao-react/dia-2-componentes-react)
-- [x] [_Projeto - Sistema Solar_](https://github.com/tryber/sd-026-b-project-solar-system/pull/31)
+- [x] _Projeto - Sistema Solar_
 
 #### [Componentes com Estado, Eventos e Formulários com React](https://github.com/pedrohxiv/trybe-exercicios/tree/main/front-end/secao-3-componentes-com-estado-eventos-e-formularios-com-react)
 
 - [x] [_Componentes com estado e eventos_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/front-end/secao-3-componentes-com-estado-eventos-e-formularios-com-react/dia-1-componentes-com-estado-e-eventos)
 - [x] [_Formulários no React_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/front-end/secao-3-componentes-com-estado-eventos-e-formularios-com-react/dia-2-formularios-no-react)
-- [x] [_Projeto - Tryunfo_](https://github.com/tryber/sd-026-b-project-tryunfo/pull/45)
+- [x] _Projeto - Tryunfo_
 
 #### [Ciclo de Vida de Componentes e React Router](https://github.com/pedrohxiv/trybe-exercicios/tree/main/front-end/secao-4-ciclo-de-vida-de-componentes-e-react-router)
 
 - [x] [_Ciclo de vida de componentes_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/front-end/secao-4-ciclo-de-vida-de-componentes-e-react-router/dia-1-ciclo-de-vida-de-componentes)
 - [x] [_React Router_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/front-end/secao-4-ciclo-de-vida-de-componentes-e-react-router/dia-2-react-router)
-- [x] [_Projeto - TrybeTunes_](https://github.com/tryber/sd-026-b-project-trybetunes/pull/29)
+- [x] _Projeto - TrybeTunes_
 
 #### [Metodologias Ágeis](https://github.com/pedrohxiv/trybe-exercicios/tree/main/front-end/secao-5-metodologias-ageis)
 
 - [x] [_Metodologias Ágeis_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/front-end/secao-5-metodologias-ageis)
-- [x] [_Projeto - Frontend Online Store_](https://github.com/tryber/sd-026-b-project-frontend-online-store/tree/main-group-9)
+- [x] _Projeto - Frontend Online Store_
 
 #### [Testes automatizados com React Testing Library](https://github.com/pedrohxiv/trybe-exercicios/tree/main/front-end/secao-6-testes-automatizados-com-react-testing-library)
 
 - [x] [_RTL - Primeiros passos_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/front-end/secao-6-testes-automatizados-com-react-testing-library/dia-1-rtl-primeiros-passos)
 - [x] [_RTL - Mocks e Inputs_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/front-end/secao-6-testes-automatizados-com-react-testing-library/dia-2-rtl-mocks-e-inputs)
 - [x] [_RTL - Testando React Router_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/front-end/secao-6-testes-automatizados-com-react-testing-library/dia-3-rtl-testando-react-router)
-- [x] [_Projeto - Testes em React_](https://github.com/tryber/sd-026-b-project-react-testing-library/pull/46)
+- [x] _Projeto - Testes em React_
 
 #### [Gerenciamento de estado com Redux](https://github.com/pedrohxiv/trybe-exercicios/tree/main/front-end/secao-7-gerenciamento-de-estado-com-redux)
 
@@ -157,7 +157,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [x] [_Funções mais usadas no SQL_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/back-end/secao-3-funcoes-sql-joins-e-normalizacao/dia-1-funcoes-mais-usadas-no-sql)
 - [x] [_Descomplicando JOINs_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/back-end/secao-3-funcoes-sql-joins-e-normalizacao/dia-2-descomplicando-joins)
 - [x] [_Transformando ideias em um modelo de banco de dados_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/back-end/secao-3-funcoes-sql-joins-e-normalizacao/dia-3-transformando-ideias-em-um-modelo-de-banco-de-dados)
-- [x] _Aula ao vivo + Projeto - One For All_
+- [x] _Projeto - One For All_
 
 #### [Introdução ao desenvolvimento Web com Node.js](https://github.com/pedrohxiv/trybe-exercicios/tree/main/back-end/secao-4-introducao-ao-desenvolvimento-web-com-node-js)
 

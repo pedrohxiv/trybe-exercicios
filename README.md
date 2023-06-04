@@ -72,7 +72,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [x] [_JavaScript ES6 - spread operator, parâmetro rest, destructuring e mais_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/fundamentos/secao-8-higher-order-functions-do-javascript-es6/dia-5-javascript-es6-spread-operator-parametro-rest-destructuring-e-mais)
 - [x] [_Projeto - Zoo functions_](https://github.com/tryber/sd-026-b-project-zoo-functions/pull/70)
 
-## [Desenvolvimento Front-end](https://github.com/pedrohxiv/trybe-exercicios/tree/main/front-end) :hourglass_flowing_sand:
+## [Desenvolvimento Front-end](https://github.com/pedrohxiv/trybe-exercicios/tree/main/front-end) :heavy_check_mark:
 
 #### [JavaScript e Testes Assíncronos](https://github.com/pedrohxiv/trybe-exercicios/tree/main/front-end/secao-1-javascript-e-testes-assincronos)
 
@@ -116,65 +116,64 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [x] [_Introdução ao Redux - O estado global da aplicação_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/front-end/secao-7-gerenciamento-de-estado-com-redux/dia-1-introducao-ao-redux-o-estado-global-da-aplicacao)
 - [x] [_Usando o Redux no React_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/front-end/secao-7-gerenciamento-de-estado-com-redux/dia-2-usando-o-redux-no-react)
 - [x] [_Usando o Redux no React - Prática_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/front-end/secao-7-gerenciamento-de-estado-com-redux/dia-3-usando-o-redux-no-react-pratica)
-- [ ] [_Usando o Redux no React - Actions Assíncronas_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/front-end/secao-7-gerenciamento-de-estado-com-redux/dia-4-usando-o-redux-no-react-actions-assincronas)
-- [ ] [_Testes em React-Redux_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/front-end/secao-7-gerenciamento-de-estado-com-redux/dia-5-testes-em-react-redux)
-- [ ] _Projeto - Trybe Wallet_
+- [x] [_Usando o Redux no React - Actions Assíncronas_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/front-end/secao-7-gerenciamento-de-estado-com-redux/dia-4-usando-o-redux-no-react-actions-assincronas)
+- [x] [_Testes em React-Redux_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/front-end/secao-7-gerenciamento-de-estado-com-redux/dia-5-testes-em-react-redux)
+- [x] _Projeto - Trybe Wallet_
 
 #### Projeto Jogo de Trivia
 
-- [ ] _Projeto - Jogo de Trivia_
+- [x] _Projeto - Jogo de Trivia_
 
 #### [Context API e React Hooks](https://github.com/pedrohxiv/trybe-exercicios/tree/main/front-end/secao-8-context-api-e-react-hooks)
 
-- [ ] [_Context API do React_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/front-end/secao-8-context-api-e-react-hooks/dia-1-react-hooks-usestate-e-useeffect)
-- [ ] [_React Hooks - useState e useContext_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/front-end/secao-8-context-api-e-react-hooks/dia-2-context-api)
-- [ ] [_React Hooks - useEffect e Hooks customizados_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/front-end/secao-8-context-api-e-react-hooks/dia-3-custom-hooks)
-- [ ] _Projeto - StarWars Datatable com Context API e Hooks_
+- [x] [_Context API do React_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/front-end/secao-8-context-api-e-react-hooks/dia-1-react-hooks-usestate-e-useeffect)
+- [x] [_React Hooks - useState e useContext_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/front-end/secao-8-context-api-e-react-hooks/dia-2-context-api)
+- [x] [_React Hooks - useEffect e Hooks customizados_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/front-end/secao-8-context-api-e-react-hooks/dia-3-custom-hooks)
+- [x] _Projeto - StarWars Datatable com Context API e Hooks_
 
 #### Projeto App de Receitas
 
-- [ ] _Projeto - App de Receitas_
+- [x] _Projeto - App de Receitas_
 
-## Desenvolvimento Back-end:hourglass_flowing_sand:
+## [Desenvolvimento Back-end](https://github.com/pedrohxiv/trybe-exercicios/tree/main/back-end) :heavy_check_mark:
 
 #### [Docker: Utilizando Containers](https://github.com/pedrohxiv/trybe-exercicios/tree/main/back-end/secao-1-docker-utilizando-containers)
 
-- [ ] [_Utilizando Containers - Docker_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/back-end/secao-1-docker-utilizando-containers/dia-1-utilizando-containers-docker)
-- [ ] [_Manipulando Imagens no Docker_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/back-end/secao-1-docker-utilizando-containers/dia-2-manipulando-imagens-no-docker)
-- [ ] [_Orquestrando Containers com Docker Compose_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/back-end/secao-1-docker-utilizando-containers/dia-3-orquestrando-containers-com-docker-compose)
-- [ ] _Projeto - Docker Todo-List_
+- [x] [_Utilizando Containers - Docker_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/back-end/secao-1-docker-utilizando-containers/dia-1-utilizando-containers-docker)
+- [x] [_Manipulando Imagens no Docker_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/back-end/secao-1-docker-utilizando-containers/dia-2-manipulando-imagens-no-docker)
+- [x] [_Orquestrando Containers com Docker Compose_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/back-end/secao-1-docker-utilizando-containers/dia-3-orquestrando-containers-com-docker-compose)
+- [x] _Projeto - Docker Todo-List_
 
 #### [Introdução à SQL](https://github.com/pedrohxiv/trybe-exercicios/tree/main/back-end/secao-2-introducao-a-sql)
 
-- [ ] [_Banco de dados SQL_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/back-end/secao-2-introducao-a-sql/dia-1-banco-de-dados-sql)
-- [ ] [_Encontrando dados em um banco de dados_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/back-end/secao-2-introducao-a-sql/dia-2-encontrando-dados-em-um-banco-de-dados)
-- [ ] _Filtrando dados de forma específica_
-- [ ] _Manipulando tabelas_
-- [ ] _Projeto - All For One_
+- [x] [_Banco de dados SQL_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/back-end/secao-2-introducao-a-sql/dia-1-banco-de-dados-sql)
+- [x] [_Encontrando dados em um banco de dados_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/back-end/secao-2-introducao-a-sql/dia-2-encontrando-dados-em-um-banco-de-dados)
+- [x] [_Filtrando dados de forma específica_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/back-end/secao-2-introducao-a-sql/dia-3-filtrando-dados-de-forma-especifica)
+- [x] [_Manipulando tabelas_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/back-end/secao-2-introducao-a-sql/dia-4-manipulando-tabelas)
+- [x] _Projeto - All For One_
 
-#### Funções SQL, JOINs e Normalização
+#### [Funções SQL, JOINs e Normalização](https://github.com/pedrohxiv/trybe-exercicios/tree/main/back-end/secao-3-funcoes-sql-joins-e-normalizacao)
 
-- [ ] _Funções mais usadas no SQL_
-- [ ] _Descomplicando JOINs_
-- [ ] _Transformando ideias em um modelo de banco de dados_
-- [ ] _Aula ao vivo + Projeto - One For All_
+- [x] [_Funções mais usadas no SQL_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/back-end/secao-3-funcoes-sql-joins-e-normalizacao/dia-1-funcoes-mais-usadas-no-sql)
+- [x] [_Descomplicando JOINs_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/back-end/secao-3-funcoes-sql-joins-e-normalizacao/dia-2-descomplicando-joins)
+- [x] [_Transformando ideias em um modelo de banco de dados_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/back-end/secao-3-funcoes-sql-joins-e-normalizacao/dia-3-transformando-ideias-em-um-modelo-de-banco-de-dados)
+- [x] _Aula ao vivo + Projeto - One For All_
 
-#### Introdução ao desenvolvimento Web com Node.js
+#### [Introdução ao desenvolvimento Web com Node.js](https://github.com/pedrohxiv/trybe-exercicios/tree/main/back-end/secao-4-introducao-ao-desenvolvimento-web-com-node-js)
 
-- [ ] _Intro - Node.js_
-- [ ] _Node.js: Runtime Assíncrono_
-- [ ] _Node.js: API REST com Express_
-- [ ] _Node.js: Testes de Integração_
-- [ ] _Express: Middlewares_
-- [ ] _Node.js: Express e Mysql_
-- [ ] _Atividades + Projeto - Talker Manager_
+- [x] [_Node.js: Runtime Assíncrono_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/back-end/secao-4-introducao-ao-desenvolvimento-web-com-node-js/dia-1-node-js-runtime-assincrono)
+- [x] [_Node.js: API REST com Express_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/back-end/secao-4-introducao-ao-desenvolvimento-web-com-node-js/dia-2-node-js-api-rest-com-express)
+- [x] [_Node.js: Testes de Integração_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/back-end/secao-4-introducao-ao-desenvolvimento-web-com-node-js/dia-3-node-js-testes-de-integracao)
+- [x] [_Node.js: Express e Middlewares_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/back-end/secao-4-introducao-ao-desenvolvimento-web-com-node-js/dia-4-node-js-express-e-middlewares)
+- [x] [_Node.js: Express e Mysql_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/back-end/secao-4-introducao-ao-desenvolvimento-web-com-node-js/dia-5-node-js-express-e-mysql)
+- [x] _Projeto - Talker Manager_
 
-#### Arquitetura de Software: Model, Service e Controller
+#### [Arquitetura de Software: Model, Service e Controller](https://github.com/pedrohxiv/trybe-exercicios/tree/main/back-end/secao-5-arquitetura-de-software-model-service-e-controller)
 
-- [ ] _Arquitetura de Software: Camada Model_
-- [ ] _Arquitetura de Software: Camada Service_
-- [ ] _Arquitetura de Software: Camada Controller_
-- [ ] _Projeto - Store Manager_
+- [x] [_Arquitetura de Software: Camada Model_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/back-end/secao-5-arquitetura-de-software-model-service-e-controller/dia-1-arquitetura-de-software-camada-model)
+- [x] [_Arquitetura de Software: Camada Service_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/back-end/secao-5-arquitetura-de-software-model-service-e-controller/dia-2-arquitetura-de-software-camada-service)
+- [x] [_Arquitetura de Software: Camada Controller_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/back-end/secao-5-arquitetura-de-software-model-service-e-controller/dia-3-arquitetura-de-software-camada-controller)
+- [x] _Projeto - Store Manager_
 
 #### [Node.js: ORM e Autenticação](https://github.com/pedrohxiv/trybe-exercicios/tree/main/back-end/secao-6-node-js-orm-e-autenticacao)
 
@@ -182,7 +181,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [x] [_ORM - Associations 1:1 e 1:N_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/back-end/secao-6-node-js-orm-e-autenticacao/dia-2-orm-associations-1-1-e-1-n)
 - [x] [_ORM - Associations N:N e Transactions_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/back-end/secao-6-node-js-orm-e-autenticacao/dia-3-orm-associations-n-n-e-transactions)
 - [x] [_JWT - (JSON Web Token)_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/back-end/secao-6-node-js-orm-e-autenticacao/dia-4-jwt-json-web-token)
-- [ ] _Projeto - API de Blogs_
+- [x] _Projeto - API de Blogs_
 
 #### Masterclass: Implantação de Aplicações na Nuvem
 
@@ -193,87 +192,45 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [x] [_Introdução ao TypeScript_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/back-end/secao-8-introducao-a-typescript/dia-1-introducao-ao-typescript)
 - [x] [_Tipagem Estática e Generics_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/back-end/secao-8-introducao-a-typescript/dia-2-tipagem-estatica-e-generics)
 - [x] [_Express com TypeScript_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/back-end/secao-8-introducao-a-typescript/dia-3-express-com-typescript)
-- [ ] _Projeto - Trybesmith_
+- [x] _Projeto - Trybesmith_
 
 #### [Programação Orientada a Objetos (POO) e SOLID](https://github.com/pedrohxiv/trybe-exercicios/tree/main/back-end/secao-9-programacao-orientada-a-objetos-poo-e-solid)
 
 - [x] [_Introdução à Orientação a Objetos_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/back-end/secao-9-programacao-orientada-a-objetos-poo-e-solid/dia-1-introducao-a-orientacao-a-objetos)
 - [x] [_Herança e Interfaces_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/back-end/secao-9-programacao-orientada-a-objetos-poo-e-solid/dia-2-heranca-e-composicao)
 - [x] [_Polimorfismo_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/back-end/secao-9-programacao-orientada-a-objetos-poo-e-solid/dia-3-polimorfismo)
-- [ ] _SOLID - Introdução e Princípios S, O e D_
-- [ ] _SOLID - Princípios L e I_
-- [ ] _Projeto - Trybers and Dragons_
+- [x] [_SOLID - Introdução e Princípios S, O e D_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/back-end/secao-9-programacao-orientada-a-objetos-poo-e-solid/dia-4-solid-introducao-e-principios-s-o-d)
+- [x] [_SOLID - Princípios L e I_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/back-end/secao-9-programacao-orientada-a-objetos-poo-e-solid/dia-5-solid-principios-l-i)
+- [x] _Projeto - Trybers and Dragons_
 
 #### Projeto - TFC - Trybe Futebol Clube
 
-- [ ] _Projeto - TFC - Trybe Futebol Clube_
+- [x] _Projeto - TFC - Trybe Futebol Clube_
 
-#### Introdução ao MongoDB
+## [Ciência da Computação](https://github.com/pedrohxiv/trybe-exercicios/tree/main/ciencia-da-computacao) :hourglass_flowing_sand:
 
-- [ ] _Introdução - NoSQL_
-- [ ] _MongoDB - Introdução_
-- [ ] _Filter Operators_
-- [ ] _Operadores de consulta_
-- [ ] _Updates Simples_
-- [ ] _Updates Complexos - Arrays_
-- [ ] _Projeto - Commerce_
+#### [Introdução à Python](https://github.com/pedrohxiv/trybe-exercicios/tree/main/ciencia-da-computacao/secao-1-introducao-a-python)
 
-#### MongoDB com Node.js e POO
+- [x] [_Aprendendo Python_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/ciencia-da-computacao/secao-1-introducao-a-python/dia-1-aprendendo-python)
+- [x] [_Entrada e Saída de Dados com Testes_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/ciencia-da-computacao/secao-1-introducao-a-python/dia-2-entrada-e-saida-de-dados-com-testes)
 
-- [ ] _Mongoose e arquitetura MSC(camada Model)_
-- [ ] _Mongoose e arquitetura MSC(camada Service e Controller)_
-- [ ] _Projeto - Car Shop_
+#### [Algoritmos](https://github.com/pedrohxiv/trybe-exercicios/tree/main/ciencia-da-computacao/secao-2-algoritmos)
 
-#### Projeto - App de Delivery
+- [x] [_Complexidade de Algoritmos_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/ciencia-da-computacao/secao-2-algoritmos/dia-1-complexidade-de-algoritmos)
+- [x] [_Recursividade e Estratégias para solução de problemas_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/ciencia-da-computacao/secao-2-algoritmos/dia-2-recursividade-e-estrategias-para-solucao-de-problemas)
+- [x] [_Algoritmos de ordenação e busca_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/ciencia-da-computacao/secao-2-algoritmos/dia-3-algoritmos-de-ordenacao-e-busca)
+- [x] _Projeto - Algoritmos_
 
-- [ ] _Projeto - App de Delivery_
+#### [Estrutura de Dados I: Listas Lineares](https://github.com/pedrohxiv/trybe-exercicios/tree/main/ciencia-da-computacao/secao-3-estrutura-de-dados-I-listas-lineares)
 
-#### MasterClass - VPS, CI/CD
-
-- [ ] _Dia 1 - VPS_
-- [ ] _Dia 2_
-
-## Ciência da Computação:hourglass_flowing_sand:
-
-#### Introdução à Python
-
-- [ ] _Introdução - Ciência da Computação_
-- [ ] _Aprendendo Python_
-- [ ] _Entrada e Saída de Dados_
-- [ ] _Testes_
-- [ ] _Projeto - Job Insights_
-
-#### Padrões de Projeto
-
-- [ ] _P.O.O em Python_
-- [ ] _Padrões - Iterator, Adapter, Strategy_
-- [ ] _Padrões - Decorator, Observer, Factory_
-- [ ] _Projeto - Relatórios de Estoque_
-
-#### Redes e Raspagem de Dados
-
-- [ ] _Arquitetura de redes, ferramentas e segurança_
-- [ ] _Raspagem de Dados_
-- [ ] _Outras Ferramentas de Raspagem de Dados_
-- [ ] _Projeto - Tech news_
-
-#### Algoritmos
-
-- [ ] _Complexidade de Algoritmos_
-- [ ] _Recursividade e Estratégias para solução de problemas_
-- [ ] _Algoritmos de ordenação e busca_
-- [ ] _Projeto - Algoritmos_
-
-#### Estrutura de Dados I: Arrays, Listas, Filas e Pilhas
-
-- [ ] _Arquitetura de Computadores_
-- [ ] _Arrays_
-- [ ] _Nó e Listas Encadeadas_
-- [ ] _Pilhas e Filas_
+- [ ] [_P.O.O em Python_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/ciencia-da-computacao/secao-3-estrutura-de-dados-I-listas-lineares/dia-1-poo-em-python)
+- [ ] [_Arrays_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/ciencia-da-computacao/secao-3-estrutura-de-dados-I-listas-lineares/dia-2-arrays)
+- [ ] [_Nó e Listas Encadeadas_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/ciencia-da-computacao/secao-3-estrutura-de-dados-I-listas-lineares/dia-3-no-e-listas-encadeadas)
+- [ ] [_Pilhas e Filas_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/ciencia-da-computacao/secao-3-estrutura-de-dados-I-listas-lineares/dia-4-pilhas-e-filas)
 - [ ] _Projeto - TING - Trybe Is Not Google_
 
-#### Estrutura de Dados II: Hashmaps e Sets
+#### [Estrutura de Dados II: Hashmaps e Sets](https://github.com/pedrohxiv/trybe-exercicios/tree/main/ciencia-da-computacao/secao-4-estruturas-de-dados-II-hashmaps-e-sets)
 
-- [ ] _Hashmap e Dict_
-- [ ] _Set_
+- [ ] [_Hashmap e Dict_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/ciencia-da-computacao/secao-4-estruturas-de-dados-II-hashmaps-e-sets/dia-1-hashmap-e-dict)
+- [ ] [_Set_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/ciencia-da-computacao/secao-4-estruturas-de-dados-II-hashmaps-e-sets/dia-2-set)
 - [ ] _Projeto - Restaurant Orders_

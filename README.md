@@ -203,7 +203,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [x] [_SOLID - Princípios L e I_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/back-end/secao-9-programacao-orientada-a-objetos-poo-e-solid/dia-5-solid-principios-l-i)
 - [x] _Projeto - Trybers and Dragons_
 
-#### Projeto - TFC - Trybe Futebol Clube
+#### Projeto TFC - Trybe Futebol Clube
 
 - [x] _Projeto - TFC - Trybe Futebol Clube_
 

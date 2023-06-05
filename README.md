@@ -33,7 +33,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [x] [_JavaScript - Array e loop For_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/fundamentos/secao-4-introducao-a-javascript-e-logica-de-programacao/dia-2-javascript-array-e-loop-for)
 - [x] [_JavaScript - Lógica de Programação e Algoritmos_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/fundamentos/secao-4-introducao-a-javascript-e-logica-de-programacao/dia-3-javascript-logica-de-programacao-e-algoritmos)
 - [x] [_JavaScript - Objetos e funções_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/fundamentos/secao-4-introducao-a-javascript-e-logica-de-programacao/dia-4-javascript-objetos-e-funcoes)
-- [x] _Projeto - Playground Functions_
+- [x] [_Projeto - Playground Functions_](https://github.com/pedrohxiv/playground-functions)
 
 #### [JavaScript: DOM, Eventos e Web Storage](https://github.com/pedrohxiv/trybe-exercicios/tree/main/fundamentos/secao-5-javascript-dom-eventos-e-web-storage)
 

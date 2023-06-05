@@ -43,7 +43,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [x] [_JavaScript - Web Storage_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/fundamentos/secao-5-javascript-dom-eventos-e-web-storage/dia-4-javascript-web-storage)
 - [x] [_Projeto - Arte com Pixels_](https://github.com/pedrohxiv/pixels-art)
 - [x] [_(Bônus) Projeto - Lista de tarefas_](https://github.com/pedrohxiv/todo-list)
-- [x] _(Bônus) Projeto - Meme Generator_
+- [x] [_(Bônus) Projeto - Meme Generator_](https://github.com/pedrohxiv/meme-generator)
 - [x] _(Bônus) Projeto - Adivinhe a Cor_
 - [x] _(Bônus) Projeto - Carta Misteriosa_
 

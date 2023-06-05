@@ -181,7 +181,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [x] [_ORM - Associations 1:1 e 1:N_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/back-end/secao-6-node-js-orm-e-autenticacao/dia-2-orm-associations-1-1-e-1-n)
 - [x] [_ORM - Associations N:N e Transactions_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/back-end/secao-6-node-js-orm-e-autenticacao/dia-3-orm-associations-n-n-e-transactions)
 - [x] [_JWT - (JSON Web Token)_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/back-end/secao-6-node-js-orm-e-autenticacao/dia-4-jwt-json-web-token)
-- [x] _Projeto - API de Blogs_
+- [x] [_Projeto - API de Blogs_](https://github.com/pedrohxiv/blogs-api)
 
 #### Masterclass: Implantação de Aplicações na Nuvem
 

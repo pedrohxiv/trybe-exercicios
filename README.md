@@ -150,7 +150,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [x] [_Encontrando dados em um banco de dados_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/back-end/secao-2-introducao-a-sql/dia-2-encontrando-dados-em-um-banco-de-dados)
 - [x] [_Filtrando dados de forma específica_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/back-end/secao-2-introducao-a-sql/dia-3-filtrando-dados-de-forma-especifica)
 - [x] [_Manipulando tabelas_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/back-end/secao-2-introducao-a-sql/dia-4-manipulando-tabelas)
-- [x] _Projeto - All For One_
+- [x] [_Projeto - All For One_](https://github.com/pedrohxiv/all-for-one)
 
 #### [Funções SQL, JOINs e Normalização](https://github.com/pedrohxiv/trybe-exercicios/tree/main/back-end/secao-3-funcoes-sql-joins-e-normalizacao)
 

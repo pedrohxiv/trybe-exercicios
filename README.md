@@ -85,7 +85,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 - [x] [_'Hello, world!' no React!_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/front-end/secao-2-introducao-ao-react/dia-1-hello-world-no-react)
 - [x] [_Componentes React_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/front-end/secao-2-introducao-ao-react/dia-2-componentes-react)
-- [x] _Projeto - Sistema Solar_
+- [x] [_Projeto - Sistema Solar_](https://github.com/pedrohxiv/solar-system)
 
 #### [Componentes com Estado, Eventos e Formulários com React](https://github.com/pedrohxiv/trybe-exercicios/tree/main/front-end/secao-3-componentes-com-estado-eventos-e-formularios-com-react)
 

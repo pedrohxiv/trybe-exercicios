@@ -25,7 +25,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [x] [_HTML & CSS - Primeiros passos em CSS_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/fundamentos/secao-3-introducao-a-html-e-css/dia-2-html-e-css-primeiros-passos-em-css)
 - [x] [_HTML & CSS - Seletores e posicionamento_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/fundamentos/secao-3-introducao-a-html-e-css/dia-3-html-e-css-seletores-e-posicionamento)
 - [x] [_HTML Semântico_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/fundamentos/secao-3-introducao-a-html-e-css/dia-4-html-semantico)
-- [x] _Projeto - Lessons Learned_
+- [x] [_Projeto - Lessons Learned_](https://github.com/pedrohxiv/lessons-learned)
 
 #### [Introdução à JavaScript e Lógica de Programação](https://github.com/pedrohxiv/trybe-exercicios/tree/main/fundamentos/secao-4-introducao-a-javascript-e-logica-de-programacao)
 

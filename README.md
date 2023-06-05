@@ -70,7 +70,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [x] [_JavaScript ES6 - Higher Order Functions - map e filter_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/fundamentos/secao-8-higher-order-functions-do-javascript-es6/dia-3-javascript-es6-higher-order-functions-map-e-filter)
 - [x] [_JavaScript ES6 - Higher Order Functions - reduce_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/fundamentos/secao-8-higher-order-functions-do-javascript-es6/dia-4-javascript-es6-higher-order-functions-reduce)
 - [x] [_JavaScript ES6 - spread operator, parâmetro rest, destructuring e mais_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/fundamentos/secao-8-higher-order-functions-do-javascript-es6/dia-5-javascript-es6-spread-operator-parametro-rest-destructuring-e-mais)
-- [x] _Projeto - Zoo functions_
+- [x] [_Projeto - Zoo functions_](https://github.com/pedrohxiv/zoo-functions)
 
 ## [Desenvolvimento Front-end](https://github.com/pedrohxiv/trybe-exercicios/tree/main/front-end) :heavy_check_mark:
 

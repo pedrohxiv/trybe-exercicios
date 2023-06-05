@@ -183,10 +183,6 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [x] [_JWT - (JSON Web Token)_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/back-end/secao-6-node-js-orm-e-autenticacao/dia-4-jwt-json-web-token)
 - [x] [_Projeto - API de Blogs_](https://github.com/pedrohxiv/blogs-api)
 
-#### Masterclass: Implantação de Aplicações na Nuvem
-
-- [x] _Infraestrutura: Deploy com Railway_
-
 #### [Introdução a TypeScript](https://github.com/pedrohxiv/trybe-exercicios/tree/main/back-end/secao-8-introducao-a-typescript)
 
 - [x] [_Introdução ao TypeScript_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/back-end/secao-8-introducao-a-typescript/dia-1-introducao-ao-typescript)
@@ -219,18 +215,18 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [x] [_Complexidade de Algoritmos_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/ciencia-da-computacao/secao-2-algoritmos/dia-1-complexidade-de-algoritmos)
 - [x] [_Recursividade e Estratégias para solução de problemas_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/ciencia-da-computacao/secao-2-algoritmos/dia-2-recursividade-e-estrategias-para-solucao-de-problemas)
 - [x] [_Algoritmos de ordenação e busca_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/ciencia-da-computacao/secao-2-algoritmos/dia-3-algoritmos-de-ordenacao-e-busca)
-- [x] _Projeto - Algoritmos_
+- [x] [_Projeto - Algoritmos_](https://github.com/pedrohxiv/algorithms)
 
 #### [Estrutura de Dados I: Listas Lineares](https://github.com/pedrohxiv/trybe-exercicios/tree/main/ciencia-da-computacao/secao-3-estrutura-de-dados-I-listas-lineares)
 
 - [ ] [_P.O.O em Python_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/ciencia-da-computacao/secao-3-estrutura-de-dados-I-listas-lineares/dia-1-poo-em-python)
-- [ ] [_Arrays_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/ciencia-da-computacao/secao-3-estrutura-de-dados-I-listas-lineares/dia-2-arrays)
-- [ ] [_Nó e Listas Encadeadas_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/ciencia-da-computacao/secao-3-estrutura-de-dados-I-listas-lineares/dia-3-no-e-listas-encadeadas)
-- [ ] [_Pilhas e Filas_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/ciencia-da-computacao/secao-3-estrutura-de-dados-I-listas-lineares/dia-4-pilhas-e-filas)
+- [ ] _Arrays_
+- [ ] _Nó e Listas Encadeadas_
+- [ ] _Pilhas e Filas_
 - [ ] _Projeto - TING - Trybe Is Not Google_
 
-#### [Estrutura de Dados II: Hashmaps e Sets](https://github.com/pedrohxiv/trybe-exercicios/tree/main/ciencia-da-computacao/secao-4-estruturas-de-dados-II-hashmaps-e-sets)
+#### Estrutura de Dados II: Hashmaps e Sets
 
-- [ ] [_Hashmap e Dict_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/ciencia-da-computacao/secao-4-estruturas-de-dados-II-hashmaps-e-sets/dia-1-hashmap-e-dict)
-- [ ] [_Set_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/ciencia-da-computacao/secao-4-estruturas-de-dados-II-hashmaps-e-sets/dia-2-set)
+- [ ] _Hashmap e Dict_
+- [ ] _Set_
 - [ ] _Projeto - Restaurant Orders_

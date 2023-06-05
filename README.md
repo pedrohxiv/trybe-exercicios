@@ -102,7 +102,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 #### [Metodologias Ágeis](https://github.com/pedrohxiv/trybe-exercicios/tree/main/front-end/secao-5-metodologias-ageis)
 
 - [x] [_Metodologias Ágeis_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/front-end/secao-5-metodologias-ageis)
-- [x] _Projeto - Frontend Online Store_
+- [x] [_Projeto - Frontend Online Store_](https://github.com/pedrohxiv/frontend-online-store)
 
 #### [Testes automatizados com React Testing Library](https://github.com/pedrohxiv/trybe-exercicios/tree/main/front-end/secao-6-testes-automatizados-com-react-testing-library)
 

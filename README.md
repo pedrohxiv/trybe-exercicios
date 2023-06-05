@@ -157,7 +157,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [x] [_Funções mais usadas no SQL_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/back-end/secao-3-funcoes-sql-joins-e-normalizacao/dia-1-funcoes-mais-usadas-no-sql)
 - [x] [_Descomplicando JOINs_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/back-end/secao-3-funcoes-sql-joins-e-normalizacao/dia-2-descomplicando-joins)
 - [x] [_Transformando ideias em um modelo de banco de dados_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/back-end/secao-3-funcoes-sql-joins-e-normalizacao/dia-3-transformando-ideias-em-um-modelo-de-banco-de-dados)
-- [x] _Projeto - One For All_
+- [x] [_Projeto - One For All_](https://github.com/pedrohxiv/one-for-all)
 
 #### [Introdução ao desenvolvimento Web com Node.js](https://github.com/pedrohxiv/trybe-exercicios/tree/main/back-end/secao-4-introducao-ao-desenvolvimento-web-com-node-js)
 

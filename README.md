@@ -192,7 +192,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [x] [_Introdução ao TypeScript_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/back-end/secao-8-introducao-a-typescript/dia-1-introducao-ao-typescript)
 - [x] [_Tipagem Estática e Generics_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/back-end/secao-8-introducao-a-typescript/dia-2-tipagem-estatica-e-generics)
 - [x] [_Express com TypeScript_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/back-end/secao-8-introducao-a-typescript/dia-3-express-com-typescript)
-- [x] _Projeto - Trybesmith_
+- [x] [_Projeto - Trybesmith_](https://github.com/pedrohxiv/trybesmith)
 
 #### [Programação Orientada a Objetos (POO) e SOLID](https://github.com/pedrohxiv/trybe-exercicios/tree/main/back-end/secao-9-programacao-orientada-a-objetos-poo-e-solid)
 

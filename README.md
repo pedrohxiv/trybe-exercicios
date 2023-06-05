@@ -166,7 +166,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [x] [_Node.js: Testes de Integração_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/back-end/secao-4-introducao-ao-desenvolvimento-web-com-node-js/dia-3-node-js-testes-de-integracao)
 - [x] [_Node.js: Express e Middlewares_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/back-end/secao-4-introducao-ao-desenvolvimento-web-com-node-js/dia-4-node-js-express-e-middlewares)
 - [x] [_Node.js: Express e Mysql_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/back-end/secao-4-introducao-ao-desenvolvimento-web-com-node-js/dia-5-node-js-express-e-mysql)
-- [x] _Projeto - Talker Manager_
+- [x] [_Projeto - Talker Manager_](https://github.com/pedrohxiv/talker-manager)
 
 #### [Arquitetura de Software: Model, Service e Controller](https://github.com/pedrohxiv/trybe-exercicios/tree/main/back-end/secao-5-arquitetura-de-software-model-service-e-controller)
 

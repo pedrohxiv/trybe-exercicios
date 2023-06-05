@@ -129,7 +129,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [x] [_Context API do React_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/front-end/secao-8-context-api-e-react-hooks/dia-1-react-hooks-usestate-e-useeffect)
 - [x] [_React Hooks - useState e useContext_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/front-end/secao-8-context-api-e-react-hooks/dia-2-context-api)
 - [x] [_React Hooks - useEffect e Hooks customizados_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/front-end/secao-8-context-api-e-react-hooks/dia-3-custom-hooks)
-- [x] _Projeto - StarWars Datatable com Context API e Hooks_
+- [x] [_Projeto - StarWars Datatable com Context API e Hooks_](https://github.com/pedrohxiv/starwars-planets-search)
 
 #### Projeto App de Receitas
 

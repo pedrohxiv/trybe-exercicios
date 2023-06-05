@@ -109,7 +109,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [x] [_RTL - Primeiros passos_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/front-end/secao-6-testes-automatizados-com-react-testing-library/dia-1-rtl-primeiros-passos)
 - [x] [_RTL - Mocks e Inputs_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/front-end/secao-6-testes-automatizados-com-react-testing-library/dia-2-rtl-mocks-e-inputs)
 - [x] [_RTL - Testando React Router_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/front-end/secao-6-testes-automatizados-com-react-testing-library/dia-3-rtl-testando-react-router)
-- [x] _Projeto - Testes em React_
+- [x] [_Projeto - Testes em React_](https://github.com/pedrohxiv/react-testing-library)
 
 #### [Gerenciamento de estado com Redux](https://github.com/pedrohxiv/trybe-exercicios/tree/main/front-end/secao-7-gerenciamento-de-estado-com-redux)
 

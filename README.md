@@ -142,7 +142,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [x] [_Utilizando Containers - Docker_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/back-end/secao-1-docker-utilizando-containers/dia-1-utilizando-containers-docker)
 - [x] [_Manipulando Imagens no Docker_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/back-end/secao-1-docker-utilizando-containers/dia-2-manipulando-imagens-no-docker)
 - [x] [_Orquestrando Containers com Docker Compose_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/back-end/secao-1-docker-utilizando-containers/dia-3-orquestrando-containers-com-docker-compose)
-- [x] _Projeto - Docker Todo-List_
+- [x] [_Projeto - Docker Todo-List_](https://github.com/pedrohxiv/docker-todo-list)
 
 #### [Introdução à SQL](https://github.com/pedrohxiv/trybe-exercicios/tree/main/back-end/secao-2-introducao-a-sql)
 

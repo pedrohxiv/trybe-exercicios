@@ -45,7 +45,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [x] [_(Bônus) Projeto - Lista de tarefas_](https://github.com/pedrohxiv/todo-list)
 - [x] [_(Bônus) Projeto - Meme Generator_](https://github.com/pedrohxiv/meme-generator)
 - [x] [_(Bônus) Projeto - Adivinhe a Cor_](https://github.com/pedrohxiv/color-guess)
-- [x] _(Bônus) Projeto - Carta Misteriosa_
+- [x] [_(Bônus) Projeto - Carta Misteriosa_](https://github.com/pedrohxiv/mystery-letter)
 
 #### [HTML e CSS: Forms, Flexbox e Responsivo](https://github.com/pedrohxiv/trybe-exercicios/tree/main/fundamentos/secao-6-html-e-css-forms-flexbox-e-responsivo)
 

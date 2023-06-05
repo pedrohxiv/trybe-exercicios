@@ -120,9 +120,9 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [x] [_Testes em React-Redux_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/front-end/secao-7-gerenciamento-de-estado-com-redux/dia-5-testes-em-react-redux)
 - [x] [_Projeto - Trybe Wallet_](https://github.com/pedrohxiv/trybewallet)
 
-#### Projeto Jogo de Trivia
+#### [Projeto Jogo de Trivia](https://github.com/pedrohxiv/trivia-react-redux)
 
-- [x] _Projeto - Jogo de Trivia_
+- [x] [_Projeto - Jogo de Trivia_](https://github.com/pedrohxiv/trivia-react-redux)
 
 #### [Context API e React Hooks](https://github.com/pedrohxiv/trybe-exercicios/tree/main/front-end/secao-8-context-api-e-react-hooks)
 

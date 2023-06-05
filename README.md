@@ -201,7 +201,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [x] [_Polimorfismo_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/back-end/secao-9-programacao-orientada-a-objetos-poo-e-solid/dia-3-polimorfismo)
 - [x] [_SOLID - Introdução e Princípios S, O e D_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/back-end/secao-9-programacao-orientada-a-objetos-poo-e-solid/dia-4-solid-introducao-e-principios-s-o-d)
 - [x] [_SOLID - Princípios L e I_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/back-end/secao-9-programacao-orientada-a-objetos-poo-e-solid/dia-5-solid-principios-l-i)
-- [x] _Projeto - Trybers and Dragons_
+- [x] [_Projeto - Trybers and Dragons_](https://github.com/pedrohxiv/trybers-and-dragons)
 
 #### Projeto TFC - Trybe Futebol Clube
 

@@ -173,7 +173,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [x] [_Arquitetura de Software: Camada Model_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/back-end/secao-5-arquitetura-de-software-model-service-e-controller/dia-1-arquitetura-de-software-camada-model)
 - [x] [_Arquitetura de Software: Camada Service_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/back-end/secao-5-arquitetura-de-software-model-service-e-controller/dia-2-arquitetura-de-software-camada-service)
 - [x] [_Arquitetura de Software: Camada Controller_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/back-end/secao-5-arquitetura-de-software-model-service-e-controller/dia-3-arquitetura-de-software-camada-controller)
-- [x] _Projeto - Store Manager_
+- [x] [_Projeto - Store Manager_](https://github.com/pedrohxiv/store-manager)
 
 #### [Node.js: ORM e Autenticação](https://github.com/pedrohxiv/trybe-exercicios/tree/main/back-end/secao-6-node-js-orm-e-autenticacao)
 

@@ -91,7 +91,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 - [x] [_Componentes com estado e eventos_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/front-end/secao-3-componentes-com-estado-eventos-e-formularios-com-react/dia-1-componentes-com-estado-e-eventos)
 - [x] [_Formulários no React_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/front-end/secao-3-componentes-com-estado-eventos-e-formularios-com-react/dia-2-formularios-no-react)
-- [x] _Projeto - Tryunfo_
+- [x] [_Projeto - Tryunfo_](https://github.com/pedrohxiv/tryunfo)
 
 #### [Ciclo de Vida de Componentes e React Router](https://github.com/pedrohxiv/trybe-exercicios/tree/main/front-end/secao-4-ciclo-de-vida-de-componentes-e-react-router)
 

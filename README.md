@@ -41,7 +41,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [x] [_JavaScript - Trabalhando com elementos_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/fundamentos/secao-5-javascript-dom-eventos-e-web-storage/dia-2-javascript-trabalhando-com-elementos)
 - [x] [_JavaScript - Eventos_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/fundamentos/secao-5-javascript-dom-eventos-e-web-storage/dia-3-javascript-eventos)
 - [x] [_JavaScript - Web Storage_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/fundamentos/secao-5-javascript-dom-eventos-e-web-storage/dia-4-javascript-web-storage)
-- [x] _Projeto - Arte com Pixels_
+- [x] [_Projeto - Arte com Pixels_](https://github.com/pedrohxiv/pixels-art)
 - [x] _(Bônus) Projeto - Lista de tarefas_
 - [x] _(Bônus) Projeto - Meme Generator_
 - [x] _(Bônus) Projeto - Adivinhe a Cor_

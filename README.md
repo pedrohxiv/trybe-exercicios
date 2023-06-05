@@ -54,7 +54,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [x] [_CSS Flexbox - Parte 1_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/fundamentos/secao-6-html-e-css-forms-flexbox-e-responsivo/dia-3-css-flexbox-parte-1)
 - [x] [_CSS Flexbox - Parte 2_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/fundamentos/secao-6-html-e-css-forms-flexbox-e-responsivo/dia-4-css-flexbox-parte-2)
 - [x] [_CSS Responsivo - Mobile First_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/fundamentos/secao-6-html-e-css-forms-flexbox-e-responsivo/dia-5-css-responsivo-mobile-first)
-- [x] _Projeto - Trybewarts_
+- [x] [_Projeto - Trybewarts_](https://github.com/pedrohxiv/trybewarts)
 
 #### [Introdução à JavaScript ES6 e Testes Unitários](https://github.com/pedrohxiv/trybe-exercicios/tree/main/fundamentos/secao-7-introducao-a-javascript-es6-e-testes-unitarios)
 

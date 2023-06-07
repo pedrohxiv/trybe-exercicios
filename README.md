@@ -219,8 +219,8 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 #### [Estrutura de Dados I: Listas Lineares](https://github.com/pedrohxiv/trybe-exercicios/tree/main/ciencia-da-computacao/secao-3-estrutura-de-dados-I-listas-lineares)
 
-- [ ] [_P.O.O em Python_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/ciencia-da-computacao/secao-3-estrutura-de-dados-I-listas-lineares/dia-1-poo-em-python)
-- [ ] _Arrays_
+- [x] [_P.O.O em Python_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/ciencia-da-computacao/secao-3-estrutura-de-dados-I-listas-lineares/dia-1-poo-em-python)
+- [x] [_Arrays_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/ciencia-da-computacao/secao-3-estrutura-de-dados-I-listas-lineares/dia-2-arrays)
 - [ ] _Nó e Listas Encadeadas_
 - [ ] _Pilhas e Filas_
 - [ ] _Projeto - TING - Trybe Is Not Google_

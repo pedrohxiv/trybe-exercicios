@@ -2,4 +2,4 @@
 
 Essa seção pertence ao módulo de `fundamentos` do curso da [Trybe](https://www.betrybe.com/). Nessa seção aprendi sobre formulários em _HTML_, que são uma forma de enviar informações para outra página do seu site ou para um servidor, sendo capaz de criar formulários em _HTML_ com as **tags**: `input`, `button`, `textarea`, `select` e `form`, permitindo criar todos esses tipos de interação com a pessoa usuária.
 
-Tendo isso em mente aqui você encontrará os exercícios que desenvolvi para fixar os conhecimentos que adquiri ao longo dessa seção. Além disso também desenvolvi o projeto ao final dessa seção para avaliar tudo o que havia aprendido, você pode acessá-lo [aqui](https://github.com/tryber/sd-026-b-project-trybewarts/pull/69).
+Tendo isso em mente aqui você encontrará os exercícios que desenvolvi para fixar os conhecimentos que adquiri ao longo dessa seção. Além disso também desenvolvi o projeto ao final dessa seção para avaliar tudo o que havia aprendido, você pode acessá-lo [aqui](https://github.com/pedrohxiv/trybewarts).

@@ -27,3 +27,19 @@ b. A operação `__get_node_at` nos permite acessar o `Node` em qualquer posiç�
 _Nova busca_: até o momento nossa estrutura consulta elementos através da posição. Nesta atividade será necessário criar uma função chamada `def index_of(self, value)`, onde ela será responsável por consultar na lista a existência do valor informado e retornar a posição da primeira ocorrência. Caso o valor não exista, considere retornar `-1`. Esta função deve respeitar a complexidade `O(n)`.
 
 > ⚠️ Faça a análise de complexidade da sua solução.
+
+## Exercício 3:
+
+Remover duplicatas de uma `LinkedList`, [atividade extraída e adaptada do LeetCode](https://leetcode.com/problems/remove-duplicates-from-sorted-list/). Nesta atividade será necessário implementar um algoritmo que receba uma `LinkedList` como argumento e retorne uma nova lista sem elementos duplicados. Esta função deve respeitar a complexidade `O(n)`.
+
+_Exemplo:_
+
+```
+# input: 1 -> 1 -> 2
+# saída: 1 -> 2
+
+# input: 1 -> 1 -> 2 -> 3 -> 3
+# saída: 1 -> 2 -> 3
+```
+
+> ⚠️ Faça a análise de complexidade da sua solução.

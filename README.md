@@ -203,7 +203,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 - [x] [_Projeto - TFC - Trybe Futebol Clube_](https://github.com/pedrohxiv/trybe-soccer-club)
 
-## [Ciência da Computação](https://github.com/pedrohxiv/trybe-exercicios/tree/main/ciencia-da-computacao) :hourglass_flowing_sand:
+## [Ciência da Computação](https://github.com/pedrohxiv/trybe-exercicios/tree/main/ciencia-da-computacao) :heavy_check_mark:
 
 #### [Introdução à Python](https://github.com/pedrohxiv/trybe-exercicios/tree/main/ciencia-da-computacao/secao-1-introducao-a-python)
 

@@ -225,8 +225,8 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [x] [_Pilhas e Filas_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/ciencia-da-computacao/secao-3-estrutura-de-dados-I-listas-lineares/dia-4-pilhas-e-filas)
 - [x] [_Projeto - TING - Trybe Is Not Google_](https://github.com/pedrohxiv/ting)
 
-#### Estrutura de Dados II: Hashmaps e Sets
+#### [Estrutura de Dados II: Hashmaps e Sets](https://github.com/pedrohxiv/trybe-exercicios/tree/main/ciencia-da-computacao/secao-4-estruturas-de-dados-II-hashmaps-e-sets)
 
-- [ ] _Hashmap e Dict_
-- [ ] _Set_
+- [x] [_Hashmap e Dict_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/ciencia-da-computacao/secao-4-estruturas-de-dados-II-hashmaps-e-sets/dia-1-hashmap-e-dict)
+- [x] [_Set_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/ciencia-da-computacao/secao-4-estruturas-de-dados-II-hashmaps-e-sets/dia-2-set)
 - [ ] _Projeto - Restaurant Orders_

@@ -223,7 +223,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [x] [_Arrays_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/ciencia-da-computacao/secao-3-estrutura-de-dados-I-listas-lineares/dia-2-arrays)
 - [x] [_Nó e Listas Encadeadas_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/ciencia-da-computacao/secao-3-estrutura-de-dados-I-listas-lineares/dia-3-no-e-listas-encadeadas)
 - [x] [_Pilhas e Filas_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/ciencia-da-computacao/secao-3-estrutura-de-dados-I-listas-lineares/dia-4-pilhas-e-filas)
-- [ ] _Projeto - TING - Trybe Is Not Google_
+- [x] [_Projeto - TING - Trybe Is Not Google_](https://github.com/pedrohxiv/ting)
 
 #### Estrutura de Dados II: Hashmaps e Sets
 

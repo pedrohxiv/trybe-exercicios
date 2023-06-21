@@ -229,4 +229,4 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 - [x] [_Hashmap e Dict_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/ciencia-da-computacao/secao-4-estruturas-de-dados-II-hashmaps-e-sets/dia-1-hashmap-e-dict)
 - [x] [_Set_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/ciencia-da-computacao/secao-4-estruturas-de-dados-II-hashmaps-e-sets/dia-2-set)
-- [ ] _Projeto - Restaurant Orders_
+- [x] [_Projeto - Restaurant Orders_](https://github.com/pedrohxiv/restaurant-orders)

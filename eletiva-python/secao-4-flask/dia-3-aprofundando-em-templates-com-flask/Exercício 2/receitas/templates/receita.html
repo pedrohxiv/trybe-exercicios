@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>{{ nome }}</title>
+  </head>
+  <body>
+    <h1>{{ nome }}</h1>
+    <h2>Ingredientes:</h2>
+    <ul>
+      {% for ingrediente in ingredientes %}
+      <li>{{ ingrediente.capitalize() }}</li>
+      {% endfor %}
+    </ul>
+    <h2>Preparação:</h2>
+    {% for passo in preparo|converte_para_lista %}
+    <p>{{ passo }}</p>
+    {% endfor %}
+  </body>
+</html>

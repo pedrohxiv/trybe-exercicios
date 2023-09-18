@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link
+      rel="stylesheet"
+      href="{{ url_for('static', filename='filme.css') }}"
+    />
+    <title>Detalhes do Filme</title>
+  </head>
+  <body>
+    <h1>Detalhes do Filme</h1>
+    <h2>{{ filme.titulo }}</h2>
+    <p>Ano de Lançamento: {{ filme.ano }}</p>
+    <p>Diretor: {{ filme.diretor }}</p>
+    <p>Gênero: {{ filme.genero }}</p>
+    <img src="{{ filme.poster }}" alt="{{ filme.titulo }}" />
+    <a href="/">Voltar à lista de filmes</a>
+  </body>
+</html>

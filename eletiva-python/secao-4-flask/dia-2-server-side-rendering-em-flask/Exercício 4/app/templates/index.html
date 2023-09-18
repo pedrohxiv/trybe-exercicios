@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link
+      rel="stylesheet"
+      href="{{ url_for('static', filename='filme.css') }}"
+    />
+    <title>Catálogo de Filmes</title>
+  </head>
+  <body>
+    <h1>Catálogo de Filmes</h1>
+    <form method="POST" action="/buscar">
+      <input type="text" name="titulo" placeholder="Digite o título do filme" />
+      <button type="submit">Buscar</button>
+    </form>
+    <ul>
+      {% for filme in filmes %}
+      <li>
+        <a href="{{ url_for('detalhes_filme', id=filme._id) }}"
+          >{{ filme.titulo }}</a
+        >
+      </li>
+      {% endfor %}
+    </ul>
+  </body>
+</html>

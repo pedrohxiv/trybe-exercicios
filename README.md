@@ -237,20 +237,20 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 - [x] [_Estratégias de debug com Python_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/eletiva-python/secao-1-debug-com-python/dia-1-estrategias-de-debug-com-python)
 - [x] [_Automatizando o bug hunting com Pytest_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/eletiva-python/secao-1-debug-com-python/dia-2-automatizando-o-bug-hunting-com-pytest)
-- [x] [_Projeto - ProFiler_]()
+- [x] [_Projeto - ProFiler_](https://github.com/pedrohxiv/pro-filer)
 
 #### [Programação Orientada a Objetos](https://github.com/pedrohxiv/trybe-exercicios/tree/main/eletiva-python/secao-2-programacao-orientada-a-objetos)
 
 - [x] [_POO em Python_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/eletiva-python/secao-2-programacao-orientada-a-objetos/dia-1-poo-em-python)
 - [x] [_Pilares da POO_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/eletiva-python/secao-2-programacao-orientada-a-objetos/dia-2-pilares-da-poo)
 - [x] [_Classes abstratas, interfaces e protocolos_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/eletiva-python/secao-2-programacao-orientada-a-objetos/dia-3-classes-abstratas-interfaces-e-protocolos)
-- [x] [_Projeto - Relatório de Estoques_]()
+- [x] [_Projeto - Relatório de Estoques_](https://github.com/pedrohxiv/inventory-report)
 
 #### [Raspagem de Dados](https://github.com/pedrohxiv/trybe-exercicios/tree/main/eletiva-python/secao-3-raspagem-de-dados)
 
 - [x] [_Raspagem de dados_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/eletiva-python/secao-3-raspagem-de-dados/dia-1-raspagem-de-dados)
 - [x] [_Outras ferramentas de raspagem de dados_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/eletiva-python/secao-3-raspagem-de-dados/dia-2-outras-ferramentas-de-raspagem-de-dados)
-- [x] [_Projeto - Tech News_]()
+- [x] [_Projeto - Tech News_](https://github.com/pedrohxiv/tech-news)
 
 #### [Flask](https://github.com/pedrohxiv/trybe-exercicios/tree/main/eletiva-python/secao-4-flask)
 
@@ -258,17 +258,17 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [x] [_Server Side Rendering em Flask_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/eletiva-python/secao-4-flask/dia-2-server-side-rendering-em-flask)
 - [x] [_Aprofundando em Templates com Flask_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/eletiva-python/secao-4-flask/dia-3-aprofundando-em-templates-com-flask)
 - [x] [_API e Testes em Flask_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/eletiva-python/secao-4-flask/dia-4-api-e-testes-em-flask)
-- [x] [_Projeto - Traduzo_]()
+- [x] [_Projeto - Traduzo_](https://github.com/pedrohxiv/traduzo)
 
 #### [Django I](https://github.com/pedrohxiv/trybe-exercicios/tree/main/eletiva-python/secao-5-django-I)
 
 - [x] [_Ambiente de banco de dados e ORM_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/eletiva-python/secao-5-django-I/dia-1-ambiente-de-banco-de-dados-e-orm)
 - [x] [_Templates do Django_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/eletiva-python/secao-5-django-I/dia-2-templates-do-django)
 - [x] [_Formulários e Relacionamento de modelos_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/eletiva-python/secao-5-django-I/dia-3-formularios-e-relacionamento-de-modelos)
-- [x] [_Projeto - SpotNews_]()
+- [x] [_Projeto - SpotNews_](https://github.com/pedrohxiv/spotnews)
 
 #### [Django II](https://github.com/pedrohxiv/trybe-exercicios/tree/main/eletiva-python/secao-6-django-II)
 
 - [x] [_Autenticação_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/eletiva-python/secao-6-django-II/dia-1-autenticacao)
 - [x] [_Testando aplicações Django_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/eletiva-python/secao-6-django-II/dia-2-testando-aplicacoes-django)
-- [x] [_Projeto - Super Portfólio_]()
+- [x] [_Projeto - Super Portfólio_](https://github.com/pedrohxiv/super-portfolio)

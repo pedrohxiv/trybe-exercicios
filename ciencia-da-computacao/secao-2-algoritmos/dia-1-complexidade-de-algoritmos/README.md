@@ -1,6 +1,6 @@
 # :pencil: Complexidade de Algoritmos
 
-
+O objetivo dos exercícios desse dia foi dar inicio ao estudo sobre **Algoritmos** entendendo sobre a **Complexidade de Algoritmos** para aumentar a eficiência dos códigos, reduzir custos envolvidos e entregar a resolução de problemas. Para isso deveria descrever a capacidade de analisar o desempenho de um algoritmo como importante para processos seletivos de Big Techs, como Google, Amazon, Facebook, etc, definir o que é `algoritmo`, definir o que é um `algoritmo correto`, compreender a importância da `análise de algoritmos`, definir `Ordem de Complexidade`, ou `Complexidade Assintótica`, compreender as notações que representam a complexidade de um algoritmo, a saber: `O(1)`, `O(n)`, `O(log n)`, `O(n^2)`, `O(n^3)` e `O(n!)`, definir `Complexidade de Tempo` e `Complexidade de Espaço`, definir a categoria de problemas `NP-Completo`, combinar funções matemáticas para analisar complexidade de algoritmos e definir o `melhor`, o `pior` e o `caso médio` de uma `Ordem de Complexidade`.
 
 Os requisitos dos exercícios são:
 

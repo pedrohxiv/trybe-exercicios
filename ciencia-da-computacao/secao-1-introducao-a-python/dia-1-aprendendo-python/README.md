@@ -1,6 +1,6 @@
 # :pencil: Aprendendo Python
 
-
+O objetivo dos exercícios desse dia foi conhecer a linguagem que cada vez mais tem se tornado relevante no mundo da programação: **Python**. Para me familiarizar com o uso dela, escrevi meus primeiros programas. Para isso deveria utilizar o terminal interativo do **Python**, entender e utilizar estruturas condicionais (se, senão se, senão) e de repetição (enquanto, para), criar funções para reutilização de código e escrever seus meus módulos e importá-los em outros códigos.
 
 Os requisitos dos exercícios são:
 

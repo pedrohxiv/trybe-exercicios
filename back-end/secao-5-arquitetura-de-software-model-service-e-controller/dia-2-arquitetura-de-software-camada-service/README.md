@@ -1,6 +1,6 @@
 # :pencil: Arquitetura de Software: Camada Service
 
-
+O objetivo dos exercícios desse dia foi continuar aprendendo como melhorar a organização e divisão de responsabilidades nas aplicações Node.js e Express, agora explorando a camada de **Service**. Assim como na camada **Model**, aprendi quais responsabilidades estão previstas para a camada de **Service**. Dei continuidade aos estudos da `arquitetura em camadas` entrando em detalhes de como funciona a camada `Service`, a qual trabalhei com todas as regras de negócio da aplicação. Dentro dessa camada validei se as requisições contêm os dados necessários para que a camada `Service` realize seu trabalho, chamar o `Service` apropriado para atender a requisição e responde-la de acordo com o resultado que for obtido. Para isso deveria identificar e interpretar as regras de negócios de uma aplicação, compreender as responsabilidades da camada de Serviços da arquitetura em camadas, estruturar a camada de Serviços na aplicação, delegar responsabilidades específicas na aplicação e melhorar manutenibilidade e reusabilidade do código.
 
 Os requisitos dos exercícios são:
 

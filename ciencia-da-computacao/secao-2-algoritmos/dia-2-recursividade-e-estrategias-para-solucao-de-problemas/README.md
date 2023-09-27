@@ -1,6 +1,6 @@
 # :pencil: Recursividade e Estratégias para Solução de Problemas
 
-
+O objetivo dos exercícios desse dia foi aprender o que é **recursividade**, como desenvolver algoritmos recursivos e quando utilizá-los. Com essa técnica, pude resolver problemas complexos transformando-os em problemas menores combinados a possíveis soluções. Para isso deveria entender o conceito de recursividade, iniciar analises de algoritmos recursivos e começar a resolver problemas de forma recursiva.
 
 Os requisitos dos exercícios são:
 

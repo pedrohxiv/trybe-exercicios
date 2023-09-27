@@ -1,6 +1,6 @@
 # :pencil: ORM - Interface da aplicação com o banco de dados
 
-
+O objetivo dos exercícios desse dia foi aprender um método que facilita o processo de aplicações de back-end se comunicarem com o banco de dados com frequência, aprendendo sobre **ORM** (`Object-Relational Mapping` ou, em português, _mapeamento objeto-relacional_)! O ORM provê uma maneira de alterar e interagir com um banco de dados por meio de código JavaScript. A partir dele, é possível criar e alterar tabelas, realizar consultas, inserir e extrair dados do banco, tudo isso apenas escrevendo código JavaScript. Para isso deveria utilizar o Sequelize para integrar o banco de dados com sua aplicação, criar migrações utilizando o Sequelize e criar seeds utilizando o Sequelize.
 
 Os requisitos dos exercícios são:
 

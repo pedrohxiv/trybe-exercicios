@@ -1,6 +1,6 @@
 # :pencil: Usando o Redux no React - Actions Assíncronas
 
-
+O objetivo dos exercícios desse dia foi entender como utilizar a _Context API_ que permite compartilhar estado entre vários componentes em uma árvore de componentes, sem que seja necessário passá-lo manualmente por meio de props do componente que o armazena até aquele que de fato o utiliza. Para isso deveria utilizar a _Context API_ do **React** para gerenciar estado da aplicação.
 
 Os requisitos dos exercícios são:
 

@@ -1,6 +1,6 @@
 # :pencil: Node.js: Runtime Assíncrono
 
-
+O objetivo dos exercícios desse dia foi colocar em prática os estudos sobre o **Node.js** (Node, para os íntimos 😜), o por que utilizá-lo e como criar um script simples utilizando ele. Além disso, depois de tanto tempo utilizando o comando `npm`(repositório oficial de pacotes do Node.js), entendi de onde ele vem e o que exatamente ele faz! Também aprendi a baixar e utilizar pacotes de terceiros no meu código e entendi melhor como funciona o sistema de módulos do Node.js. Após isso, coloquei a mão na massa e criei meu primeiro pacote Node utilizando o `npm init`, onde aprendi para que serve cada um dos arquivos que esse comando cria. Para isso deveria utilizar os comandos do `npm` para criar e gerenciar pacotes e dependências, utilizar o comando `node` para executar scripts, utilizar o sistema de módulos do Node.js, criar scripts simples, com interação do usuário, com Node.js, utilizar Funções Assíncronas no Node e utilizar funções de leitura e escrita de arquivos.
 
 Os requisitos dos exercícios são:
 

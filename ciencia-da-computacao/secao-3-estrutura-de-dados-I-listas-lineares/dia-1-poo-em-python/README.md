@@ -1,6 +1,6 @@
 # :pencil: P.O.O em Python
 
-
+O objetivo dos exercícios desse dia foi dar inicio a um assunto muito importante no mercado de trabalho: a **programação orientada a objetos**, entendendo como **Python** implementa este paradigma. Para isso deveria modelar um projeto em Python, pensando em `Programação Orientada a Objetos`. implementar utilizando a linguagem Python: `Classes`, `Construtores`, `Instâncias`, `Atributos` e `Métodos` e aplicar o `polimorfismo` com `Interfaces em Python`.
 
 Os requisitos dos exercícios são:
 

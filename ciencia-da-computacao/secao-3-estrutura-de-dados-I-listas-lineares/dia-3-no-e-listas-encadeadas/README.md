@@ -1,6 +1,6 @@
 # :pencil: Nó e Listas Encadeadas
 
-
+O objetivo dos exercícios desse dia foi aprender sobre mais um dos tipos abstratos de dados que é utilizado como **fundamento** para a construção de todos os outros TADs desta seção: o **Nó**. Vi o comportamento das listas encadeadas e como elas são construídas a partir dos nós. Para isso deveria construir e utilizar um Nó e construir e utilizar uma Lista Encadeada.
 
 Os requisitos dos exercícios são:
 

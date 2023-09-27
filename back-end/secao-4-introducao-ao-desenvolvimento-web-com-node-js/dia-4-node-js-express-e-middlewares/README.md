@@ -1,6 +1,6 @@
 # :pencil: Node.js: Express e Middlewares
 
-
+O objetivo dos exercícios desse dia foi aprender mais detalhes sobre como funciona o **Express** e o que de fato são **middlewares**. Além disso, fui capaz de organizar rotas separando-as em diferentes arquivos e também saberá lidar com erros no Express. Para isso deveria definir o que são middlewares, identificar o que são middlewares, empregar o encadeamento de middlewares usando a função `next`, empregar middlewares assíncronos no express, empregar a passagem de valores entre middlewares, empregar middlewares para tratamento de erros e empregar o uso de rotas aplicando o `Router`.
 
 Os requisitos dos exercícios são:
 

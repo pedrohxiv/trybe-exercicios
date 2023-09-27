@@ -1,6 +1,6 @@
 # :pencil: Manipulando tabelas
 
-
+O objetivo dos exercícios desse dia foi aprender a fazer a **inserção**, **alteração** e **exclusão** de dados nas tabelas de um banco de dados. Para isso deveria inserir dados em tabelas com `INSERT`, atualizar dados em tabelas com `UPDATE` e apagar dados em tabelas com `DELETE`.
 
 Os requisitos dos exercícios são:
 

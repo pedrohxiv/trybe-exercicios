@@ -1,3 +1,3 @@
-FROM chuanwen/cowsay:latest
-ENTRYPOINT [ "/usr/games/cowsay" ]
-CMD [ "Moooo" ]
+FROM betrybe/figtrybe-artify:latest
+ENTRYPOINT [ "node", "app.js" ]
+CMD [ "#VQV Trybe" ]

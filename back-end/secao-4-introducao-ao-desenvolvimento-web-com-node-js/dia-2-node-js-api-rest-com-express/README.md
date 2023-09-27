@@ -1,6 +1,6 @@
 # :pencil: Node.js: API REST com Express
 
-
+O objetivo dos exercícios desse dia foi aprender a conectar o Front-end com o Back-end. Para isso aprendi a fazer requisições e a conectar um banco de dados para guardar e obter dados. Aplicações que fazem isso na programação, tem um nome **APIs web**. Para isso deveria definir um Servidor, utilizar o _Node.js_ com o _framework Express_ para criar uma rota de um endpoint de API, acessível pelo navegador, utilizar o _Nodemon_ para auxiliar no desenvolvimento de APIs Node.js com o framework Express, utilizar o Node.js com o framework Express para receber e tratar requisições com parâmetros de rota, ou router params e consulta, ou query params, utilizar o Node.js com o framework Express para receber e tratar requisições com parâmetros em seu corpo, ou _body_, utilizar o Node.js com o framework Express para criar uma aplicação _C.R.U.D._ - de _criação_, _leitura_, _atualização_ e _remoção_ de dados, utilizar o _Thunder Client_ para fazer requisições a partir do VS Code e descrever uma _API REST_.
 
 Os requisitos dos exercícios são:
 

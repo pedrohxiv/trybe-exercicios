@@ -1,6 +1,6 @@
 # :pencil: ORM - Associations 1:1 e 1:N
 
-
+O objetivo dos exercícios desse dia foi aprender a criar relações entre tabelas, utilizar Foreign Keys e Primary Keys, e fazer requisições com os temidos maravilhosos JOIN's utilizando da ORM `Sequelize`, assim como no MySQL. Para isso deveria utilizar o sequelize para criar relacionamento 1:1 entre tabelas, utilizar o sequelize para criar relacionamento 1:N entre tabelas e utilizar métodos que simulam comandos de integração de tabelas.
 
 Os requisitos dos exercícios são:
 

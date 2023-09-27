@@ -1,6 +1,6 @@
 # :pencil: Herança e Composição
 
-
+O objetivo dos exercícios desse dia foi aprender a como compartilhar lógica entre classes, criando versões especializadas de classes, com base tanto na _herança_ como na _implementação de uma interface_. Para isso deveria descrever, como pilar da `Programação Orientada a Objetos`, a `Herança`, que é a capacidade de herdar, para especializar, os atributos e métodos de uma classe, definir, em `Programação Orientada a Objetos`, a `Interface` de uma classe, como boa prática, utilizar `Herança` apenas para especializar classes e como boa prática, utilizar `Composição` para compartilhar um mesmo código entre diferentes classes.
 
 Os requisitos dos exercícios são:
 

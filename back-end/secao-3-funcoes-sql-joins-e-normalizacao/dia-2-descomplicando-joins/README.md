@@ -1,6 +1,6 @@
 # :pencil: Descomplicando JOINs
 
-
+O objetivo dos exercícios desse dia foi aprender a utilizar os diferentes tipos de `JOIN` para juntar dados relacionados em um banco de dados. Para isso deveria utilizar `INNER JOIN` para combinar dados de duas ou mais tabelas, utilizar `LEFT JOIN` e `RIGHT JOIN` para combinar dados de duas ou mais tabelas e utilizar `SELF JOIN` para fazer join de uma tabela com ela própria.
 
 Os requisitos dos exercícios são:
 

@@ -1,6 +1,6 @@
 # :pencil: Filtrando dados de forma específica
 
-
+O objetivo dos exercícios desse dia foi expandir ainda mais meus conhecimento de **SQL**, o que me permitiu criar consultas mais refinadas, complexas e precisas. Para isso deveria filtrar resultados de consultas com o `WHERE`, utilizar operadores booleanos e relacionais em consultas, criar consultas mais dinâmicas e maleáveis com `LIKE`, fazer consultas que englobam uma faixa de resultados com `IN` e `BETWEEN` e encontrar e separar resultados que incluem datas.
 
 Os requisitos dos exercícios são:
 

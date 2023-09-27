@@ -1,6 +1,6 @@
 # :pencil: Polimorfismo
 
-
+O objetivo dos exercícios desse dia foi aprender sobre o quarto e último pilar da POO: o **polimorfismo**. Com ele eu consigo garantir que classes distintas possuam determinados métodos implementados, mas que não necessariamente se comportem da mesma forma. Além disso, você aprendi sobre métodos e classes abstratas, bem como métodos e atributos estáticos. Para isso deveria descrever, como pilar da Programação Orientada a Objetos, o **Polimorfismo**: múltiplas formas de se implementar um método descrito em uma interface, descrever **Classe Abstrata** como uma classe que não pode ser instanciada, devendo ser usada apenas por suas **Classes Herdeiras**, definir **Métodos Abstratos**, ou **Funções Abstratas** e implementar **Métodos Estáticos** para Classes em TypeScript.
 
 Os requisitos dos exercícios são:
 

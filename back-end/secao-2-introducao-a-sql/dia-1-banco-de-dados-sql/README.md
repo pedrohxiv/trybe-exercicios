@@ -1,6 +1,6 @@
 # :pencil: Banco de dados SQL
 
-
+O objetivo dos exercícios desse dia foi aprender os conceitos fundamentais sobre um **banco de dados** e sobre como o **SQL** é usado na criação de tabelas. Além disso, aprendi a usar a ferramenta **MySQL Workbench** para praticar os comandos **SQL**. Para isso deveria entender o que são bancos de dados, entender como a linguagem de consulta estruturada (SQL) é usada, compreender como as tabelas se encaixam no conceito de banco de dados, montar um ambiente de desenvolvimento local para praticar SQL e entender como usar o MySQL Workbench.
 
 Os requisitos dos exercícios são:
 

@@ -1,6 +1,6 @@
 # :pencil: Funções mais usadas no SQL
 
-
+O objetivo dos exercícios desse dia foi aprender as principais funções que lidam com números, strings, datas e agregação de dados no **MySQL**. Para isso deveria criar condicionais no SQL usando `IF` e `CASE`, manipular strings no SQL, usar as diversas **funções matemáticas** do **MySQL**, extrair informações específicas sobre **datas** de uma tabela, utilizar as funções de agregação `AVG`, `MIN`, `MAX`, `SUM` e `COUNT` e exibir e filtrar dados de forma agrupada com `GROUP BY` e `HAVING`.
 
 Os requisitos dos exercícios são:
 

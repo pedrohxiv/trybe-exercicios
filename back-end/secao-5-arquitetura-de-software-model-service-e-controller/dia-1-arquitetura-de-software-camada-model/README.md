@@ -1,6 +1,6 @@
 # :pencil: Arquitetura de Software: Camada Model
 
-
+O objetivo dos exercícios desse dia foi aprender a como organizar o código aplicando o conceito de **arquitetura de software**. Apliquei ao código uma **arquitetura baseada em camadas** onde trabalharemos com três camadas: a camada `Model`; a camada `Service`; a camada `Controller`, onde cada uma das camadas possui uma responsabilidade única e bem definida a qual acomodará o código relacionado a esta responsabilidade, dando um foco na camada `Model` neste dia. Para isso deveria definir o conceito de Arquitetura de Software, utilizar a arquitetura baseada em camadas em uma aplicação criada do zero e identificar os componentes de software pertencentes a camada `Model`.
 
 Os requisitos dos exercícios são:
 

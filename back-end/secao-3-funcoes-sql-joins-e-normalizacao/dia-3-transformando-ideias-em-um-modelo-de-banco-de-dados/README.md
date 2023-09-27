@@ -1,6 +1,6 @@
 # :pencil: Transformando ideias em um modelo de banco de dados
 
-
+O objetivo dos exercícios desse dia foi aprender como é o processo de **modelagem** e criação de um banco de dados! Nesse processo aprendi a idealizar a estrutura ideal, aprendi a identificar entidades e a montar um diagrama de entidade-relacionamento para produzir a estrutura mais adequada para um banco. Para isso deveria modelar um banco de dados, identificar **entidades**, **atributos** e **relacionamentos**, construir um **diagrama entidade-relacionamento** (diagrama ER), criar um banco de dados, criar e modelar tabelas com base em um diagrama ER e normalizar o banco de dados seguindo as **Formas Normais**.
 
 Os requisitos dos exercícios são:
 

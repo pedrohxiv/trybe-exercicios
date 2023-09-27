@@ -1,6 +1,6 @@
 # :pencil: Express com TypeScript
 
-
+O objetivo dos exercícios desse dia foi, com todo o poder da tipagem em mãos, foi criar uma API. Aprendi a aplicar os recursos do TypeScript em uma API RESTful que utiliza a arquitetura em camadas e tem como dependências as ferramentas Express, Sequelize e JWT. Para isso deveria identificar como extrair contratos na implementação entre dois componentes de software, implementar uma rota de cadastro com TypeScript, Express e Sequelize, implementar uma rota de listagem com TypeScript, Express e Sequelize e implementar uma autenticação de pessoas usuárias com TypeScript, Express, Sequelize e JWT.
 
 Os requisitos dos exercícios são:
 

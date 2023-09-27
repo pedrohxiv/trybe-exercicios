@@ -1,6 +1,6 @@
 # :pencil: JWT - (JSON Web Token)
 
-
+O objetivo dos exercícios desse dia foi aprender o que é o **JWT (JSON Web Token)**, por que utilizá-lo, sua importância e como criar uma API com autenticação JWT. Para isso deveria entender o que há por dentro de um token de autenticação e autorização, gerar tokens a partir de informações como login e senha, autenticar pessoas usuárias utilizando o token JWT e autorizar o acesso a rotas do Express, usando o token JWT.
 
 Os requisitos dos exercícios são:
 

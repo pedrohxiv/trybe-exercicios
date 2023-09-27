@@ -1,6 +1,6 @@
 # :pencil: Introdução à Orientação a Objetos
 
-
+O objetivo dos exercícios desse dia foi dar inicio ao aprendizado a um fundamento muito importante na programação, a **Programação Orientada a Objetos (POO)**!. Para isso deveria definir `Programação Orientada a Objetos` como um paradigma de programação que é base para inúmeras arquiteturas de software, definir, em `Programação Orientada a Objetos`, uma `Classe`, um `Construtor`, um `Objeto`, uma `Instância`, um `Atributo` e um `Método`, implementar, em `TypeScript`, `Classes`, `Instâncias`, `Atributos` e `Métodos`, descrever, como pilares da `Programação Orientada a Objetos` a `Abstração` - a criação de entidades que conterão, cada uma, parte da lógica de seu programa e o `Encapsulamento` - a exposição somente do que é necessário para uso dos objetos de uma classe.
 
 Os requisitos dos exercícios são:
 

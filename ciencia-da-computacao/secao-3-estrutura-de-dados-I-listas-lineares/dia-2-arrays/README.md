@@ -1,6 +1,6 @@
 # :pencil: Arrays
 
-
+O objetivo dos exercícios desse dia foi dar inicio aos estudos em um dos temas mais fundamentais em ciência da computação, **Estrutura de dados**. Estudei o impacto que decisões sobre estruturas têm sobre o nosso código em termos de performance e utilização do espaço. Analisei como a maneira que os dados estão dispostos influencia na resolução de um determinado problema. Conheci sobre o tipo abstrato _Lista Linear_ e a estrutura de dados conhecida como _array_, aprendendo a utilizá-la, quando conveniente, para solucionar problemas. Para isso deveria entender o que são _estruturas de dados_ (**ED**), entender o que são _tipos abstratos de dados_ (**TAD**), reconhecer _arrays_ e seu funcionamento em baixo nível e aplicar _arrays_ multi-dimensionais.
 
 Os requisitos dos exercícios são:
 

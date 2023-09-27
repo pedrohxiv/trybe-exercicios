@@ -1,6 +1,6 @@
 # :pencil: Tipagem Estática e Generic
 
-
+O objetivo dos exercícios desse dia foi aprender dois conceitos importantes para o TypeScript e outras linguagens com tipagem estática: **_Generics_** e **_Type Assertion_**! Compreendi a importância de ambos e o melhor momento de utilizá-los no código. Além disso, apliquei-os para usar funções já prontas com os tipos que quiser e criar funções para quaisquer tipos! Para isso deveria descrever o que são **Generics** no **TypeScript**, utilizar **Generics** para viabilizar a reutilização de código, avaliar quando usar **Generics** no código, descrever o funcionamento do **Type Assertion** no **TypeScript** e avaliar quando usar **Type Assertion** no **TypeScript**.
 
 Os requisitos dos exercícios são:
 

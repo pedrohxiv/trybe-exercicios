@@ -1,6 +1,6 @@
 # :pencil: Hashmap e Dict
 
-
+O objetivo dos exercícios desse dia foi aprender sobre a **hash map**, também conhecida como **hash table**, uma estrutura de dados importante na computação pois oferece operações de consulta e inserção em `O(1)`. Além de usar uma estrutura de `chave-valor`, onde melhora-se a legibilidade do código. Para isso deveria entender o conceito de _hashing_ e como ele é utilizado para criar estruturas eficientes, implementar uma classe `HashMap` simples com as principais operações, compreender como as decisões de implementação impactam na eficiência real da estrutura de dados e entender como a classe `Dict`, de Python, funciona por baixo dos panos.
 
 Os requisitos dos exercícios são:
 

@@ -1,11 +1,11 @@
-1 - FROM chuanwen/cowsay:latest
+1 - FROM betrybe/figtrybe-artify:latest
 
-2 - ENTRYPOINT [ "/usr/games/cowsay" ]
+2 - ENTRYPOINT [ "node", "app.js" ]
 
-3 - CMD [ "Moooo" ]
+3 - CMD [ "#VQV Trybe" ]
 
-4 - docker image build ./ -t cowsay
+4 - docker image build ./ -t figtrybe-artify
 
-5 - docker container run cowsay
-docker container run cowsay -l
-docker container run cowsay -f dragon-and-cow "VQV TRYBE"
+5 - docker container run --rm figtrybe-artify
+docker container run --rm figtrybe-artify "Go Trybe"
+docker container run --rm figtrybe-artify -f Ghost "#VQV TRYBE"

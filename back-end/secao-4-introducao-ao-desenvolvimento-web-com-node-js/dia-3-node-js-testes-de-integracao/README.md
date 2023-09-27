@@ -1,6 +1,6 @@
 # :pencil: Node.js: Testes de Integração
 
-
+O objetivo dos exercícios desse dia foi aprender um pouco mais sobre testes e como aplicá-los nas APIs Express. Também revi os benefícios de escrever testes automatizados. Para isso, vamos conheci três ferramentas bastante populares para testes com Node.js: **Mocha**, **Chai** e **Sinon**. Além de aprofundar em cada uma delas aprendendo sobre suas funções e como utilizá-las, revisitei conceitos importante como **asserts**, **testes de integração** e **TDD**. Para isso deveria identificar o que são e para quê servem testes automatizados, escrever códigos para Node.js aplicando o conceito de TDD, escrever testes utilizando ferramentas populares, estruturar cenários de testes de acordo com os requisitos, criar testes de integração para APIs REST e executar testes verificando o comportamento do código.
 
 Os requisitos dos exercícios são:
 

@@ -1,6 +1,6 @@
 # :pencil: Node.js: Express e MySQL
 
-
+O objetivo dos exercícios desse dia foi aprender a integrar o banco de dados **MySQL** a uma aplicação **Express** utilizando a biblioteca **mysql2**. Isso permite que eu crie uma **API** com o **Express**, capaz de cadastrar, consultar, atualizar e excluir dados do **MySQL**. Para isso deveria configurar um container **docker** com _MySQL_, utilizar o **mysql2** para acessar um servidor _MySQL_ através de uma aplicação **Express**, aplicar o conceito de **variáveis de ambiente** para separar os parâmetros de configuração do seu código, escrever consultas _SQL_ utilizando **prepared statements**, desenvolver um _CRUD_ com **Express** integrado ao _MySQL_ e escrever testes de integração com **mock** do banco de dados.
 
 Os requisitos dos exercícios são:
 

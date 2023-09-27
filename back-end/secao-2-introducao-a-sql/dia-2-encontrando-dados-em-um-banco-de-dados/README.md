@@ -1,6 +1,6 @@
 # :pencil: Encontrando dados em um banco de dados
 
-
+O objetivo dos exercícios desse dia foi aprender a encontrar dados em um banco de dados. Para isso deveria compreender o que é uma _query_ SQL e quais são seus tipos de comando, gerar valores com `SELECT`, selecionar colunas individualmente com `SELECT`, renomear e gerar colunas em uma consulta com `AS`, concatenar colunas e valores com `CONCAT`, remover dados duplicados em uma consulta com `DISTINCT`, contar a quantidade de resultados em uma consulta com `COUNT`, limitar a quantidade de resultados em uma consulta com `LIMIT`, pular resultados em uma consulta com `OFFSET` e ordenar os resultados de uma consulta com `ORDER BY`.
 
 Os requisitos dos exercícios são:
 

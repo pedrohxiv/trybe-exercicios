@@ -1,6 +1,6 @@
 # :pencil: Introdução ao TypeScript
 
-
+O objetivo dos exercícios desse dia foi dar os primeiros passos em **TypeScript**, aprendendo a como utilizá-lo e por que ele tem se tornado cada vez mais relevante no mundo da programação. Para isso deveria definir o que é o **TypeScript**, relacionar **TypeScript** e **JavaScript**, descrever o que é **tipagem**, distinguir **compilador** de **transpilador**, compilar o código **TypeScript** em código **JavaScript**, identificar e implementar os principais tipos do **TypeScript**, utilizar **union types** para fazer combinações de tipo, utilizar **type aliases** e distinguir quando usar **inferência de tipo** e **type annotation**.
 
 Os requisitos dos exercícios são:
 

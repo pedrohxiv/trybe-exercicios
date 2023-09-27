@@ -1,6 +1,6 @@
-# :pencil:  Usando o Redux no React - Prática
+# :pencil: Entrada e Saída de Dados com Testes
 
-
+O objetivo dos exercícios desse dia foi aprender a estruturar um projeto Python, adicionando também um novo elemento aos meus programas. Aprendi como adicionar entrada e saída de dados e a manipular alguns tipos de arquivos, como **CSV** e **JSON**, que me permitem persistir dados. Por fim, aprendi como testar de forma automatizada meus programas, verificando se, para uma determinada entrada de dados, o resultado foi o esperado. Como erros podem acontecer, testei-os também! Para isso deveria preparar um ambiente de projeto em Python, definindo uma estrutura de diretórios e criando ambientes isolados, instalar bibliotecas de terceiros num projeto Python, entender como lidar com exceções em Python, receber dados de pessoas usuárias, assim como enviá-los de volta, ler e escrever arquivos no formato tabular `CSV`, serializar e desserializar dados no formato `JSON`, escrever testes automatizados utilizando a linguagem **Python** e verificar a ocorrência de erros esperados utilizando testes automatizados.
 
 Os requisitos dos exercícios são:
 

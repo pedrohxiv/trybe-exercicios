@@ -1,6 +1,6 @@
 # :pencil: Pilhas e Filas
 
-
+O objetivo dos exercícios desse dia foi aprender a criar estruturas de dados utilizando pilhas (_stack_, em inglês) e como essa estrutura é organizada. Também aprendi como utilizar a pilha, adicionando algumas tarefas para uma classe de pilha. Aprendi como utilizar pilhas para entender o funcionamento da chamada de funções do Python e também para a resolução de expressões matemáticas utilizando a `Notação Polonesa Reversa` (_RPN_). Para isso deveria entender o funcionamento da estrutura de dados pilha (`stack`), adicionar, remover, saber a quantidade e limpar itens de uma pilha e identificar e escolher o uso de pilhas em diferentes casos.
 
 Os requisitos dos exercícios são:
 

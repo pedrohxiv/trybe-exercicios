@@ -1,6 +1,6 @@
 # :pencil: ORM - Associations N:N e Transactions
 
-
+O objetivo dos exercícios desse dia foi focar na modelagem de relações N:N ou muitos-para-muitos, com tabelas intermediárias. Além disso vi como transações nos permitem preservar a integridade dos dados no banco, revertendo operações que não puderam ser realizadas até o final. Para isso deveria utilizar o conceito de **transações** para realizar operações atômicas no banco de dados com sequelize e utilizar o sequelize para criar **relacionamento N:N** entre tabelas.
 
 Os requisitos dos exercícios são:
 

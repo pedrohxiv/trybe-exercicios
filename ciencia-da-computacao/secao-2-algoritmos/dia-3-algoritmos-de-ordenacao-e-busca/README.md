@@ -1,6 +1,6 @@
 # :pencil: Algoritmos de ordenação e busca
 
-
+O objetivo dos exercícios desse dia foi entender o que são os **algoritmos de ordenação** e os **algoritmos de busca**. Além disso, entendi as ideias por trás desses algoritmos e realizei a implementação dos mesmos. Para isso deveria entender o que são algoritmos de busca e ordenação, implementar um algoritmo de busca, implementar um algoritmo de ordenação e escolher o melhor algoritmo para cada problema, baseando-se na sua complexidade..
 
 Os requisitos dos exercícios são:
 

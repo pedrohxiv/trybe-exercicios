@@ -1,6 +1,6 @@
 # :pencil: Arquitetura de Software: Camada Controller
 
-
+O objetivo dos exercícios desse dia foi dar continuidade nos estudos da arquitetura em camadas, entrando em detalhes de como funciona a camada **controller**, que é o portão de entrada do mundo externo para uma aplicação. Dentro dessa camada, é chamado o serviço apropriado para atender à requisição e responde de acordo com o resultado obtido. Para isso deveria identificar os componentes de software pertencentes a camada _controller_, criar testes de unidade para os componentes da camada _controller_ e construir respostas adequadas às requisições baseado nas resposta da camada Service.
 
 Os requisitos dos exercícios são:
 

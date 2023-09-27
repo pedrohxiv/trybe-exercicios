@@ -15,9 +15,11 @@ services:
       database__connection__user: root
       database__connection__password: password
       database__connection__database: ghost
+    networks:
+      - my-network
 
   db:
-    image: mysql:5.7
+    image: mysql:5.7.40
     restart: always
     environment:
       MYSQL_ROOT_PASSWORD: password

@@ -1,6 +1,6 @@
 # :pencil: Set
 
-
+O objetivo dos exercícios desse dia foi aprender sobre o **Set**. O “Conjunto” (_set_) é um conceito matemático que é muito útil na computação, uma vez que muitas entidades do mundo real podem ser modeladas como conjuntos. Relembrei o conceito e operações típicas, aplicadas a um conjunto, tanto de maneira conceitual como no código. A linguagem Python facilita muito a nossa vida ao prover métodos que implementam essas operações, porém existem linguagens que não vão ter essas operações de forma nativa. Para garantir que saberei usar conjuntos sempre que precisar, aprendi a implementar essas operações do zero. Para isso deveria compreender o conceito de _conjunto_ e suas operações básicas, representar conjuntos de três formas distintas em Python, implementar uma classe `Set` manualmente, instanciar e utilizar os métodos da classe `Set`, de Python e identificar e resolver problemas com `Set`.
 
 Os requisitos dos exercícios são:
 

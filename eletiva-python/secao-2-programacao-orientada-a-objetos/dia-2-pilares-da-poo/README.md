@@ -1,6 +1,6 @@
 # :pencil: Pilares da POO
 
-
+O objetivo dos exercícios desse dia foi aprender os **pilares da Programação Orientada a Objetos (P.O.O)**, que são: **Herança**, que é a capacidade de uma classe herdar atributos e métodos de outra classe, **Abstração**, que é a capacidade de abstrair características de um objeto do mundo real e transformá-las em atributos e métodos de uma classe, **Encapsulamento**, que é a capacidade de proteger atributos e métodos de uma classe, restringindo seu acesso a quem realmente precisa acessá-los e **Polimorfismo** que é a capacidade de implementar um método da superclasse de diferentes formas em suas subclasses, desde que se mantenha a assinatura original. Para isso deveria organizar uma aplicação Python e utilizar os conceitos de `herança`, `abstração`, `encapsulamento` e `polimorfismo` na implementação de uma aplicação.
 
 Os requisitos dos exercícios são:
 

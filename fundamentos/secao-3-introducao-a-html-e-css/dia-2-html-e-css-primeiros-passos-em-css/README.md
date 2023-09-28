@@ -10,4 +10,3 @@ Agora é hora de estilizar tudo o que você aprendeu! Com este exercício, você
 
 - Estilizar seu _Portfólio Web_ usando todo o conhecimento que você construiu hoje;
 - Atualizar seu _Portfólio Web_ no GitHub Pages.
-

@@ -1,6 +1,6 @@
 # :pencil: Server Side Rendering em Flask
 
-
+O objetivo dos exercícios desse dia foi aprender uma técnica para renderizar o Front-End chamada **Server Side Rendering**, diferente das bibliotecas Javascript React, Angular, Vue.js que renderizam do lado do cliente, ou seja, no próprio navegador. Existe a possibilidade de escrever todo arquivo HTML no servidor e, depois, encaminhar uma versão estática para o cliente. Para isso deveria compreender o conceito de Server Side Rendering, entender a diferença entre Server Side Rendering e Client Side Rendering, compreender o que é o `Jinja2`, utilizar o `Jinja2` para a criação de _templates_ e utilizar da **arquitetura MVC** para a criação de uma aplicação.
 
 Os requisitos dos exercícios são: 
 

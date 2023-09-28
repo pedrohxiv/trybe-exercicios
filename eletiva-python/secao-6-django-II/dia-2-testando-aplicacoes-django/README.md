@@ -1,6 +1,6 @@
 # :pencil: Testando aplicações Django
 
-
+O objetivo dos exercícios desse dia foi aprender sobre os **testes automatizados em Django** que servem para garantir a qualidade do código que escrevemos. Para isso deveria utilizar o Pytest em uma aplicação Django, reconhecer _fixtures_ úteis para os testes usando Django, utilizar Pytest para testar o uso do banco de dados em Django, utilizar Pytest para testar o funcionamento dos templates em Django, utilizar Pytest para testar a autenticação da aplicação em Django e utilizar Pytest para testar **C.R.U.D.s** construídos com **DRF** em Django.
 
 Os requisitos dos exercícios são:
 

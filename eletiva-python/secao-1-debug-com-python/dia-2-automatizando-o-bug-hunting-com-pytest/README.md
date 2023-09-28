@@ -1,6 +1,6 @@
 # :pencil: Automatizando o bug hunting com Pytest
 
-
+O objetivo dos exercícios desse dia foi aprender a como evitar ao máximo que o bugs, aprendido anteriormente, voltem a aparecer, por meio da construção de testes automatizados. Para isso deveria criar meus próprios testes automatizados com o módulo `doctest`, criar meus próprios testes automatizados com o módulo `pytest`, simular cenários de _bugs_ por meio de testes, executar conjuntos de testes de forma automática, utilizar _fixtures_ de testes do `pytest`, criar minhas próprias _fixtures_ de teste, criar testes parametrizados e utilizar ferramentas de depuração em conjunto com testes.
 
 Os requisitos dos exercícios são:
 

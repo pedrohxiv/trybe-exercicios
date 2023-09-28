@@ -1,6 +1,6 @@
 # :pencil: Ambiente de banco de dados e ORM
 
-
+O objetivo dos exercícios desse dia foi dar inicio ao aprendizado sobre **Django**, um framework de desenvolvimento web de alto nível, conhecido por sua eficiência, robustez e escalabilidade. Para isso deveria descrever Django como um _framework_ Python de desenvolvimento web de alto nível, eficiente, robusto e escalável, reconhecer situações em que seja mais vantajoso utilizar Django ou Flask, descrever os passos necessários para instalar o Django e criar um projeto, configurar corretamente o banco de dados MySQL com Docker, utilizando o Django, desenvolver um modelo básico com Django, utilizar alguns recursos integrados do Django para diminuir a quantidade de código necessária durante o desenvolvimento de uma aplicação e utilizar o Django Admin para criar um superusuário e gerenciar dados com o painel de administração. 
 
 Os requisitos dos exercícios são:
 

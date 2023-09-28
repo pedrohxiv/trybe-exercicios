@@ -1,6 +1,6 @@
 # :pencil: Outras ferramentas de raspagem de dados
 
-
+O objetivo dos exercícios desse dia foi dar prosseguimento no aprendizado de raspagem de dados, aprendendo outras ferramentas para extrair dados. Para isso deveria realizar requisições _web_, analisar conteúdos `HTML` a fim de extrair dados, utilizar a ferramenta `Selenium` para extrair dados e utilizar a biblioteca `Beautiful Soup` para extrair dados.
 
 Os requisitos dos exercícios são:
 

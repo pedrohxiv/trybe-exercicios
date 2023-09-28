@@ -1,6 +1,7 @@
 # :pencil: Aprofundando em Templates com Flask
 
-
+O objetivo dos exercícios desse dia foi aprofundar um pouco mais no `Jinja2`, uma ferramenta utilizada pelo Flask como seu mecanismo de template padrão. Aprofundei meu conhecimento sobre o que é o `Jinja2` e como ele opera. Explorei as classes `jinja2.Template` e `jinja2.BaseLoader`, discutindo seus propósitos e funções individuais. Discuti também algumas funções e classes utilitárias do `Jinja2` que auxilia durante o processo de desenvolvimento. Abordei o conceito de filtros customizados, incluindo o que são, como criá-los e como utilizá-los.
+Por fim, abordei o tratamento de exceções com o `Jinja2`. Para isso deveria utilizar do `Jinja2.Template` e `Jinja2.BaseLoader`, utilizar os utilitários do `Jinja2`, utilizar dos filtros customizados no `Jinja2` e realizar tratamento de exceções no `Jinja2`.
 
 Os requisitos dos exercícios são: 
 

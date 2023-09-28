@@ -1,4 +1,4 @@
-# :pencil: Testes em React-Redu
+# :pencil: Testes em React-Redux
 
 O objetivo dos exercícios desse dia foi colocar em prática o que aprendido sobre testes assíncronos com **react-redux**. Para isso deveria testar aplicações react-redux, testar aplicações react-redux com Thunk e testar aplicações que utilizam Redux e Rotas.
 

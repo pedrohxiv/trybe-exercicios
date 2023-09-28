@@ -1,6 +1,6 @@
 # :pencil: API e Testes em Flask
 
-
+O objetivo dos exercícios desse dia foi aprender os **testes no Flask**. Explorei duas bibliotecas de testes diferentes: `unittest` e `pytest`. Explorei exemplos práticos de como escrever testes no Flask usando tanto o `unittest` quanto o `pytest`. Isso me ajudou a entender as diferenças entre as duas bibliotecas e escolher a abordagem mais adequada para os meus projetos. Para isso deveria compreender o `unittest`, testar projetos Flask com `unittest`, testar projetos Flask com `Pytest` e entender a diferença entre o `Unittest` e o `Pytest`.
 
 Os requisitos dos exercícios são:
 

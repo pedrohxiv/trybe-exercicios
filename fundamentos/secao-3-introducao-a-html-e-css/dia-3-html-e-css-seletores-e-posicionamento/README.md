@@ -1,4 +1,4 @@
-# :pencil: 03: HTML & CSS - Seletores e posicionamento
+# :pencil: HTML & CSS - Seletores e posicionamento
 
 O objetivo dos exercícios desse dia foi aprender na prática como alterar o layout da página utilizando o CSS, assim como utilizar regras de seleção bem definidas para escolher exatamente o tipo de elemento que quero estilizar. Para isso deveria compreender como funciona o _Box Model_ do CSS e como os elementos da página se relacionam visualmente, posicionar elementos na página de diferentes formas e combinar e agrupar seletores de CSS para criar regras bem definidas.
 

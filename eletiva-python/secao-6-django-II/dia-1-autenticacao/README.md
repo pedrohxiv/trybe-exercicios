@@ -1,6 +1,6 @@
 # :pencil: Autenticação
 
-
+O objetivo dos exercícios desse dia foi aprender a construir uma aplicação com o _Django REST Framework_ para aprender a fazer **autenticação**! O Django oferece diversas formas de fazê-la e implementei várias delas sobre a mesma aplicação - comparando, o custo benefício de cada alternativa. Além disso, pratiquei mais com o Django REST Framework, aprendendo a criar endpoints de entidades aninhadas - para, por exemplo, criação simultânea de entidades que possuem, uma com a outra, relações obrigatórias 1:1. Para isso deveria utilizar o _Django REST Framework_ para criar endpoints com entidades aninhadas, utilizar a `BasicAuthentication` do Django, utilizar a `TokenAuthentication` do Django, utilizar o módulo `Simple JWT` para implementar autenticação no _Django REST Framework_ e comparar as várias formas de se implementar autenticação no _Django REST Framework_.
 
 Os requisitos dos exercícios são:
 

@@ -1,6 +1,6 @@
-# :pencil: Templates do Django
+# :pencil: Formulários e Relacionamento de modelos
 
-
+O objetivo dos exercícios desse dia foi aprofundar ainda mais no _framework_ **Django**. Para isso deveria criar formulários no Django e entender seu funcionamento, aplicar validação de dados de formulários, utilizar os formulários para adicionar novos registros no banco, descrever formulários de modelos, criar formulários de modelos e aplicar relacionamentos entre modelos.
 
 Os requisitos dos exercícios são:
 

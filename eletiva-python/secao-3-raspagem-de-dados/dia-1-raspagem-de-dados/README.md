@@ -1,6 +1,6 @@
 # :pencil: Raspagem de dados
 
-
+O objetivo dos exercícios desse dia foi aprender o que é **raspagem de dados** e o que podemos fazer utilizando esta técnica. Vi também como fazer requisições web, analisando suas respostas e extraindo dados. Por fim, também vi técnicas para evitar problemas com essa prática. Para isso deveria realizar requisições web, analisar conteúdos HTML para extrair dados, aplicar técnicas de raspagem para evitar problemas como bloqueio de acesso e armazenar os dados obtidos em um banco de dados.
 
 Os requisitos dos exercícios são:
 

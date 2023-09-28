@@ -1,6 +1,6 @@
 # :pencil: Ambiente e primeira API
 
-
+O objetivo dos exercícios desse dia foi começar a explorar o **Flask**, um framework web em Python que permite a criação de aplicações _web_ de forma simples e rápida. Para isso deveria compreender o framework Flask e seu funcionamento, realizar a criação de uma Rest API Web utilizando o Flask, realizar a conexão do Flask com MongoDB pelo Docker e utliziar de bibliotecas e extensões para otimizar a aplicação.
 
 Os requisitos dos exercícios são:
 

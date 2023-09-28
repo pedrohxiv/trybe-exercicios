@@ -1,6 +1,6 @@
 # :pencil: Classes abstratas, interfaces e protocolos
 
-
+O objetivo dos exercícios desse dia foi aprender os conceitos-chave na Programação Orientada a Objetos (POO) em Python, que são as **classes abstratas**, **interfaces** e **protocolos**. Classes abstratas fornecem modelos para subclasses, interfaces definem contratos de métodos e protocolos estabelecem convenções informais de implementação. Esses elementos são cruciais para estruturar código de forma eficiente e garantir a consistência e reutilização, complementando os pilares tradicionais da POO: Herança, Abstração, Encapsulamento e Polimorfismo. Para isso deveria criar interfaces formais e informais, analisar quando é necessária ou não a criação de uma classe abstrata, utilizar protocolos para tipagem estrutural, reduzir o uso de herança e acoplamento em um sistema e utilizar os conceitos solid em Python.
 
 Os requisitos dos exercícios são:
 

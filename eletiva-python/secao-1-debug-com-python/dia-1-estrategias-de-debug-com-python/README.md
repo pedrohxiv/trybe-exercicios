@@ -1,6 +1,6 @@
 # :pencil: Estratégias de debug com Python
 
-
+O objetivo dos exercícios desse dia foi aprender a utilizar a ferramenta de **depuração** do Visual Studio Code para solucionar problemas no código e tornar o processo de desenvolvimento mais eficiente. Para isso deveria utilizar a ferramenta de debug do VS Code, bem como navegar por meio dos atalhos desse depurador, configurar adequadamente o VS Code para debug com python, compreender como transitar entre a visualização padrão do código e a visualização de debug do VS Code, compreender os pontos de parada (_breakpoints_) de linha, execução linha a linha e execução por bloco de código (de _breakpoint_ para _breakpoint_) e executar estratégias de depuração como: identificar o valor de uma variável em determinado momento da execução do código, identificar a árvore de chamadas de funções e executar parcialmente um trecho de código durante o debug por meio do _Display_ do VS Code.
 
 Os requisitos dos exercícios são:
 

@@ -1,6 +1,6 @@
 # :pencil: Templates do Django
 
-
+O objetivo dos exercícios desse dia foi aprofundar um pouco mais no _framework_ **Django**. Para isso deveria criar meus próprios _templates_ do Django, utilizar a linguagem de _templates_ do Django (DTL) e seus artifícios, implementar as _views_ do Django, utilizar o sistema de rotas do Django, utilizar a herança de _templates_ do Django, utilizar outras _views_ do Django dentro dos templates.
 
 Os requisitos dos exercícios são:
 

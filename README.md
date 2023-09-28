@@ -183,6 +183,10 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [x] [_JWT - (JSON Web Token)_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/back-end/secao-6-node-js-orm-e-autenticacao/dia-4-jwt-json-web-token)
 - [x] [_Projeto - API de Blogs_](https://github.com/pedrohxiv/blogs-api)
 
+#### [Implantação de Aplicações na Nuvem](https://github.com/pedrohxiv/trybe-exercicios/tree/main/back-end/secao-7-masterclass-implantacao-de-aplicacoes-na-nuvem)
+
+- [x] [_Implantação de Aplicações na Nuvem_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/back-end/secao-7-masterclass-implantacao-de-aplicacoes-na-nuvem)
+
 #### [Introdução a TypeScript](https://github.com/pedrohxiv/trybe-exercicios/tree/main/back-end/secao-8-introducao-a-typescript)
 
 - [x] [_Introdução ao TypeScript_](https://github.com/pedrohxiv/trybe-exercicios/tree/main/back-end/secao-8-introducao-a-typescript/dia-1-introducao-ao-typescript)

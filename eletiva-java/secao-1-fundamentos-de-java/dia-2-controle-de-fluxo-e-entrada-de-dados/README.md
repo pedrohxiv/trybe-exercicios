@@ -104,7 +104,7 @@ ser similar a essa:
 
 </details>
 
-## 2 - Calcular a média das notas de uma pessoa estudante
+### 2 - Calcular a média das notas de uma pessoa estudante
 
 <details>
   <summary>Descrição</summary>
@@ -151,7 +151,7 @@ A média das notas de Carla é 9.52
 
 </details>
 
-## 3 - Realizar o controle de acesso e a emissão do relatório.
+### 3 - Realizar o controle de acesso e a emissão do relatório.
 
 <details>
   <summary>Descrição</summary>

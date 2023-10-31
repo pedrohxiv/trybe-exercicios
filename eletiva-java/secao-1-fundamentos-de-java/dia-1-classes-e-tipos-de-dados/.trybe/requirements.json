@@ -1,0 +1,36 @@
+{
+  "requirements": [
+    {
+      "bonus": false,
+      "description": "1 - Controle da Lâmpada",
+      "enabled": true,
+      "identifier": null,
+      "order": 1,
+      "skill_ids": []
+    },
+    {
+      "bonus": false,
+      "description": "2 - Monitoramento do Residente",
+      "enabled": true,
+      "identifier": null,
+      "order": 2,
+      "skill_ids": []
+    },
+    {
+      "bonus": false,
+      "description": "3 - Cálculo do IMC",
+      "enabled": true,
+      "identifier": null,
+      "order": 3,
+      "skill_ids": []
+    },
+    {
+      "bonus": false,
+      "description": "4 - Conexão à Internet",
+      "enabled": true,
+      "identifier": null,
+      "order": 4,
+      "skill_ids": []
+    }
+  ]
+}

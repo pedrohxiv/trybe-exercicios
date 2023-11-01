@@ -4,7 +4,7 @@ O objetivo dos exercícios desse dia foi aprender sobre o gerenciamento de depen
 
 Os requisitos dos exercícios são:
 
-# Conta Bancária
+## Conta Bancária - Versão Maven
 
 Verificamos que, ao utilizar a função de transferência eletrônica, outras instituições financeiras não estabelecem o mesmo formato no envio dos números das contas. Sendo assim, o desenvolvimento deste sistema tem como objetivo garantir que o formato das contas informadas pela pessoa usuária esteja de acordo com as diretrizes da nossa instituição (contas com 6 dígitos).
 

@@ -10,6 +10,9 @@ import java.util.List;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
+/**
+ * Task Service.
+ */
 @Service
 public class TaskService {
   TaskDatabaseInterface database;
@@ -24,6 +27,11 @@ public class TaskService {
     this.database = database;
   }
 
+  /**
+   * List all Tasks.
+   *
+   * @return List
+   */
   public List<TaskDto> getAllTasks() {
     List<TaskModel> tasks = database.getAllTasks();
 
@@ -36,14 +44,27 @@ public class TaskService {
     return taskDto;
   }
 
+  /**
+   * Get Task by ID.
+   *
+   * @param id String
+   * @return task
+   */
   public TaskDto getTaskById(String id) {
     TaskModel task = database.getTaskById(id);
 
     return modelToDto(task);
   }
 
+  /**
+   * Create Task.
+   *
+   * @param taskData Task Creation DTO
+   * @return String
+   */
   public String saveTask(TaskCreationDto taskData) {
-    TaskModel newTask = database.createTask(taskData.title(), taskData.description(), taskData.ownerName());
+    TaskModel newTask = database
+        .createTask(taskData.title(), taskData.description(), taskData.ownerName());
     return newTask.getId();
   }
 

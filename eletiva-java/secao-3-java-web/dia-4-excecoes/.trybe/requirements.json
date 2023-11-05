@@ -1,0 +1,44 @@
+{
+  "requirements": [
+    {
+      "bonus": false,
+      "description": "1 - Crie o endpoint GET /calculateAge",
+      "enabled": true,
+      "identifier": null,
+      "order": 1,
+      "skill_ids": []
+    },
+    {
+      "bonus": false,
+      "description": "2 - Crie um fluxo de exceção para datas futuras",
+      "enabled": true,
+      "identifier": null,
+      "order": 2,
+      "skill_ids": []
+    },
+    {
+      "bonus": false,
+      "description": "3 - Crie um fluxo de exceção para datas com formato inválido",
+      "enabled": true,
+      "identifier": null,
+      "order": 3,
+      "skill_ids": []
+    },
+    {
+      "bonus": false,
+      "description": "4 - Crie um fluxo de exceção para datas não numéricas",
+      "enabled": true,
+      "identifier": null,
+      "order": 4,
+      "skill_ids": []
+    },
+    {
+      "bonus": false,
+      "description": "5 - Implemente o retorno de um valor padrão para a idade com o query parameter orDefaultAge",
+      "enabled": true,
+      "identifier": null,
+      "order": 5,
+      "skill_ids": []
+    }
+  ]
+}
